@@ -18,6 +18,8 @@
 
 ## Decay
 
-**Spontaneous decay** \[2\]: The rate of decay is not affacted by external factors \[1\], like temperature or pressure \[1\]
+**Radioactive decay** \[2\]: Nucleus emits α-particles or β-particles or γ-radiation \[1\] <u>to form a different nucleus</u> \[1\]
+
+**Spontaneous decay** \[2\]: The rate of decay is not affacted by external factors \[1\], like temperature or pressure \[1\]  
 **Random decay**: \[1\]: Time of decay con't be predicted.
 
