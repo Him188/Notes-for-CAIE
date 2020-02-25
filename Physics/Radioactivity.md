@@ -1,1 +1,23 @@
 # Radioactivity
+
+## Rutherford's experiment
+
+| Appearance                                                                | Inference                                                                     |
+|:--------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| <u> **A few** α-particles were deviated through **angles > 90°**</u>  | <u>Nucleus is charged and containing the majority of the mass of the atom</u> |
+| <u> **Most** α-particles were deviated through small angles < 10°</u> | <u>The nucleus is very small **in comparison to the atom**</u>                |
+
+#### Why β-particle inappropriate for this experiment \[2\]
+- a range of energies
+- very small mass
+- can be deviated by orbital electrons
+
+#### Whether isotopes of gold would give rise to different deviations of a particular alpha-particle \[2\]
+- Deviation depends on the charge on the nucleus
+- They have the same charge so as to experience same deviation
+
+## Decay
+
+**Spontaneous decay** \[2\]: The rate of decay is not affacted by external factors \[1\], like temperature or pressure \[1\]
+**Random decay**: \[1\]: Time of decay con't be predicted.
+
