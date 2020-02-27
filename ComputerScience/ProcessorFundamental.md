@@ -1,6 +1,9 @@
 # Processor Fundamentals
 
 ## Buses
+> Exam:
+> - 直接要求填写各 `bus` 的作用和对性能的影响.
+> - 看表格填写各 `bus` 间的联系
 
 - **Address bus**: transmits an address between the processor and memory. (One way)
 - **Data bus**: sends data between the processor, memory and input-output devices. (Two way)
@@ -16,6 +19,7 @@
 
 **Clock rate:** (MHz/GHz) the speed at which a micro-processor execute instructions
 
+![](.ProcessorFundamental_images/3715043a.png)
 ## Registers
 
 | Abbr. | Full Name                    | Function                                                                                                          |
