@@ -22,7 +22,7 @@
 |:------|:-----------------------------|:------------------------------------------------------------------------------------------------------------------|
 | MAR   | Memory address register      | stores the address of location for read/write operation                                                           |
 | MDR   | Memory data register         | stores the data involved in read/write operation                                                                  |
-| PC*   | Program counter              | contains the location of the instruction that is to be executed next.                                             |
+| PC    | Program counter              | contains the location of the instruction that is to be executed next.                                             |
 | ACC   | Accumulator                  | (single general-purpose register) stores the result of arithmetic and logic operations performed by the processor |
 | CIR   | Current instruction register | holds the instruction that is to be executed                                                                      |
 
