@@ -1,5 +1,21 @@
 # Electricity
 
+#### Kirchhoff's laws
+\[ˈkɜrkhɔf\]
+
+`Kirchhoff's 1st law`: Sum of currents into a junction
+IS EQUAL TO
+Sum of currents out of junction
+> Kirchhoff’s 1st law is another statement of the law of
+conservation of charge
+
+`Kirchhoff's 2nd law`: Sum of e.m.f.s in a closed circuit
+IS EQUAL TO
+Sum of potential differences
+
+> Kirchhoff’s 2nd law is another statement of the law of
+conservation of energy
+
 #### Newton's laws
 
 `Newton's 1st law`: ++If a body is at rest it remains at rest or if it is in
