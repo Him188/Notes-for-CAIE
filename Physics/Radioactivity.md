@@ -8,7 +8,7 @@
 | <u> **Most** α-particles were deviated through small angles < 10°</u> | <u>The nucleus is very small **in comparison to the atom**</u>                |
 
 #### Why Apparatus enclosed in a vacuum \[1\]
-++α-particle travels short distance in air++
+**α-particle travels short distance in air**
 
 #### Why β-particle inappropriate for this experiment \[2\]
 - a range of energies

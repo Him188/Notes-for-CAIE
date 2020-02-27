@@ -6,21 +6,20 @@
 > - 直接填写各 `bus` 的作用
 > - 看表格填写各 `bus` 间的联系
 
-- **Address bus**: transmits an address between the processor and memory. **(One way)**
-- **Data bus**: sends data between the processor, memory and input-output devices. (Two way)
-- **Control Bus**: signals sent by processor to control the memory and peripheral devices. (Two way)
+- `Address bus`: transmits an address between the processor and memory. **(One way)**
+- `Data bus`: sends data between the processor, memory and input-output devices. (Two way)
+- `Control Bus`: signals sent by processor to control the memory and peripheral devices. (Two way)
 
-**Bus width**: determines maximum possible memory capacity of the system
+`Bus width`: determines maximum possible memory capacity of the system
 
-**Clock speed**: (MHz/GHz) the number of cycles that are performed by the CPU per second.
+`Clock speed`: (MHz/GHz) the number of cycles that are performed by the CPU per second.
 
 > Faster clock speed means processes of fetch, decode and execute occur faster however faster clock speed causes processor to heat up
 
-**Clock tick = Clock cycle**
+`Clock tick` = `Clock cycle`
 
-**Clock rate:** (MHz/GHz) the speed at which a micro-processor execute instructions
+`Clock rate:` (MHz/GHz) the speed at which a micro-processor execute instructions
 
-![](.ProcessorFundamental_images/3715043a.png)
 ## Registers
 
 | Abbr. | Full Name                    | Function                                                                                                          |
@@ -30,6 +29,8 @@
 | PC    | Program counter              | contains the location of the instruction that is to be executed next.                                             |
 | ACC   | Accumulator                  | (single general-purpose register) stores the result of arithmetic and logic operations performed by the processor |
 | CIR   | Current instruction register | holds the instruction that is to be executed                                                                      |
+
+![](.ProcessorFundamental_images/3715043a.png)
 
 #### How to read content
 
