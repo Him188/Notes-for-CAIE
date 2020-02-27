@@ -6,7 +6,7 @@
 > - 直接填写各 `bus` 的作用
 > - 看表格填写各 `bus` 间的联系
 
-- **Address bus**: transmits an address between the processor and memory. (One way)
+- **Address bus**: transmits an address between the processor and memory. **(One way)**
 - **Data bus**: sends data between the processor, memory and input-output devices. (Two way)
 - **Control Bus**: signals sent by processor to control the memory and peripheral devices. (Two way)
 
