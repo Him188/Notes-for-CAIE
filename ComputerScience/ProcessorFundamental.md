@@ -2,7 +2,8 @@
 
 ## Buses
 > Exam:
-> - 直接要求填写各 `bus` 的作用和对性能的影响.
+> - 直接填写 `bus width`, `clock speed` 等作用和对性能的影响
+> - 直接填写各 `bus` 的作用
 > - 看表格填写各 `bus` 间的联系
 
 - **Address bus**: transmits an address between the processor and memory. (One way)
