@@ -10,11 +10,14 @@
 - `Data bus`: sends data between the processor, memory and input-output devices. (Two way)
 - `Control Bus`: signals sent by processor to control the memory and peripheral devices. (Two way)
 
-`Bus width`: determines maximum possible memory capacity of the system
+`Bus width`: **determines the no. of bits that can be simultaneously transferred** \[1\]
 
-`Clock speed`: (MHz/GHz) the number of cycles that are performed by the CPU per second.
+> Greater bus width, greater no. of bits that can be moved at one time \[1\], hence improving processing speed as fewer transfers are needed \[1\]
 
-> Faster clock speed means processes of fetch, decode and execute occur faster however faster clock speed causes processor to heat up
+`Clock speed`: (MHz/GHz) **the no. of cycles that are performed by the CPU per second.** \[1\]
+
+> Faster clock speed means more operations executed per unit of time \[1\]  
+> however faster clock speed causes processor to heat up \[1\]
 
 `Clock tick` = `Clock cycle`
 
@@ -31,6 +34,12 @@
 | CIR   | Current instruction register | holds the instruction that is to be executed                                                                      |
 
 ![](.ProcessorFundamental_images/3715043a.png)
+
+#### Benefits of using USB \[2\]
+- It's nearly impossible to wrongly connect a device
+- supported by many operating systems
+- automatically detected and configures when attached
+- has became a industrial standard
 
 #### How to read content
 
