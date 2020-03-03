@@ -7,7 +7,7 @@
 ## Electromagnetic Waves
 `v = 3 * 10^8 m/s`
 
-`λ` = ![](.Waves_images/b32f8901.png)
+`λ` = ![](.Waves_images/fad7f092.png)
 
 ## Waves in tubes
 
