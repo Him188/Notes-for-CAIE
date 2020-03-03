@@ -4,6 +4,11 @@
 
 `Transverse wave`: vibration is perpendicular to wave movemtent
 
+## Electromagnetic Waves
+`v = 3 * 10^8 m/s`
+
+`λ` = ![](.Waves_images/b32f8901.png)
+
 ## Waves in tubes
 
 n=1, 1st harmonic  
