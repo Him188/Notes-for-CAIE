@@ -30,6 +30,9 @@ direction of force**
 body B exerts an equal but opposite force on body A,
 forming an action-reaction pair**
 
+#### Force
+`Force`: **The rate of change of momentum of a body**
+
 #### Deriving a formula for current
 
 **`I = Anvq`**  
