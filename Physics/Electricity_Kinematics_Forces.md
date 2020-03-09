@@ -40,3 +40,8 @@ where
 - `A`: cross-sectional area
 - `n`: no. of electrons per unit volume
 - `v`: average **drift velocity**
+
+### Collision
+#### Elastic collision
+> Relative speed maintains constant before and after elastic collision
+> K.E. is always conserved
