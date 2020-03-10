@@ -26,6 +26,13 @@
 **Spontaneous decay** \[2\]: The rate of decay is not affected by external factors \[1\], like temperature or pressure \[1\]  
 **Random decay**: \[1\]: Time of decay con't be predicted / The count rate from a radioactive source fluctuates
 
+#### β- decay
+`n -> p + β- + anti-neutrino`
+
+#### β+ decay
+`p -> n + β+ + neutrino`
+
+
 #### Why α-particle lose energy traveling through air
 <u>Collision with molecules </u>\[1\] <u>causes ionisation</u>\[1\]
 
