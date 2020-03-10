@@ -7,12 +7,12 @@
 > - 看表格填写各 `bus` 间的联系
 
 - `Address bus`: transmits an address between the processor and memory. **(One way)**
-- `Data bus`: sends data between the processor, memory and input-output devices. (Two way)
-- `Control Bus`: signals sent by processor to control the memory and peripheral devices. (Two way)
+- `Data bus`: carries data between the processor and memory. (Two way)
+- `Control Bus`: transmits signals between the control unit and the other components. (Two way)
 
 `Bus width`: **determines the no. of bits that can be simultaneously transferred** \[1\]
 
-> Greater bus width, greater no. of bits that can be moved at one time \[1\], hence improving processing speed as fewer transfers are needed \[1\]
+Greater bus width, **significant increase in the number of directly addressed memory locations** \[1\]
 
 `Clock speed`: (MHz/GHz) **the no. of cycles that are performed by the CPU per second.** \[1\]
 
@@ -48,6 +48,8 @@
 3. content -> MDR
 
 #### How to write content
+
+aborted
 
 1. content -> MDR
 2. address -> MAR
