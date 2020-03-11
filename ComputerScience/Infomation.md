@@ -27,12 +27,17 @@ Each character is represented by a **unique** binary number
 
 ​    `Perceptual coding`: works by reducing certain parts of a sound which are less audible to human hearing
 
-#### Difference between Lossless and Lossy\[3\]:
+#### Difference between Loss-less and Lossy\[3\]:
 
 - Lossless is designed to lost none of the original detail \[1\];
 - Lossless technique is based on some form of replacement \[1\]
 - Lossy may result in loss of detail compared to original file \[1\]
 - (take examples of file formats or compressing techniques) \[1-2\]
+
+When justifying why using lossy or loss-less, always:
+- Consider '**noticing**', e.g.: <u>some loss of quality will not be noticed</u>
+- Consider `bandwidth` requirement
+- Consider if quality or complete file is being **required**
 
 # Image
 
