@@ -13,3 +13,16 @@
 - Provides facility for outputting to the user
 - <u>By example: GUI, CLI</u>
 
+## Utility programs
+
+### Virus checker \[2\]
+- Set up a schedule for virus-checking
+- Isolate viruses
+- Scans files stored on a **computer system**
+- Regularly updates the
+
+### Backup software \[2\]
+- Create a copy of the contents of a disk automatically or manually
+- Allow users to decide what is backed up.
+- May encrypt the backup files
+- Restores data if necessary
