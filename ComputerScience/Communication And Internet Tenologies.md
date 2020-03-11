@@ -71,6 +71,12 @@
 
 # Input Devices
 
+### Internal tech of Tracker-ball mouse \[3\]
+
+The ball touches horizontal and vertical rollers  
+When the ball rotates,  
+one or both of the rollers rotate as well
+
 ### Touch screen
 
 **Capacitive**:
