@@ -4,6 +4,11 @@
 
 - Any electronic device can only read signals in 2 discrete states which are on or off, which is represented by a 1 or 0
 
+# Encoding
+
+#### How one character is represented in a character set
+Each character is represented by a **unique** binary number
+
 # Sound
 
 `Sampling`: **amplitude of sound wave taken at different points in time**
