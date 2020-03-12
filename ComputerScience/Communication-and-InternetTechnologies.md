@@ -67,6 +67,10 @@
 - **Robust**
 - Low **latency**
 
+### Purposes of RAM and ROM
+`RAM`: stores currently running parts of files
+`ROM`: stores boot up instructions
+
 ### DRAM & SRAM \[4\]:
 
 - DRAM has to be <u>refreshed</u>
