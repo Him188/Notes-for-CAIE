@@ -26,3 +26,8 @@
 - Allow users to decide what is backed up.
 - May encrypt the backup files
 - Restores data if necessary
+
+### Disk repair software \[3\]
+- **Checks** \[1\] and **resolves** \[1\] for any errors on the disk
+- Marks bad sectors on the disk
+- Retrieves files from a damaged disk
