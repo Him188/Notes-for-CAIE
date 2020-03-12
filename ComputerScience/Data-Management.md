@@ -29,7 +29,7 @@ Examples of applications: \[2\]
 ### Features of a rational database \[4\]
 Max 3 from each group
 
-- Multiply tables are linked together
+- Multiple tables are linked together
 - ..., which eliminates data redundancy
 - ... and increase data consistency
 - ..., which reduces compatibility issues
