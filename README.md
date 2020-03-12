@@ -12,7 +12,7 @@ ENJOY! 😊
 
 This repository do contain only subjects that I take, including:
 
-- [ComputerScience](ComputerScience/README.md), code 9608
+- [ComputerScience](ComputerScience/), code 9608
 - [Physics](Physics/README.md), code 9702
 
 These notes do not contain fundamental concepts, or whatever that is not so important for earning marks in the exam.
