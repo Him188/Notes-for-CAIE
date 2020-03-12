@@ -27,6 +27,17 @@ Each character is represented by a **unique** binary number
 
 ​    `Perceptual coding`: works by reducing certain parts of a sound which are less audible to human hearing
 
+#### How sound is recorded(sampled) \[3\]:
+
+- Sound wave is sampled **as regular interval**
+- Each sample is stored as a binary number
+- Samples are stored in order in a file
+
+`Using a higher sampling resolution` \[2\]:
+
+- Benefit: allows for larger dynamic range\[1\]; more accurate representation\[1\]
+- Drawback: bigger files occupies more storage; grater processing power needed\[1\]
+
 #### Difference between Loss-less and Lossy\[3\]:
 
 - Lossless is designed to lost none of the original detail \[1\];
@@ -53,6 +64,7 @@ When justifying why using lossy or loss-less, always:
 
 - Made up of pixel;
 - Each pixel has one color;
+- Each colour has an unique binary number
 - Color of each pixel stored as a binary number;
 
 #### Benefits of using Vector graphic than bitmap graphic:
@@ -71,17 +83,6 @@ When justifying why using lossy or loss-less, always:
 
 `Bit Streaming`: On-demand; Real-time
 
-#### How sound is recorded(sampled) \[3\]:
-
-- Sound wave is sampled **as regular interval**
-- Each sample is stored as a binary number
-- Samples are stored in order in a file
-
-`Using a higher sampling resolution` \[2\]:
-
-- Benefit: allows for larger dynamic range\[1\]; more accurate representation\[1\]
-- Drawback: bigger files occupies more storage; grater processing power needed\[1\]
-
 #### How it is possible to watch the video without continually pausing\[4\]:
 
 - User needs high bandwidth \[1\];
@@ -91,10 +92,10 @@ When justifying why using lossy or loss-less, always:
 #### Progressive Encoding \[2\]:
 
 - Each frame contains the **complete image**
-- All the frame data is recorded at the same time
+- All the frame data is recorded <u>at the same time</u>
 - The number of images stored is the same as the frame rate
 
-#### Interlaced Encoding\[3\]:
+#### Interlaced Encoding \[3\]:
 
 - Single frames are divided into **separate fields**:
 - One field has data for odd numbered rows, another has data for even numbered rows.
@@ -114,3 +115,5 @@ When justifying why using lossy or loss-less, always:
 
 - Identify the pixels that do not change between frames;
 - Records only the differences between frames
+
+####
