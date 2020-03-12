@@ -49,8 +49,6 @@ Greater bus width, **significant increase in the number of directly addressed me
 
 #### How to write content
 
-aborted
-
 1. content -> MDR
 2. address -> MAR
 3. Write signal sent by processor to memory

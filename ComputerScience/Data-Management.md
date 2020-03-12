@@ -25,3 +25,20 @@ Examples of applications: \[2\]
 `Table`/`Relation`: all the data about one entity
 `Record`/`Tuple`: the data in one row of a table
 `Attribute`: a column or field in a table
+
+### Features of a rational database \[4\]
+Max 3 from each group
+
+- Multiply tables are linked together
+- ..., which eliminates data redundancy
+- ... and increase data consistency
+- ..., which reduces compatibility issues
+- ... so data need only to be updated once
+- ... and associated data will be automatically updated
+- ..., which make it easier to maintain the data
+
+
+- Allows concurrent access to the data
+- ... by the use of record locking
+
+- Complex queries can be more easily written

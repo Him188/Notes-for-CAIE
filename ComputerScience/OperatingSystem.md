@@ -19,7 +19,6 @@
 - Set up a schedule for virus-checking
 - Isolate viruses
 - Scans files stored on a **computer system**
-- Regularly updates the
 
 ### Backup software \[2\]
 - Create a copy of the contents of a disk automatically or manually
