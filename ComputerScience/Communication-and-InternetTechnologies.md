@@ -55,11 +55,17 @@
 
 # Hardware
 
+### Solid-state memory \[3\]
+- no moving parts
+- non-volatile
+- make use of blocks of **semiconductors**
+- Memory cells store voltages that can represent a 0 or a 1
+
 ### Benefits of SSD than HDD\[2\]
 
-- <u>No moving parts</u> so silent
-- <u>Robust</u>
-- Low <u>latency</u>
+- **No moving parts** so silent
+- **Robust**
+- Low **latency**
 
 ### DRAM & SRAM \[4\]:
 
