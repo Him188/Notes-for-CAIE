@@ -32,6 +32,13 @@ Greater bus width, **significant increase in the number of directly addressed me
 | PC    | Program counter              | contains the location of the instruction that is to be executed next.                                             |
 | ACC   | Accumulator                  | (single general-purpose register) stores the result of arithmetic and logic operations performed by the processor |
 | CIR   | Current instruction register | holds the instruction that is to be executed                                                                      |
+| SR    | Status Register              | interpreted as independent bits; Each bit is sete depending on an event                                           |
+
+## Units
+| Abbr. | Full Name                 | Function                                     |
+|:------|:--------------------------|:---------------------------------------------|
+| ALU   | Arithmetic and Logic Unit | Performs arithmetic and logical operations   |
+| CU    | Control Unit              | send and receive signals; control operations |
 
 ![](.ProcessorFundamental_images/3715043a.png)
 
