@@ -34,7 +34,7 @@
 
 
 #### Why α-particle lose energy traveling through air
-<u>Collision with molecules </u>\[1\] <u>causes ionisation</u>\[1\]
+**Collision with molecules**\[1\] **causes ionisation**\[1\]
 
 #### Properties of β-radiation \[2\]
 - negatively charged

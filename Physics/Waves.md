@@ -32,8 +32,9 @@ n=...
 
 ![](.Waves_images/f3e95858.png)
 
-## Double-Slit Interference
-![](.Waves_images/5af99f57.png)
+## Double-slit Interference
+![](.Waves_images/5af99f57.png)  
+![](.Waves_images/ac728276.png)
 ```
 Where  
     a = split separation  
