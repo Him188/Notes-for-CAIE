@@ -15,4 +15,4 @@
 
 #### 2nd Pass
 1. Forward references are resolved
-2. Any a symbolic address is replaced by an absolute address
+2. Any symbolic address is replaced by an absolute address
