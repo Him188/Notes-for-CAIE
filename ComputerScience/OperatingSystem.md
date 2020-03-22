@@ -1,5 +1,19 @@
 # OperatingSystem
 
+## Memory management \[3\]
+- Allocates RAM to programs
+- Keep track of allocated and free memory locations
+- Swaps data to and from the hardware
+- Handles virtual memory
+- Paging
+
+## Security management \[3\]
+- Set up user accounts
+- Authentication
+- Implements access rights
+- Automatic backup
+- System roll back
+
 ## Process management
 - Manage the **scheduling** of the processes,
 - ... allows multi-tasking

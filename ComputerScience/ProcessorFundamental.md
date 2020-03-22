@@ -1,11 +1,6 @@
 # Processor Fundamentals
 
 ## Buses
-> Exam:
-> - 直接填写 `bus width`, `clock speed` 等作用和对性能的影响
-> - 直接填写各 `bus` 的作用
-> - 看表格填写各 `bus` 间的联系
-
 - `Address bus`: transmits an address between the processor and memory. **(One way)**
 - `Data bus`: carries data between the processor and memory. (Two way)
 - `Control Bus`: transmits signals between the control unit and the other components. (Two way)
@@ -24,6 +19,16 @@ Greater bus width, **significant increase in the number of directly addressed me
 `Clock rate:` (MHz/GHz) the speed at which a micro-processor execute instructions
 
 ## Registers
+
+#### Explain what is meant by register \[2\]
+- Small piece of memory
+- Part of the processor
+- Temporary storage of data
+
+#### MDR
+- Stores data when fetched from memory
+- Stores data that is being written to memory
+- The location accessed is the address held in MAR
 
 | Abbr. | Full Name                    | Function                                                                                                          |
 |:------|:-----------------------------|:------------------------------------------------------------------------------------------------------------------|
