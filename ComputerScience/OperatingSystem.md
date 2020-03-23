@@ -1,6 +1,21 @@
 # OperatingSystem
 
+## File management
+> w18 12 Q1 \[3\]
+- Spaces allocated to particular files
+- Maintains directory structures
+- Provides file naming conversions
+- Control access
+
+## Printer management
+> w18 12 Q1 \[3\]
+- Installs printer driver
+- Sends data to the printer
+- Sends command to the printer
+- Receives error messages from the printer
+
 ## Memory management \[3\]
+> w18 11
 - Allocates RAM to programs
 - Keep track of allocated and free memory locations
 - Swaps data to and from the hardware
@@ -8,6 +23,7 @@
 - Paging
 
 ## Security management \[3\]
+> w18 11
 - Set up user accounts
 - Authentication
 - Implements access rights
@@ -15,6 +31,7 @@
 - System roll back
 
 ## Process management
+> w19 11
 - Manage the **scheduling** of the processes,
 - ... allows multi-tasking
 - Manage the resources needed by the processes
@@ -44,3 +61,7 @@
 - **Checks** \[1\] and **resolves** \[1\] for any errors on the disk
 - Marks bad sectors on the disk
 - Retrieves files from a damaged disk
+
+### Firewall
+
+### File compression
