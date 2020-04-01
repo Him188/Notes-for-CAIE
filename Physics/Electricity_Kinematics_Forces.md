@@ -1,5 +1,11 @@
 # Electricity
 
+## Electric field
+
+`Electric field strength`: **Force per positive charge**
+
+## DC Circuits
+
 #### Kirchhoff's laws
 \[ˈkɜrkhɔf\]
 
