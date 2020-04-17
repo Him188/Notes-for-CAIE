@@ -36,7 +36,7 @@ direction of force**
 body B exerts an equal but opposite force on body A,
 forming an action-reaction pair**
 
-#### Force
+# Force
 `Force`: **The rate of change of momentum of a body**
 
 #### Deriving a formula for current
@@ -47,7 +47,14 @@ where
 - `n`: no. of electrons per unit volume
 - `v`: average **drift velocity**
 
-### Collision
+# Momentum
+
+#### Use the kinetic model to explain the pressure exerted by gases. \[3\] s15/22 Q4
+- Molecules collide with the wall and there is a change in momentum.
+- Change in momentum is force.
+- Many of molecular collisions over area provides pressure.
+
+## Collision
 #### Elastic collision
 > Relative speed maintains constant before and after elastic collision
 > K.E. is always conserved
