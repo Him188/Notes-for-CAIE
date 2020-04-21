@@ -48,7 +48,12 @@ Max 3 from each group
 #### Normalization
 
 ##### 1NF
-- Each table cell should contain a single value
-- Each record should be unique
+- No repeating groups
 
-TODO
+##### 2NF
+- No partial dependencies
+
+##### 3NF
+- No transitive dependencies
+
+
