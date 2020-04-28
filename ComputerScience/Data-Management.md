@@ -54,6 +54,9 @@ Max 3 from each group
 - No partial dependencies
 
 ##### 3NF
-- No transitive dependencies
+- No non-key(transitive) dependencies
+
+
+When explaining why is not in 3NF, say also `...` is dependent on `...` which is not the primary key.
 
 
