@@ -58,5 +58,4 @@ Max 3 from each group
 
 
 When explaining why is not in 3NF, say also `...` is dependent on `...` which is not the primary key.
-
-
+> s15 12 Q9

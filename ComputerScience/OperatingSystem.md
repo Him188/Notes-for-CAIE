@@ -16,6 +16,7 @@
 
 ## Memory management \[3\]
 > w18 11
+> s18 11 Q3
 - Allocates RAM to programs
 - Keep track of allocated and free memory locations
 - Swaps data to and from the hardware
@@ -24,6 +25,7 @@
 
 ## Security management \[3\]
 > w18 11
+> s18 11 Q3
 - Set up user accounts
 - Authentication
 - Implements access rights
