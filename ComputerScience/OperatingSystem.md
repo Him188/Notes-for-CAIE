@@ -14,18 +14,18 @@
 - Sends command to the printer
 - Receives error messages from the printer
 
-## Memory management \[3\]
+## Memory management
 > w18 11
-> s18 11 Q3
+> s18 11 Q3 \[3\]
 - Allocates RAM to programs
 - Keep track of allocated and free memory locations
 - Swaps data to and from the hardware
 - Handles virtual memory
 - Paging
 
-## Security management \[3\]
+## Security management
 > w18 11
-> s18 11 Q3
+> s18 11 Q3 \[3\]
 - Set up user accounts
 - Authentication
 - Implements access rights
@@ -33,7 +33,7 @@
 - System roll back
 
 ## Process management
-> w19 11
+> w19 11 \[3\]
 - Manage the **scheduling** of the processes,
 - ... allows multi-tasking
 - Manage the resources needed by the processes
