@@ -35,10 +35,10 @@
 ## Process management
 > w19 11 \[3\]
 - Manage the **scheduling** of the processes,
-- ... allows multi-tasking
+- ... allows *multi-tasking*
 - Manage the resources needed by the processes
 - Enable processes to share information
-- Prevents interference between processes
+- Prevents *interference* between processes
 
 ## Provision of a UI
 - Allows a user to **communicate** with the hardware
