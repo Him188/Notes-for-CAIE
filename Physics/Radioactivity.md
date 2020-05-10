@@ -27,11 +27,12 @@
 **Random decay**: \[1\]: Time of decay con't be predicted / The count rate from a radioactive source fluctuates
 
 #### β- decay
-`n -> p + β- + anti-neutrino`
+`n -> p + β- + anti-neutrino`  
+`udd -> uud + β- + anti-neutrino`
 
 #### β+ decay
-`p -> n + β+ + neutrino`
-
+`p -> n + β+ + neutrino`  
+`uud -> udd + β+ + neutrino`
 
 #### Why α-particle lose energy traveling through air
 **Collision with molecules**\[1\] **causes ionisation**\[1\]
