@@ -1,5 +1,7 @@
 # Electricity
 
+`Electromotive force` (`EMF`): Energy transferred from source per unit charge.
+
 ## Electric field
 
 `Electric field strength`: **Force per positive charge**
