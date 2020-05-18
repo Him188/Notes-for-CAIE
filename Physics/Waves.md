@@ -37,13 +37,13 @@ n=...
 ![](.Waves_images/ac728276.png)
 ```
 Where  
-    a = split separation  
+    a = slit separation  
     D = distance from slit to screen  
     x = fringe width
 ```
 
 ## Diffraction Grating
-![](.Waves_images/637fd248.png)
+![](.Waves_images/637fd248.png)  
 `d sin θ = nλ`
 ```
 Where d = distance between successive slits
