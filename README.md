@@ -2,17 +2,21 @@
 
 Topical notes for the Cambridge Assessment International Education.
 
-These lovely terms and answer templates that are from CAIE marking scheme and collected and categorized by me may offer you a great help.
+These lovely terms and model answer templates that are from CAIE marking scheme, collected and categorized by me may offer you a great help.
 
-Feel free to leave any comment on any file or open a issue.
+There won't be fundamental concepts(that can be learned from your teacher), or whatever not essential for earning marks in the exam.
 
-ENJOY! 😊
+The target for you who read these notes is an A* (not even A) in the real exams. You will be very possible (as I did) to achieve that if you had followed your teacher's advice and
+can **memorize** all contents in this repository.
+
+Feel free to leave any comment on any file or open an issue.
+
+ENJOY!
 
 ### Contents
 
-This repository do contain only subjects that I take, including:
+This repository contains only subjects that I take, including:
 
 - [ComputerScience](ComputerScience/), code 9608
 - [Physics](Physics/README.md), code 9702
-
-These notes do not contain fundamental concepts, or whatever that is not so important for earning marks in the exam.
+- (Edexcel) [Further Maths](FurtherMaths/), code 9231
