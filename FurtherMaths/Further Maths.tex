@@ -1,5 +1,5 @@
 \documentclass[a4paper,9pt]{scrartcl}
-\usepackage[ngerman]{babel}
+\usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amssymb,amsmath}
 \usepackage{geometry}
@@ -16,14 +16,7 @@
 %\usepackage{fontspec}
 %\setmainfont{JetBrains Mono}
 
-
 \begin{document}
-    \maketitle
-    \tableofcontents
-
-    \parindent
-
-
     \section{Summation of Series}\label{sec:summation-of-series}
 
     \begin{alignat*}{2}
@@ -31,10 +24,6 @@
         &\sum_{x=0}^{n}x^2  &= \frac{n(n+1)(2n+1)}{6} \\
         &\sum_{x=0}^{n}x^3  &= \frac{n^2(n+1)^2}{4}
     \end{alignat*}
-
-    \begin{displaymath}
-        \frac{d\left(e^\left(\sqrt{p}dx\right)y\right)}{dx} = e^{\int{p}dx} Q
-    \end{displaymath}
 
 
     \section{Complex Numbers}\label{sec:complex-numbers}
@@ -61,7 +50,9 @@
         \end{pmatrix}$
     \end{itemize}
 
-    \subsubsection{Example 1}\label{subsubsec:example-1}
+    \subsection{Transformations}
+
+    \subsubsection{Example 1}
     Find the transformation $w = \frac{1}{z}, z != 0$, find the locus of $w$ when $z$ lies on the line with equation $y = 2x + 1$
 
     \begin{displaymath}
@@ -69,7 +60,7 @@
     \end{displaymath}
 
 
-    \section{Differentiation}\label{sec:differentiation}
+    \section{Differentiation}
 
     \subsection{First order differentiation}
 
@@ -77,17 +68,17 @@
         f(x) \frac{dy}{dx} + f'(x) y = \frac{d(f(x) y )}{dx}
     \end{displaymath}
 
-    \begin{displaymath}
-        \int \frac{f'(x)}{f(x)} dx = \ln(f(x))
-    \end{displaymath}
-
-    Integration factor: $\boxed{e^{\int{p}dx}}$
+    \textbf{Integration factor}: $\boxed{e^{\int{p}dx}}$
 
     \begin{displaymath}
         \frac{dy}{dx}+py=Q \rightrightarrows \frac{d(\boxed{e^{\int{p}dx}}y)}{dx} = \boxed{e^{\int{p}dx}} Q
     \end{displaymath}
 
     \subsection{Appendix: Formulas of Integration and Differentiation}
+
+    \begin{displaymath}
+        \int \frac{f'(x)}{f(x)} dx = \ln(f(x))
+    \end{displaymath}
 
     \begin{displaymath}
         \int{\tan{x}\sin{x}}dx = \sec{x} + C
@@ -98,11 +89,11 @@
     \end{displaymath}
 
     \begin{displaymath}
-        \int{\sec{x}}dx = \ln{\sex{x} + \tan{x}} + C
+        \int{\sec{x}}dx = \ln{(\sec{x} + \tan{x})} + C
     \end{displaymath}
 
     \begin{displaymath}
-        \int{\csc{x}}dx = -\ln({\csc{x} + \cot{x}}) + C
+        \int{\csc{x}}dx = -(\ln{\csc{x} + \cot{x}}) + C
     \end{displaymath}
 
 
