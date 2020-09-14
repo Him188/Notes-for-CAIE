@@ -74,6 +74,53 @@
         \frac{dy}{dx}+py=Q \rightrightarrows \frac{d(\boxed{e^{\int{p}dx}}y)}{dx} = \boxed{e^{\int{p}dx}} Q
     \end{displaymath}
 
+    \subsection{Second order differentiation}
+
+    \begin{displaymath}
+        a\frac{d^{2}y}{dx^2} + b\frac{dy}{dx} + cy = 0
+    \end{displaymath}
+
+    \subsubsection{Auxiliary equation}
+    \begin{displaymath}
+        am^2 + bm + c = 0
+    \end{displaymath}
+
+    \textbf{If $\Delta > 0$, it has two distinct roots $\alpha$, $\beta$.}
+    General solution:
+    \begin{displaymath}
+        y = Ae^{{\alpha}x} + Be^{{\beta}x}
+    \end{displaymath}
+
+    \textbf{If $\Delta = 0$, it has two repeated roots.}
+    General solution:
+    \begin{displaymath}
+        y = (A+Bx)e^{{\alpha}x}
+    \end{displaymath}
+
+    \textbf{If $\Delta < 0$, it has two complex roots, $p + qi$ and $p - qi$. }
+    General solution:
+    \begin{displaymath}
+        y = e^{px}(A\cos{qx}+B\sin{qx})
+    \end{displaymath}
+
+    \subsubsection{Example for finding a general solution for Second order differentiation}
+
+    \begin{displaymath}
+        \frac{d^{2}y}{dx^2} + 5\frac{dy}{dx} + 6y = 0
+    \end{displaymath}
+    \begin{displaymath}
+        a = 1, b = 5, c = 6
+    \end{displaymath}
+    \begin{displaymath}
+        m^2 + 5m + 6 = 0
+    \end{displaymath}
+    \begin{displaymath}
+        m = -2 or m = -3
+    \end{displaymath}
+    \begin{displaymath}
+        y = Ae^{-2x}+Be^{-3x}
+    \end{displaymath}
+
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
     \begin{displaymath}
