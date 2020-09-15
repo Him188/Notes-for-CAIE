@@ -7,6 +7,7 @@
 
 \title{Further Maths}
 
+\usepackage{multirow}
 \usepackage{lipsum}
 \usepackage{ctex}
 \usepackage{enumerate}
@@ -27,8 +28,6 @@
 
 
     \section{Complex Numbers}\label{sec:complex-numbers}
-
-    \parindent
 
     \begin{itemize}
         \item [1)] Translation
@@ -135,17 +134,37 @@
 
     \begin{displaymath}
         \frac{d^{2}y}{dx^2} -8\frac{dy}{dx} + 12y = 36x
-    \end{displaymath}
-    \textbf{Step 1. State CF and PI}:
-    CF: $y = Ae^{2x}+Be^{6x}$\\
-    PI: $y = {\lambda}x + \mu$
+    \end{displaymath} \\
+    \begin{itemize}
+        \item [Step 1.] State CF and PI\\
+        CF: $y = Ae^{2x}+Be^{6x}$\\
+        PI: $y = {\lambda}x + \mu$\\
 
-    \textbf{Step 2. Differentiate PI}:
-    $\frac{d^{2}y}{dx^2} = \lambda$\\
-    $\frac{dy}{dx} = 0$
+        \item [Step 2.] Differentiate PI\\
+        Obtain: \\
+        \begin{displaymath}
+            \frac{d^{2}y}{dx^2} = \lambda
+        \end{displaymath}
+        \begin{displaymath}
+            \frac{dy}{dx} = 0
+        \end{displaymath}
 
-    \textbf{Step 3. Substitute $\frac{d^{2}y}{dx^2}$, $\frac{dy}{dx}$, $y$ into the differentiation equation.}
-    Then find $\lambda$ and $\mu$.
+        \item [Step 3.] Substitute $\frac{d^{2}y}{dx^2}$, $\frac{dy}{dx}$, $y$ into the differentiation equation.\\
+        Then find $\lambda$ and $\mu$.
+    \end{itemize}
+
+    \subsection{Appendix: Particular Integrals}
+    \begin{tabular}{|c|c|c|}
+        \hline $f(x)$         & Particular integral                                  \\
+        \hline $k$            & $\lambda$                                            \\
+        \hline $ax+b$         & ${\lambda}x+\mu$                                     \\
+        \hline $ax^2+bx+c$    & ${\lambda}x^2+{\mu}x+\gamma$                         \\
+        \hline $ae^{kx}$      & ${\lambda}e^{kx}$                                    \\
+        \hline $a\sin{kx}$    & \multirow{3}{*}{${\lambda}\sin{kx}+{\mu}{\cos{kx}}$} \\
+        $a\sin{kx}$           &                                                      \\
+        $a\sin{kx}+b\cos{kx}$ &                                                      \\
+        \hline
+    \end{tabular}
 
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
