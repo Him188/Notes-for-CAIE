@@ -5,20 +5,20 @@ Circular Motion
 
 1. `angular velocity`: *Angular displacement swept out by radius, per unit time.*
 
-Orbitiing the earth
--------------------
+Gravitational Fields
+--------------------
 - `geostationary orbit`: *equatorial orbit* ***from west to east***
+4. `Newton's law of gravitation`:
+   - *(gravitational) force proportional to product of masses and inversely proportional
+to square of separation*
+   - *on any particle*
 
-Gravitational Fields & Electric Fields
---------------------------------------
+Electric Fields
+---------------
 
 1. `A field of force`: *Region of space where a particle experiences a force*
 2. `A line of force in a gravitational field`: *Tangent to line gives direction of force on a mass*
 3. `A line of force in a electric field`: *Tangent to line gives direction of force on a positive charge*
-4. `Newton's law of gravitation`:
-   - *(gravitational) force proportional to product of masses and inversely proportional
-to square of separation*
-   - 
 
 Capacitors
 ----------
