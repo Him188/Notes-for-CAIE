@@ -7,6 +7,8 @@ Circular Motion
 
 Gravitational Fields
 --------------------
+- `potential difference` at a point:
+  - *work doen bringing unit wa
 - `geostationary orbit`: *equatorial orbit* ***from west to east***
 4. `Newton's law of gravitation`:
    - *(gravitational) force proportional to product of masses and inversely proportional
