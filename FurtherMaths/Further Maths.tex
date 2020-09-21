@@ -166,6 +166,36 @@
         \hline
     \end{tabular}
 
+
+    \section{Maclaurin and Taylor series}
+
+    \subsection{Maclaurin expansion}
+
+    \begin{displaymath}
+        f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \frac{f^{r}(0)}{r!}x^r + \dots
+    \end{displaymath}
+
+    \subsubsection{Provided expansions}
+    \begin{displaymath}
+        e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \dots
+    \end{displaymath}
+
+    \begin{displaymath}
+        \sin{x} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots
+    \end{displaymath}
+
+    \begin{displaymath}
+        \cos{x} = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots
+    \end{displaymath}
+
+    \begin{displaymath}
+        \ln{(1+x)} = x - \frac{x^2}{2} + \frac{x^3}{3} - \frac{x^4}{4} + \dots, -1 < x < 1
+    \end{displaymath}
+
+    \begin{displaymath}
+        (1+x)^n = 1+nx+\frac{n(n-1)}{2!}x^2 + \dots, -1 < x < 1
+    \end{displaymath}
+
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
     \begin{displaymath}
@@ -187,8 +217,13 @@
     \begin{displaymath}
         \int{\csc{x}}dx = -(\ln{\csc{x} + \cot{x}}) + C
     \end{displaymath}
+
     \begin{displaymath}
-        \int{\csc{x}}dx = -(\ln{\csc{x} + \cot{x}}) + C
+        \frac{d}{dx}(\sec{x}) = \sec{x}\tan{x}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \frac{d}{dx}(\tan{x}) = \sec^2{x}
     \end{displaymath}
 
 \end{document}
