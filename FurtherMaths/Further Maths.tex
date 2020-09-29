@@ -230,41 +230,41 @@
     \section{Polar Coordinates}
 
     \subsection{Sketching Graphs in Polar Coordinates}
-
-    \newcommand{drawpolar}{\tikz \datavisualization [scientific polar axes={0 to pi, clean}, all axes=grid,
-    style sheet=vary hue, legend=below]
-    [visualize as smooth line=sin,
-    sin={label in legend={text=$1+\sin \alpha$}}]
-    data [format=function] {
-    var angle : interval [0:pi];
-    func radius = sin(\value{angle}r) + 1;
-    }
-    [visualize as smooth line=cos,
-    cos={label in legend={text=$1+\cos\alpha$}}]
-    data [format=function] {
-    var angle : interval [0:pi];
-    func radius = cos(\value{angle}r) + 1;
-    };}
-
-    \begin{itemize}
-        \item[$r=a$] a circle with $C(0, 0)$ and $radius = a$
-        \tikz \datavisualization [scientific polar axes={0 to pi, clean}, all axes=grid,
-        style sheet=vary hue, legend=below]
-        [visualize as smooth line=sin,
-        sin={label in legend={text=$1+\sin \alpha$}}]
-        data [format=function] {
-        var angle : interval [0:pi];
-        func radius = sin(\value{angle}r) + 1;
-        }
-        [visualize as smooth line=cos,
-        cos={label in legend={text=$1+\cos\alpha$}}]
-        data [format=function] {
-        var angle : interval [0:pi];
-        func radius = cos(\value{angle}r) + 1;
-        };
-        \item[$\theta=a$] a half-line with \textit{x-axis}(initial line) and the angle is a
-        \item[$r=a\thera$] a spiral starting from $O$
-    \end{itemize}
+%
+%    \newcommand{drawpolar}{\tikz \datavisualization [scientific polar axes={0 to pi, clean}, all axes=grid,
+%    style sheet=vary hue, legend=below]
+%    [visualize as smooth line=sin,
+%    sin={label in legend={text=$1+\sin \alpha$}}]
+%    data [format=function] {
+%    var angle : interval [0:pi];
+%    func radius = sin(\value{angle}r) + 1;
+%    }
+%    [visualize as smooth line=cos,
+%    cos={label in legend={text=$1+\cos\alpha$}}]
+%    data [format=function] {
+%    var angle : interval [0:pi];
+%    func radius = cos(\value{angle}r) + 1;
+%    };}
+%
+%    \begin{itemize}
+%        \item[$r=a$] a circle with $C(0, 0)$ and $radius = a$
+%        \tikz \datavisualization [scientific polar axes={0 to pi, clean}, all axes=grid,
+%        style sheet=vary hue, legend=below]
+%        [visualize as smooth line=sin,
+%        sin={label in legend={text=$1+\sin \alpha$}}]
+%        data [format=function] {
+%        var angle : interval [0:pi];
+%        func radius = sin(\value{angle}r) + 1;
+%        }
+%        [visualize as smooth line=cos,
+%        cos={label in legend={text=$1+\cos\alpha$}}]
+%        data [format=function] {
+%        var angle : interval [0:pi];
+%        func radius = cos(\value{angle}r) + 1;
+%        };
+%        \item[$\theta=a$] a half-line with \textit{x-axis}(initial line) and the angle is a
+%        \item[$r=a\thera$] a spiral starting from $O$
+%    \end{itemize}
 
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
