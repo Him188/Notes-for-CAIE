@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="FurtherMaths" type="LATEX_RUN_CONFIGURATION"
+                   factoryName="LaTeX configuration factory">
+        <texify>
+            <compiler>XELATEX</compiler>
+            <compiler-path>E:\texlive\2020\bin\win32\xelatex.exe</compiler-path>
+            <sumatra-path/>
+            <viewer-command/>
+            <compiler-arguments/>
+            <envs/>
+            <main-file>$PROJECT_DIR$/FurtherMaths/Further Maths.tex</main-file>
+            <output-path>$PROJECT_DIR$/FurtherMaths</output-path>
+            <auxil-path/>
+            <compile-twice>false</compile-twice>
+            <output-format>PDF</output-format>
+            <latex-distribution>TEXLIVE</latex-distribution>
+            <has-been-run>true</has-been-run>
+            <bib-run-config>[]</bib-run-config>
+            <makeindex-run-config/>
+        </texify>
+        <method v="2"/>
+    </configuration>
+</component>
