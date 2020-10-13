@@ -8,7 +8,7 @@ Circular Motion
 Gravitational Fields
 --------------------
 - `potential difference` at a point:
-  - *work doen bringing unit wa
+  - *work done bringing unit wa
 - `geostationary orbit`: *equatorial orbit* ***from west to east***
 4. `Newton's law of gravitation`:
    - *(gravitational) force proportional to product of masses and inversely proportional
@@ -25,7 +25,15 @@ Electric Fields
 Capacitors
 ----------
 
-1. `Capacitance`: *The ratio of charge on one plate to the potential difference between plates. *
+### Define `capacitance`
+- `C = Q/V`
+- (explain `Q` and `V`)
+
+### Why capacitors store energy \[2\]
+- On a capacitor, there's charge separation.
+- To separate charges, work must be done.
+
+1. `Capacitance`: **
 
 Oscillations
 ------------
