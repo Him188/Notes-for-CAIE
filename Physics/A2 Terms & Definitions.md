@@ -3,7 +3,17 @@
 Circular Motion
 ---------------
 
-1. `angular velocity`: *Angular displacement swept out by radius, per unit time.*
+#### Define `radian` \[2\]
+- *Angle subtended at the centre of circle*,
+- *by an arc equal in length to the radius of the circle.*
+
+#### What is meant by `angular velocity` \[2\]
+
+For all contexts,
+- *Angular displacement swept out by radius, per unit time.*
+
+For some contexts:
+- *by the string*
 
 Gravitational Fields
 --------------------
