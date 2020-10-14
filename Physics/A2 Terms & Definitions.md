@@ -35,15 +35,28 @@ Electric Fields
 Capacitors
 ----------
 
-### Define `capacitance`
-- `C = Q/V`
-- (explain `Q` and `V`)
+### Define `capacitance` \[2\]
 
-### Why capacitors store energy \[2\]
+- `C = Q/V`
+- Ratio of charge and its potential
+
+### Why capacitors store energy \[3\]
+> It's suggested to remember and write them all as questions varies.
+
+- Charge on plates are equal and opposite,
+- ... so no resultant charge.
 - On a capacitor, there's charge separation.
 - To separate charges, work must be done.
 
-1. `Capacitance`: **
+### Why `Q = CV` is not applicable to a plastic sphere \[3\]
+- Plastic is an insulator,
+- charges don't move,
+- so charge can't be considered at the centre.
+
+### Functionality of capacitors \[2\]
+- Store energy
+- Block direct current
+- Smoothing
 
 Oscillations
 ------------
