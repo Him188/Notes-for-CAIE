@@ -9,14 +9,15 @@ Circular Motion
 
 #### What is meant by `angular velocity` \[2\]
 
-For all contexts,
+For all contexts, \[1\]
 - *Angular displacement swept out by radius, per unit time.*
 
-For some contexts:
+For some contexts, another \[1\]
 - *by the string*
 
-Gravitational Fields
---------------------
+Gravitation, Electromagnetism
+-----------------------------
+
 - `potential difference` at a point:
   - *work done bringing unit wa
 - `geostationary orbit`: *equatorial orbit* ***from west to east***
@@ -25,12 +26,14 @@ Gravitational Fields
 to square of separation*
    - *on any particle*
 
-Electric Fields
----------------
 
 1. `A field of force`: *Region of space where a particle experiences a force*
 2. `A line of force in a gravitational field`: *Tangent to line gives direction of force on a mass*
 3. `A line of force in a electric field`: *Tangent to line gives direction of force on a positive charge*
+
+### What is meant by `electric potential` at a point \[2\]
+- Work done in moving unit positive charge
+- ... from infinity *to the point*
 
 Capacitors
 ----------
