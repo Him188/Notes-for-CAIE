@@ -18,18 +18,18 @@ For some contexts, another \[1\]
 Gravitation, Electromagnetism
 -----------------------------
 
-- `potential difference` at a point:
-  - *work done bringing unit wa
-- `geostationary orbit`: *equatorial orbit* ***from west to east***
-4. `Newton's law of gravitation`:
-   - *(gravitational) force proportional to product of masses and inversely proportional
-to square of separation*
-   - *on any particle*
+### State `Newton's third law of motion` \[1\]
 
+*When two bodies interact, force on one body is equal but opposite in direction to force on the other body.*
 
-1. `A field of force`: *Region of space where a particle experiences a force*
-2. `A line of force in a gravitational field`: *Tangent to line gives direction of force on a mass*
-3. `A line of force in a electric field`: *Tangent to line gives direction of force on a positive charge*
+### State `Faraday's law of electromagnetic induction` \[2\]
+- Induced e.m.f is proportional to rate of change of
+- ... magnetic flux linkage.
+
+### Define `tesla` \[3\]
+- Field normal to wire carrying current of 1A
+- giving force per unit length of 1 T.
+- Unit of magnetic flux density (for the third mark)
 
 ### What is meant by `electric potential` at a point \[2\]
 - Work done in moving unit positive charge
