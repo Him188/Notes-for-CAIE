@@ -64,5 +64,40 @@ Capacitors
 Oscillations
 ------------
 
-1. `Oscillation`: *Backward and forward motion between two limits*
-2. `SimpleHarmonic motion` (`SHM`): *Motion of an oscillator in which its **acceleration is directly proportional to its displacement** from its equilibrium position and **is directed towards that position**.*
+### Why peak frequency `f0` in `a-f` graphs \[2\]
+
+- `f0` is at natual frequency of system,
+- this is at driver frequency.
+
+### Define `Simple Harmonic Motion` \[2\]
+
+- *Acceleration proportional to displacement*
+- ... *and directed towards a fixed point.*
+
+### Define `oscillations` \[1\]
+- Backward and forward motion between two limits.
+
+### Define `free oscillations` \[1\]
+- Oscillations without *external* forces
+
+### What is meant by `damping` \[2\]
+- *continuous loss of energy*,
+- *caused by force acting in opposite direction to the motion*
+
+### `Damping` for oscillating Magnet with coils \[5\]
+> The magnet oscillates and interacts with a coil, causing magnetic induction hence damping.
+
+- Oscillations are damped.
+- Coil cuts magnetic **flux** as (magnet/coil) moves,
+- current **induced** in the coil,
+- current **dissipates** energy,
+- so the energy of the system loss.
+- Force opposes motion of magnet
+
+### Benefits and drawbacks of `resonance` \[2\]
+
+#### Benefits \[1\]
+- *microwave oven heating*
+
+#### Drawbacks \[1\]
+- *vibrating bridges*
