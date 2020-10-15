@@ -19,6 +19,13 @@
 
 \usetikzlibrary{datavisualization.polar}
 
+\pgfplotsset{compat=newest}
+
+% define the plot style and the axis style
+\tikzset{elegant/.style={smooth,thick,samples=50,magenta}}
+
+\pgfplotsset{compat=1.8}
+
 %\usepackage{geometry}
 %\usepackage[utf8]{inputenc}
 %\usepackage[T1]{fontenc}
@@ -294,6 +301,70 @@
         \item For tangent parallel to initial line, $\frac{dy}{dx} = 0$, hence $\frac{dy}{d\theta} = 0$.
         \item For tangent perpendicular to initial line, $\frac{dy}{dx}$ is undefined, hence $\frac{dx}{d\theta} = 0$
     \end{itemize}
+
+
+    \section{Hyperbolic Functions}
+    \begin{displaymath}
+        \sinh{x} = \frac{e^x - e^{-x}}{2}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \cosh{x} = \frac{e^x + e^{-x}}{2}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \tanh{x} = \frac{e^x - e^{-x}}{e^x + e^{-x}}
+    \end{displaymath}
+
+    \begin{tikzpicture}
+        \begin{axis}[
+        scale = 0.5,
+        xlabel={$x$},
+        ylabel={$y$},
+        axis lines=middle,
+        samples=400,
+        grid, thick, smooth,
+        domain=- 3:3,
+        legend pos=outer north east,
+        ]
+            \addplot+[no marks]{sinh(x)};
+            \addlegendentry{$y = \sinh{x}$}
+            \addplot+[no marks]{cosh(x)};
+            \addlegendentry{$y = \cosh{x}$}
+            \addplot+[no marks]{tanh(x)};
+            \addlegendentry{$y = \tanh{x}$}
+
+            \addplot+[no marks]{sinh(x)};
+        \end{axis}
+    \end{tikzpicture}
+
+    \begin{displaymath}
+        \sinh^{-1}{x} = \ln{x + \sqrt{x^2 + 1}}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \cosh^{-1}{x} = \ln{x \pm \sqrt{x^2 - 1}}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \tanh^{-1}{x} = \frac{1}{2}\ln{\frac{1 + x}{1 - x}}
+    \end{displaymath}
+
+    \begin{tikzpicture}
+        \begin{axis}[
+        scale = 0.5,
+        xlabel={$x$},
+        ylabel={$y$},
+        axis lines=middle,
+        samples=400,
+        grid, thick, smooth,
+        domain=- 3:3,
+        legend pos=outer north east,
+        ]
+            \addplot+[no marks]{ln( x + sqrt(x^2 +1))};
+            \addlegendentry{$y = \sinh^{-1}{x}$}
+        \end{axis}
+    \end{tikzpicture}
 
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
