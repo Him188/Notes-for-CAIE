@@ -18,6 +18,10 @@ For some contexts, another \[1\]
 Gravitation, Electromagnetism
 -----------------------------
 
+### What is meant by a `magnetic field`
+- Region of space where there is a force
+- ... acting on moving charge.
+
 ### State `Newton's third law of motion` \[1\]
 
 *When two bodies interact, force on one body is equal but opposite in direction to force on the other body.*
@@ -27,13 +31,15 @@ Gravitation, Electromagnetism
 - ... magnetic flux linkage.
 
 ### Define `tesla` \[3\]
-- Field normal to wire carrying current of 1A
-- giving force per unit length of 1 T.
-- Unit of magnetic flux density (for the third mark)
+- Flux normal to long straight wire carrying a current of 1A
+- creates force per unit length of 1 N/m.
 
 ### What is meant by `electric potential` at a point \[2\]
 - Work done in moving unit positive charge
 - ... from infinity *to the point*
+
+### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
+- `VH` depends on **the sine of** angle between (plane of) probe and B-field.
 
 Capacitors
 ----------
