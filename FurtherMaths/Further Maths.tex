@@ -333,21 +333,39 @@
             \addlegendentry{$y = \cosh{x}$}
             \addplot+[no marks]{tanh(x)};
             \addlegendentry{$y = \tanh{x}$}
+        \end{axis}
+    \end{tikzpicture}
 
-            \addplot+[no marks]{sinh(x)};
+    \begin{tikzpicture}
+        \begin{axis}[
+        scale = 0.5,
+        xlabel={$x$},
+        ylabel={$y$},
+        axis lines=middle,
+        samples=200,
+        grid, thick, smooth,
+        domain=- 0.5:0.5,
+        legend pos=outer north east,
+        ]
+            \addplot+[no marks]{1 / sinh(x)};
+            \addlegendentry{$y = \csch{x}$}
+            \addplot+[no marks]{1 / cosh(x)};
+            \addlegendentry{$y = \sech{x}$}
+            \addplot+[no marks]{1 / tanh(x)};
+            \addlegendentry{$y = \coth{x}$}
         \end{axis}
     \end{tikzpicture}
 
     \begin{displaymath}
-        \sinh^{-1}{x} = \ln{x + \sqrt{x^2 + 1}}
+        \sinh^{-1}{x} = \ln{(x + \sqrt{x^2 + 1})}
     \end{displaymath}
 
     \begin{displaymath}
-        \cosh^{-1}{x} = \ln{x \pm \sqrt{x^2 - 1}}
+        \cosh^{-1}{x} = \ln{(x \pm \sqrt{x^2 - 1})}
     \end{displaymath}
 
     \begin{displaymath}
-        \tanh^{-1}{x} = \frac{1}{2}\ln{\frac{1 + x}{1 - x}}
+        \tanh^{-1}{x} = \frac{1}{2}\ln{(\frac{1 + x}{1 - x})}
     \end{displaymath}
 
     \begin{tikzpicture}
@@ -363,6 +381,39 @@
         ]
             \addplot+[no marks]{ln( x + sqrt(x^2 +1))};
             \addlegendentry{$y = \sinh^{-1}{x}$}
+        \end{axis}
+    \end{tikzpicture}
+
+    \begin{tikzpicture}
+        \begin{axis}[
+        scale = 0.5,
+        xlabel={$x$},
+        ylabel={$y$},
+        axis lines=middle,
+        samples=400,
+        grid, thick, smooth,
+        domain=- 3:3,
+        legend pos=outer north east,
+        ]
+            \addplot+[no marks]{ln( x + sqrt(x^2 -1))};
+            \addplot+[no marks]{ln( x - sqrt(x^2 -1))};
+            \addlegendentry{$y = \cosh^{-1}{x}$}
+        \end{axis}
+    \end{tikzpicture}
+
+    \begin{tikzpicture}
+        \begin{axis}[
+        scale = 0.5,
+        xlabel={$x$},
+        ylabel={$y$},
+        axis lines=middle,
+        samples=400,
+        grid, thick, smooth,
+        domain=- 3:3,
+        legend pos=outer north east,
+        ]
+            \addplot+[no marks]{0.5*ln( (1+x)/(1-x))};
+            \addlegendentry{$y = \tanh^{-1}{x}$}
         \end{axis}
     \end{tikzpicture}
 
