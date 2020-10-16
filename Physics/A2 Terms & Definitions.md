@@ -15,7 +15,24 @@ For all contexts, \[1\]
 For some contexts, another \[1\]
 - *by the string*
 
-Gravitation, Electromagnetism
+
+Gravitation
+-----------
+
+### Define `gravitational potential` at a point \[2\]
+- *Work down in bringing unit mass*
+- ... *from infinity to the point*
+
+### What is meant by a `gravitational field` \[2\]
+- *Region of space area*
+- ... *where a mass experiences a force*
+
+### State `Newton's law of gravitation` \[2\] / \[3\]
+- ***Force proportional to product of masses***
+- ***Force inversely proportional to square of separation***
+- (For 3rd mark: reference to point masses or separation >> 'size' of masses.)
+
+Electromagnetism
 -----------------------------
 
 ### What is meant by a `magnetic field`
