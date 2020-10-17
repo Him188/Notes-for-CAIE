@@ -3,11 +3,11 @@
 Circular Motion
 ---------------
 
-#### Define `radian` \[2\]
+### Define `radian` \[2\]
 - *Angle subtended at the centre of circle*,
 - ... *by an arc equal in length to the radius of the circle.*
 
-#### What is meant by `angular velocity` \[2\]
+### What is meant by `angular velocity` \[2\]
 
 For all contexts, \[1\]
 - *Angular displacement swept out by radius, per unit time*
@@ -86,7 +86,7 @@ Capacitance
 ### Functionality of capacitors \[2\]
 - Store energy
 - Block direct current
-- Smoothing
+- *Smoothing*
 
 Oscillations
 ------------
@@ -102,10 +102,10 @@ Oscillations
 - ... *and directed towards a fixed point.*
 
 ### Define `oscillations` \[1\]
-- Backward and forward motion between two limits.
+- *Backward and forward motion **between two limits***.
 
 ### Define `free oscillations` \[1\]
-- Oscillations without *external* forces
+- *Oscillations without **external** forces*
 
 ### What is meant by `damping` \[2\]
 - *continuous loss of energy*,
@@ -114,12 +114,12 @@ Oscillations
 ### `Damping` for oscillating Magnet with coils \[5\]
 > The magnet oscillates and interacts with a coil, causing magnetic induction hence damping.
 
-- Oscillations are damped.
+- Oscillations are **damped**.
 - Coil cuts magnetic **flux** as (magnet/coil) moves,
 - current **induced** in the coil,
 - current **dissipates** energy,
 - so the energy of the system loss.
-- Force opposes motion of magnet
+- Force **opposes** motion of magnet
 
 ### Benefits and drawbacks of `resonance` \[2\]
 
