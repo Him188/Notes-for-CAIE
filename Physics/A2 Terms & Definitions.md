@@ -5,15 +5,15 @@ Circular Motion
 
 #### Define `radian` \[2\]
 - *Angle subtended at the centre of circle*,
-- *by an arc equal in length to the radius of the circle.*
+- ... *by an arc equal in length to the radius of the circle.*
 
 #### What is meant by `angular velocity` \[2\]
 
 For all contexts, \[1\]
-- *Angular displacement swept out by radius, per unit time.*
+- *Angular displacement swept out by radius, per unit time*
 
 For some contexts, another \[1\]
-- *by the string*
+- ..., *by the string*
 
 Gravitation, Electromagnetism
 -----------------------------
@@ -41,8 +41,12 @@ Gravitation, Electromagnetism
 ### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
 - `VH` depends on **the sine of** angle between (plane of) probe and B-field.
 
-Capacitors
-----------
+### Why induced e.m.f. alternating \[2\]
+- (Lenz) E.m.f opposes change causing it
+- As direction of movement changes, so does e.m.f.
+
+Capacitance
+-----------
 
 ### Define `capacitance` \[2\]
 
