@@ -16,4 +16,4 @@ This repository contains only subjects that I take, including:
 
 - [ComputerScience](ComputerScience/), code 9608
 - [Physics](Physics/README.md), code 9702
-- (Edexcel) [Further Maths](FurtherMaths/), code 9231
+- (Edexcel) [Further Maths](FurtherMaths/), code 6667, 6668, 6669
