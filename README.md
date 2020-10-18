@@ -1,6 +1,6 @@
 # Notes
 
-Topical notes for the Cambridge Assessment International Education.
+Topical notes for the Cambridge Assessment International Education, and Pearson Edexcel, AS and A2 levels.
 
 These model answers are from the CAIE marking scheme.
 
