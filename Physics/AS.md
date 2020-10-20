@@ -131,7 +131,7 @@ The `Standard model`: classifies matter into `quarks`, `leptons` and `force carr
 ## Electromagnetic Waves
 `v = 3 * 10^8 m/s`
 
-`λ` = ![](.Waves_images/fad7f092.png)
+`λ` = ![](.images/fad7f092.png)
 
 ## Waves in tubes
 
@@ -139,12 +139,12 @@ n=1, 1st harmonic
 n=...
 
 ### One open
-![](.Waves_images/51f1cf1c.png)  
-![1582604262](.Waves_images/1582604262.png)
+![](.images/51f1cf1c.png)  
+![1582604262](.images/1582604262.png)
 
 ### Two open
-![](.Waves_images/5f555751.png)  
-![S)3B](.Waves_images/S%293ZO%60TQ3R~S9_%40%5BE%5DH%5D8NB.png)
+![](.images/5f555751.png)  
+![S)3B](.images/S%293ZO%60TQ3R~S9_%40%5BE%5DH%5D8NB.png)
 
 ## `Interference` and `Coherence`
 // `Interference`: the formation of points of cancellation and reinforcement where 2 coherent waves pass each other
@@ -154,11 +154,11 @@ n=...
 `In phase`: 0° / 360° in phase diff
 `Out of phase`: 180° in phase diff **only**
 
-![](.Waves_images/f3e95858.png)
+![](.images/f3e95858.png)
 
 ## Double-slit Interference
-![](.Waves_images/5af99f57.png)  
-![](.Waves_images/ac728276.png)
+![](.images/5af99f57.png)  
+![](.images/ac728276.png)
 ```
 Where  
     a = slit separation  
@@ -167,7 +167,7 @@ Where
 ```
 
 ## Diffraction Grating
-![](.Waves_images/637fd248.png)  
+![](.images/637fd248.png)  
 `d sin θ = nλ`
 ```
 Where d = distance between successive slits
