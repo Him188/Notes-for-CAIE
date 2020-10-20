@@ -2,13 +2,11 @@
 
 Topical notes for the Cambridge Assessment International Education, and Pearson Edexcel, AS and A2 levels.
 
-These model answers are from the CAIE marking scheme.
-
-All the contents are essential for earning marks in the exam.
+These model answers are from the marking schemes. All the contents are essential for earning marks in the exam.
 
 Feel free to leave any comment on any file or open an issue.
 
-ENJOY!
+Webpages deployed at [https://him188.github.io/Notes-for-CAIE/](https://him188.github.io/Notes-for-CAIE/), ENJOY!
 
 ### Contents
 
