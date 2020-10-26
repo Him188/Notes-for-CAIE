@@ -2,6 +2,19 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amssymb,amsmath}
+
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\csch}{csch}
+\DeclareMathOperator{\arsec}{arcsec}
+\DeclareMathOperator{\arcot}{arcot}
+\DeclareMathOperator{\arcsc}{arcsc}
+\DeclareMathOperator{\arcosh}{arcosh}
+\DeclareMathOperator{\arsinh}{arsinh}
+\DeclareMathOperator{\artanh}{artanh}
+\DeclareMathOperator{\arsech}{arsech}
+\DeclareMathOperator{\arcsch}{arcsch}
+\DeclareMathOperator{\arcoth}{arcoth}
+
 \usepackage{geometry}
 \geometry{a4paper,left=18mm,right=18mm, top=2cm, bottom=2cm}
 
@@ -357,15 +370,15 @@
     \end{tikzpicture}
 
     \begin{displaymath}
-        \sinh^{-1}{x} = \ln{(x + \sqrt{x^2 + 1})}
+        \arsinh{x} = \ln{(x + \sqrt{x^2 + 1})}
     \end{displaymath}
 
     \begin{displaymath}
-        \cosh^{-1}{x} = \ln{(x \pm \sqrt{x^2 - 1})}
+        \arcosh{x} = \ln{(x \pm \sqrt{x^2 - 1})}
     \end{displaymath}
 
     \begin{displaymath}
-        \tanh^{-1}{x} = \frac{1}{2}\ln{(\frac{1 + x}{1 - x})}
+        \artanh{x} = \frac{1}{2}\ln{(\frac{1 + x}{1 - x})}
     \end{displaymath}
 
     \begin{tikzpicture}
@@ -380,7 +393,7 @@
         legend pos=outer north east,
         ]
             \addplot+[no marks]{ln( x + sqrt(x^2 +1))};
-            \addlegendentry{$y = \sinh^{-1}{x}$}
+            \addlegendentry{$y = \arsinh{x}$}
         \end{axis}
     \end{tikzpicture}
 
@@ -392,12 +405,12 @@
         axis lines=middle,
         samples=400,
         grid, thick, smooth,
-        domain=- 3:3,
+        domain=1:2,
         legend pos=outer north east,
         ]
             \addplot+[no marks]{ln( x + sqrt(x^2 -1))};
             \addplot+[no marks]{ln( x - sqrt(x^2 -1))};
-            \addlegendentry{$y = \cosh^{-1}{x}$}
+            \addlegendentry{$y = \arcosh{x}$}
         \end{axis}
     \end{tikzpicture}
 
@@ -413,9 +426,12 @@
         legend pos=outer north east,
         ]
             \addplot+[no marks]{0.5*ln( (1+x)/(1-x))};
-            \addlegendentry{$y = \tanh^{-1}{x}$}
+            \addlegendentry{$y = \artanh{x}$}
         \end{axis}
     \end{tikzpicture}
+
+    \subsection{Osborn's rule}
+    \textit{Replace $\sin$ with $\sinh$, $\cos$ with $\cosh$, $\sin^2$ with $-\sinh^2$}
 
     \subsection{Appendix: Formulas of Integration and Differentiation}
 
