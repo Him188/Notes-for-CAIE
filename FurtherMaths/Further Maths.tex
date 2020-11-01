@@ -72,12 +72,124 @@
 
     \subsection{Transformations}
 
+    \subsubsection{Enlargement}
+    \begin{itemize}
+        \item Stretch in x-direction by a scale factor $k$:
+        \begin{pmatrix}
+            k & 0 \\
+            0 & 1
+        \end{pmatrix}
+
+        \item Stretch in y-direction by a scale factor $k$:
+        \begin{pmatrix}
+            1 & 0 \\
+            0 & k
+        \end{pmatrix}
+
+        \item Enlargement with centre of the origin by a scale factor $k$:
+        \begin{pmatrix}
+            k & 0 \\
+            0 & k
+        \end{pmatrix}
+    \end{itemize}
+
+    \subsubsection{Reflection}
+
+    \begin{itemize}
+        \item Reflection in x-axis:
+        \begin{pmatrix}
+            1 & 0 \\
+            0 & -1
+        \end{pmatrix}
+
+        \item Reflection in y-axis:
+        \begin{pmatrix}
+            -1 & 0 \\
+            0 & 0
+        \end{pmatrix}
+
+        \item Reflection in $y=x$:
+        \begin{pmatrix}
+            0 & 1 \\
+            1 & 0
+        \end{pmatrix}
+
+        \item Reflection in $y=-x$:
+        \begin{pmatrix}
+            0 & -1 \\
+            -1 & 0
+        \end{pmatrix}
+    \end{itemize}
+
     \subsubsection{Rotation}
-    Rotation about the origin by $\theta$\ anti-clockwise:
-    \begin{bmatrix}
-        \cos\theta & -\sin\theta\\
-        \sin\theta & \cos\theta
-    \end{bmatrix}
+    \begin{itemize}
+        \item Rotation about the origin by $\theta$\ anti-clockwise:
+        \begin{pmatrix}
+            \cos\theta & -\sin\theta\\
+            \sin\theta & \cos\theta
+        \end{pmatrix}
+    \end{itemize}
+
+    \subsection{Inverse matrix 2*2}
+    \begin{displaymath}
+        A = \begin{pmatrix}
+                a & b\\
+                c & d
+        \end{pmatrix}
+    \end{displaymath}
+    \begin{displaymath}
+        \det A = ad-bc
+    \end{displaymath}
+
+    \begin{displaymath}
+        I = \begin{pmatrix}
+                1 & 0 \\
+                0 & 1
+        \end{pmatrix}
+    \end{displaymath}
+
+    If $\det A = 0$, A is \textit{singular}, so A has no inverse.
+
+    \begin{displaymath}
+        A^{-1} = \frac{1}{\det A}\begin{pmatrix}
+                                     d & -b \\
+                                     -c & a
+        \end{pmatrix}
+    \end{displaymath}
+
+    \subsection{Inverse matrix 3*3}
+    \begin{displaymath}
+        \begin{pmatrix}
+            a & b & c \\
+            d & e & f \\
+            g & h & i
+        \end{pmatrix}^{-1} = \frac{1}{\Delta}\begin{pmatrix}
+                                                 A & -B & C \\
+                                                 -D & E & -F \\
+                                                 G & -H & I
+        \end{pmatrix}^T
+    \end{displaymath}
+
+    where
+    \begin{displaymath}
+        A = ei-hf
+    \end{displaymath}
+    \begin{displaymath}
+        \Delta = aA - bB + cC
+    \end{displaymath}
+
+    \subsubsection{Transpose}
+    \begin{displaymath}
+        \begin{pmatrix}
+            a & b & c \\
+            d & e & f \\
+            g & h & i
+        \end{pmatrix}^{T} =\begin{pmatrix}
+                               a & d & c \\
+                               b & e & h \\
+                               g & f & i
+        \end{pmatrix}^{T}
+    \end{displaymath}
 
 
     \section{Complex Numbers}\label{sec:complex-numbers}
@@ -185,10 +297,11 @@
 
     \subsubsection{Complementary functions example}
 
-    \begin{displaymath}
-        \frac{d^{2}y}{dx^2} -8\frac{dy}{dx} + 12y = 36x
-    \end{displaymath} \\
     \begin{itemize}
+        \item []\begin{displaymath}
+                    \frac{d^{2}y}{dx^2} -8\frac{dy}{dx} + 12y = 36x
+        \end{displaymath}
+
         \item [Step 1.] State CF and PI\\
         CF: $y = Ae^{2x}+Be^{6x}$\\
         PI: $y = {\lambda}x + \mu$\\
