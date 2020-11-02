@@ -2,6 +2,7 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amssymb,amsmath}
+\usepackage{graphicx}
 
 \DeclareMathOperator{\sech}{sech}
 \DeclareMathOperator{\csch}{csch}
@@ -624,6 +625,45 @@
 
     \begin{displaymath}
         \frac{dy}{dx} = \frac{b}{a}\coth\theta
+    \end{displaymath}
+
+    \subsection{Eccentricity}
+
+    \begin{displaymath}
+        e = \frac{distance\ to\ focus}{distance\ to\ directrix}
+    \end{displaymath}
+
+    \begin{itemize}
+        \item If $0 < e < 1$, it's an ellipse.
+        $foci({\pm}ae, 0)$.
+        directrix: $x = \pm\frac{a}{e}$
+        \item If $e = 1$, it's an parabola.
+    \end{itemize}
+
+    \begin{figure}[!htb]
+        \centering
+        \includegraphics[width=0.7\textwidth]{Conics.png}
+        % \caption{Full Rectification}
+    \end{figure}
+
+    Eccentricity for ellipse:
+
+    \begin{displaymath}
+        b^2 = a^2(1-e^2)
+    \end{displaymath}
+
+    \begin{displaymath}
+        e^2 = 1 - \frac{b^2}{a^2}
+    \end{displaymath}
+
+    Eccentricity for hyperbola:
+
+    \begin{displaymath}
+        a^2 = b^2(1-e^2)
+    \end{displaymath}
+
+    \begin{displaymath}
+        e^2 = 1 + \frac{b^2}{a^2}
     \end{displaymath}
 
 
