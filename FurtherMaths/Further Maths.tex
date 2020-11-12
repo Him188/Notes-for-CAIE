@@ -612,6 +612,74 @@
     \textit{Replace $\sin$ with $\sinh$, $\cos$ with $\cosh$, $\sin^2$ with $-\sinh^2$}
 
 
+    \section{Further integration}
+
+    \subsection{General formulae}
+
+    \begin{displaymath}
+        \int f'(x)f^n(x) dx = \frac{f^{n+1}(x)}{n+1}
+    \end{displaymath}
+
+    \subsection{Useful formulae}
+
+    \begin{displaymath}
+        \cosh{2x} = 2\cosh^2{x} - 1 = 1 + 2\cosh^2(x)
+    \end{displaymath}
+    \begin{displaymath}
+        \cosh^2(x) = \frac{\cosh{2x} + 1}{2}
+    \end{displaymath}
+    \begin{displaymath}
+        \sinh^2(x) = \frac{\cosh{2x} - 1}{2}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \frac{d}{dx}\left(\arsinh{x}\right) = \frac{1}{\sqrt{1+x^2}}
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left(\arcosh{x}\right) = \frac{1}{\sqrt{x^2 - 1}}
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left(\artanh{x}\right) = 1-x^2
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left( \tanh{x} \right) = \sech^2{x}
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left( \coth{x} \right) = -\cosech^2{x}
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left( \sech{x} \right)=-\sech{x}\tanh{x}
+    \end{displaymath}
+    \begin{displaymath}
+        \frac{d}{dx}\left( \cosech{x} \right)=-\cosech{x}\coth{x}
+    \end{displaymath}
+
+
+    \begin{displaymath}
+        \int\frac{1}{\sqrt{a^2-x^2}} dx = \arcsin(\frac{x}{a}) + C
+    \end{displaymath}
+
+    \begin{figure}[!htb]
+        \centering
+        \includegraphics[width=0.7\textwidth]{FurtherIntegration.png}
+        % \caption{Full Rectification}
+    \end{figure}
+
+    \subsection{Substitution in Integration}
+
+    \begin{tabular}{|c|c|c|}
+        \hline $\int f(x) dx$                     & Substitution                        \\
+        \hline $\int \frac{1}{\sqrt{a^2-x^2}} dx$ & \multirow{2}{*}{$x=a\sin{\theta}$}  \\
+        $\int {\sqrt{a^2-x^2}} dx$                &                                     \\
+        \hline $\int \frac{1}{\sqrt{x^2-a^2}} dx$ & \multirow{2}{*}{$x=a\cosh{\theta}$} \\
+        $\int {\sqrt{x^2-a^2}} dx$                &                                     \\
+        \hline $\int \frac{1}{\sqrt{x^2+a^2}} dx$ & \multirow{2}{*}{$x=a\sinh{\theta}$} \\
+        $\int {\sqrt{x^2+a^2}} dx$                &                                     \\
+        \hline $\int \frac{1}{x^2+a^2} dx$        & $x=a\tan{\theta}$                   \\
+        \hline
+    \end{tabular}
+
+
     \section{Further coordinates}
 
     \begin{figure}[!htb]
@@ -701,60 +769,6 @@
     \begin{displaymath}
         e^2 = 1 + \frac{a^2}{b^2}
     \end{displaymath}
-
-
-    \section{Further integration}
-
-    \subsection{General formulae}
-
-    \begin{displaymath}
-        \int f'(x)f^n(x) dx = \frac{f^{n+1}(x)}{n+1}
-    \end{displaymath}
-
-    \subsection{Useful formulae}
-
-    \begin{displaymath}
-        \cosh{2x} = 2\cosh^2{x} - 1 = 1 + 2\cosh^2(x)
-    \end{displaymath}
-    \begin{displaymath}
-        \cosh^2(x) = \frac{\cosh{2x} + 1}{2}
-    \end{displaymath}
-    \begin{displaymath}
-        \sinh^2(x) = \frac{\cosh{2x} - 1}{2}
-    \end{displaymath}
-
-    \begin{displaymath}
-        \frac{d}{dx}\left(\arsinh{x}\right) = \frac{1}{\sqrt{1+x^2}}
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left(\arcosh{x}\right) = \frac{1}{\sqrt{x^2 - 1}}
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left(\artanh{x}\right) = 1-x^2
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left( \tanh{x} \right) = \sech^2{x}
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left( \coth{x} \right) = -\cosech^2{x}
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left( \sech{x} \right)=-\sech{x}\tanh{x}
-    \end{displaymath}
-    \begin{displaymath}
-        \frac{d}{dx}\left( \cosech{x} \right)=-\cosech{x}\coth{x}
-    \end{displaymath}
-
-
-    \begin{displaymath}
-        \int\frac{1}{\sqrt{a^2-x^2}} dx = \arcsin(\frac{x}{a}) + C
-    \end{displaymath}
-
-    \begin{figure}[!htb]
-        \centering
-        \includegraphics[width=0.7\textwidth]{FurtherIntegration.png}
-        % \caption{Full Rectification}
-    \end{figure}
 
 
     \section{Appendix: Formulas of Integration and Differentiation}
