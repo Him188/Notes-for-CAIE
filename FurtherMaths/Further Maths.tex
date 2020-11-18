@@ -804,6 +804,46 @@
     \end{displaymath}
 
 
+    \section{Vector}
+
+    \newcommand{\vecabs}[1]{\left\| \vec{#1} \right\|}
+    \newcommand{\abs}[1]{\left\| #1 \right\|}
+
+    \subsection{Scalar product ($\cdot$)}
+    \begin{displaymath}
+        \vec{a}\cdot\vec{b}= x_1 x_2 + y_1 y_2 + z_1 + z_2
+    \end{displaymath}
+
+    \subsubsection{Angle between $\vec{a}$ and $\vec{b}$}
+    \begin{displaymath}
+        \cos\theta = \frac{\vec{a}\vec{b}}{\vecabs{a}\vecabs{b}}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \vec{a}\cdot\vec{b} = \vecabs{a}\vecabs{b}\cos\theta
+    \end{displaymath}
+
+    \subsection{Vector product ($\times$)}
+    Vector product is perpendicular to both the vectors.
+
+    \begin{displaymath}
+        \vec{a}\times\vec{b} = -\vec{b}\times\vec{a}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \abs{\vec{a}\times\vec{b}} = \vecabs{a}\vecabs{b}\sin\theta
+    \end{displaymath}
+
+    \begin{displaymath}
+        \vec{a}\times\vec{b} = \vecabs{a}\vecabs{b}\sin\theta\cdot\vec{u}
+    \end{displaymath}
+
+    \subsection{Calculate Area of a Triangle}
+    \begin{displaymath}
+        A = \frac{1}{2}\vecabs{a}\vecabs{b}\sin\theta = \frac{1}{2}\abs{\vec{a}\times\vec{b}}
+    \end{displaymath}
+
+
     \section{Appendix: Formulas of Integration and Differentiation}
 
     \begin{displaymath}
