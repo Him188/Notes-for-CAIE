@@ -806,8 +806,8 @@
 
     \section{Vector}
 
-    \newcommand{\vecabs}[1]{\left\| \vec{#1} \right\|}
-    \newcommand{\abs}[1]{\left\| #1 \right\|}
+    \newcommand{\vecabs}[1]{\left| \vec{#1} \right|}
+    \newcommand{\abs}[1]{\left| #1 \right|}
 
     \subsection{Scalar product ($\cdot$)}
     \begin{displaymath}
@@ -873,6 +873,23 @@
     \begin{displaymath}
         \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
     \end{displaymath}
+
+    \subsection{FInd the shortest distance between two lines}
+    \begin{itemize}
+        \item Two parallel lines, choose one point from a line and calculate by
+        \begin{displaymath}
+            \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
+        \end{displaymath}.
+
+        \item Two skew lines:
+        \begin{align}
+            \vec{r_1} = \vec{a} + {\lambda}\vec{b} \\
+            \vec{r_2} = \vec{c} + {\lambda}\vec{d}
+        \end{align}
+        \begin{displaymath}
+            d = \abs{\frac{\left( \vec{a}-\vec{c} \right)\cdot\left( \vec{b}\times\vec{d} \right)}{\abs{\vec{b}\times\vec{d}}}}
+        \end{displaymath}
+    \end{itemize}
 
     \subsection{Vector Equation of a Plane}
     \begin{displaymath}
