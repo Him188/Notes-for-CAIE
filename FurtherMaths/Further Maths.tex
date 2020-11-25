@@ -891,6 +891,29 @@
         \end{displaymath}
     \end{itemize}
 
+    \subsection{Find the distance between a point and a plane}
+    Plane: $\vec{r}\cdot\vec{n} = ax +by+cz=d$,
+    Point: $P(x_1,y_1,z_1)$
+
+    \subsubsection{Method 1, use formulae directly}
+    \begin{displaymath}
+        d = \frac{\abs{ax_1+by_1+cz_1-d}}{\sqrt{a^2+b^2+c^2}}
+    \end{displaymath}
+
+    \subsubsection{Method 2, use perpendicular foot}
+
+    $F$ is the perpendicular foot of $P$ to the plane.
+
+    \begin{itemize}
+        \item [Step 1.] Find \vec{r} for line $PF$, which is a expression of $F$
+        \item [Step 2.] $F$ is in the plane, so put F into the equation of the plane and find $F$.
+        \item [Step 3.] Calculate distance by $\vecabs{PF}$
+    \end{itemize}
+
+    \begin{displaymath}
+
+    \end{displaymath}
+
     \subsection{Vector Equation of a Plane}
     \begin{displaymath}
         \vec{n}\cdot\left( \vec{r} - \vec{a} \right) = 0
@@ -900,10 +923,10 @@
     \begin{displaymath}
         ax + by + cz = d = \vec{n}\cdot\vec{a}, \vec{n}=\begin{pmatrix}
                                                             a \\
-                                                            - b \\
+                                                            b \\
                                                             c
         \end{pmatrix}
-    \end{displaymath}
+    \end{displaymath} where $\vec{a}$ is a fixed point.
 
 
     \section{Appendix: Formulas of Integration and Differentiation}
