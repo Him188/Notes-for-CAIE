@@ -843,6 +843,16 @@
         A = \frac{1}{2}\vecabs{a}\vecabs{b}\sin\theta = \frac{1}{2}\abs{\vec{a}\times\vec{b}}
     \end{displaymath}
 
+    \subsection{Calculate Area of a Tetrahedron}
+    \begin{displaymath}
+        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
+    \end{displaymath}
+
+    \subsection{Calculate Area of a Prism}
+    \begin{displaymath}
+        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
+    \end{displaymath}
+
     \subsection{Cartesian equation of a straight line}
     \begin{displaymath}
         \frac{x - a_1}{b_1} = \frac{y - a_2}{b_2} = \frac{z - a_3}{b_3} = \lambda
@@ -859,7 +869,7 @@
 
     \subsection{Vector equation of a straight line}
     \begin{displaymath}
-        \vec{r}\times\vec{b} = \vec{a}\vec{b}
+        \vec{r}\times\vec{b} = \vec{a} \times \vec{b}
     \end{displaymath}
 
     \begin{displaymath}
@@ -874,7 +884,7 @@
         \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
     \end{displaymath}
 
-    \subsection{FInd the shortest distance between two lines}
+    \subsection{Find the shortest distance between two lines}
     \begin{itemize}
         \item Two parallel lines, choose one point from a line and calculate by
         \begin{displaymath}
@@ -889,6 +899,27 @@
         \begin{displaymath}
             d = \abs{\frac{\left( \vec{a}-\vec{c} \right)\cdot\left( \vec{b}\times\vec{d} \right)}{\abs{\vec{b}\times\vec{d}}}}
         \end{displaymath}
+    \end{itemize}
+
+    \subsection{Vector Equation of a Plane}
+    \begin{displaymath}
+        \vec{n}\cdot\left( \vec{r} - \vec{a} \right) = 0
+    \end{displaymath}
+
+    \subsection{Cartesian Equation of a Plane}
+    \begin{displaymath}
+        ax + by + cz = d = \vec{n}\cdot\vec{a}, \vec{n}=\begin{pmatrix}
+                                                            a \\
+                                                            b \\
+                                                            c
+        \end{pmatrix}
+    \end{displaymath} where $\vec{a}$ is a fixed point.
+
+    \subsection{Determine a Plane with two lines}
+    \begin{itemize}
+        \item [1.] Find normal of the plane by $\vec{b_1}\times\vec{b_2}$
+        \item [2.] Find intersection
+        \item [3.] Express in cartesian form
     \end{itemize}
 
     \subsection{Find the distance between a point and a plane}
@@ -914,19 +945,35 @@
 
     \end{displaymath}
 
-    \subsection{Vector Equation of a Plane}
-    \begin{displaymath}
-        \vec{n}\cdot\left( \vec{r} - \vec{a} \right) = 0
-    \end{displaymath}
+    \subsection{Line and plane}
 
-    \subsection{Cartesian Equation of a Plane}
+    \subsubsection{The line lies in the plane}
+    \begin{itemize}
+        \item [Method 1.] Prove two random points lie in the plane
+        \item [Method 2.] Prove all points are in the plane
+    \end{itemize}
+
+    \subsubsection{The line is parallel to the plane}
+    \begin{itemize}
+        \item [Method 1.] $\vec{b}\vec{n} = 0$,
+    \end{itemize}
+
+    \subsubsection{The line is intersecting with the plane}
+    \begin{itemize}
+        \item [Method 1.] Find point of intersection
+        \item [Method 2.] Find angle between $l$ and the plane
+    \end{itemize}
+
+    \subsection{Tow planes}
+
+    \subsubsection{Distance between two planes}
+    \begin{align}
+        ax+by+cz=d_1 \\
+        ax+by+cz=d_2
+    \end{align}
     \begin{displaymath}
-        ax + by + cz = d = \vec{n}\cdot\vec{a}, \vec{n}=\begin{pmatrix}
-                                                            a \\
-                                                            b \\
-                                                            c
-        \end{pmatrix}
-    \end{displaymath} where $\vec{a}$ is a fixed point.
+        d = \frac{\abs{d_1 - d_2}}{\sqrt{a^2 + b^2 + c^2}}
+    \end{displaymath}
 
 
     \section{Appendix: Formulas of Integration and Differentiation}
