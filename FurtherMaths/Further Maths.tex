@@ -19,7 +19,7 @@
 
 \usepackage{geometry}
 \geometry{a4paper,left=18mm,right=18mm, top=2cm, bottom=2cm}
-
+\usepackage{color}
 \title{Further Maths}
 
 \usepackage{multirow}
@@ -31,6 +31,7 @@
 \usepgfplotslibrary{polar,colormaps}
 \usepackage{mathpazo}
 \usepackage{tikz}
+\usepackage{gauss}
 
 \usetikzlibrary{datavisualization.polar}
 
@@ -46,6 +47,9 @@
 %\usepackage[T1]{fontenc}
 %\usepackage{fontspec}
 %\setmainfont{JetBrains Mono}
+
+\newcommand{\vecabs}[1]{\left| \vec{#1} \right|}
+\newcommand{\abs}[1]{\left| #1 \right|}
 
 \begin{document}
     \section{Approximation}
@@ -213,7 +217,10 @@
 
     where
     \begin{displaymath}
-        A = ei-hf
+        A = \begin{vmatrix}
+                e & f \\
+                h & i
+        \end{vmatrix} = ei-hf
     \end{displaymath}
     \begin{displaymath}
         \Delta = aA - bB + cC
@@ -222,13 +229,13 @@
     \subsubsection{Transpose}
     \begin{displaymath}
         \begin{pmatrix}
-            a & b & c \\
-            d & e & f \\
-            g & h & i
+            \textcolor{olive}{a} & \textcolor{olive}{b} & \textcolor{olive}{c} \\
+            \textcolor{blue}{d} & \textcolor{blue}{e} & \textcolor{blue}{f} \\
+            \textcolor{purple}{g} & \textcolor{purple}{h} & \textcolor{purple}{i}
         \end{pmatrix}^{T} =\begin{pmatrix}
-                               a & d & c \\
-                               b & e & h \\
-                               g & f & i
+                               \textcolor{olive}{a} & \textcolor{blue}{d} & \textcolor{purple}{g} \\
+                               \textcolor{olive}{b} & \textcolor{blue}{e} & \textcolor{purple}{h} \\
+                               \textcolor{olive}{c} & \textcolor{blue}{f} & \textcolor{purple}{i}
         \end{pmatrix}
     \end{displaymath}
     That is, rows become corresponding columns.
@@ -806,9 +813,6 @@
 
 
     \section{Vector}
-
-    \newcommand{\vecabs}[1]{\left| \vec{#1} \right|}
-    \newcommand{\abs}[1]{\left| #1 \right|}
 
     \subsection{Scalar product ($\cdot$)}
     \begin{displaymath}
