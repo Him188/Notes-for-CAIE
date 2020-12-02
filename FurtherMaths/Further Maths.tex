@@ -32,6 +32,7 @@
 \usepackage{mathpazo}
 \usepackage{tikz}
 \usepackage{gauss}
+\usepackage{xcolor}
 
 \usetikzlibrary{datavisualization.polar}
 
@@ -174,6 +175,21 @@
             \sin\theta & \cos\theta
         \end{pmatrix}
     \end{itemize}
+
+    \subsubsection{A point to a point}
+    Point $A$ is transformed by $T$, resultant point is $T \cdot A$.
+
+    \subsubsection{A line to a line}
+    Equation $\begin{pmatrix}
+                  a_1 +t b_1 \\
+                  a_2 +t b_2 \\
+                  a_3 +t b_3
+    \end{pmatrix}$ is transformed by $T$, resultant line is $T \cdot
+    \begin{pmatrix}
+        a_1 +t b_1 \\
+        a_2 +t b_2 \\
+        a_3 +t b_3
+    \end{pmatrix}$.
 
     \subsection{Inverse matrix 2*2}
     \begin{displaymath}
