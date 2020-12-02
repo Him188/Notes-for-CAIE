@@ -300,6 +300,183 @@
     \end{displaymath}
 
 
+    \section{Vector}
+
+    \subsection{Scalar product ($\cdot$)}
+    \begin{displaymath}
+        \vec{a}\cdot\vec{b}= x_1 x_2 + y_1 y_2 + z_1 + z_2
+    \end{displaymath}
+
+    \subsubsection{Angle between $\vec{a}$ and $\vec{b}$}
+    \begin{displaymath}
+        \cos\theta = \frac{\vec{a}\vec{b}}{\vecabs{a}\vecabs{b}}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \vec{a}\cdot\vec{b} = \vecabs{a}\vecabs{b}\cos\theta
+    \end{displaymath}
+
+    \subsection{Vector product ($\times$)}
+    Vector product is perpendicular to both the vectors.
+
+    \begin{displaymath}
+        \vec{a}\times\vec{b} = -\vec{b}\times\vec{a}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \abs{\vec{a}\times\vec{b}} = \vecabs{a}\vecabs{b}\sin\theta
+    \end{displaymath}
+
+    \begin{displaymath}
+        \vec{a}\times\vec{b} = \vecabs{a}\vecabs{b}\sin\theta\cdot\vec{u}
+    \end{displaymath}
+
+    \subsection{Calculate Area of a Triangle}
+    \begin{displaymath}
+        A = \frac{1}{2}\vecabs{a}\vecabs{b}\sin\theta = \frac{1}{2}\abs{\vec{a}\times\vec{b}}
+    \end{displaymath}
+
+    \subsection{Calculate Area of a Tetrahedron}
+    \begin{displaymath}
+        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
+    \end{displaymath}
+
+    \subsection{Calculate Area of a Prism}
+    \begin{displaymath}
+        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
+    \end{displaymath}
+
+    \subsection{Cartesian equation of a straight line}
+    \begin{displaymath}
+        \frac{x - a_1}{b_1} = \frac{y - a_2}{b_2} = \frac{z - a_3}{b_3} = \lambda
+    \end{displaymath}
+
+    where \begin{displaymath}
+              fixed point (a_1, a_2, a_2)
+    \end{displaymath},
+    \begin{displaymath}
+        direction = \begin{pmatrix}
+                        b_1 \\ b_2 \\ b_3
+        \end{pmatrix}
+    \end{displaymath}
+
+    \subsection{Vector equation of a straight line}
+    \begin{displaymath}
+        \vec{r}\times\vec{b} = \vec{a} \times \vec{b}
+    \end{displaymath}
+
+    \begin{displaymath}
+        \vec{r} = \vec{a} + t\vec{b}
+    \end{displaymath}
+
+    \subsection{Find the distance from a point to the line using vector product}
+    \begin{displaymath}
+        \frac{\vecabs{d}}{\vecabs{AP}} = \sin\theta
+    \end{displaymath}
+    \begin{displaymath}
+        \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
+    \end{displaymath}
+
+    \subsection{Find the shortest distance between two lines}
+    \begin{itemize}
+        \item Two parallel lines, choose one point from a line and calculate by
+        \begin{displaymath}
+            \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
+        \end{displaymath}.
+
+        \item Two skew lines:
+        \begin{align}
+            \vec{r_1} = \vec{a} + {\lambda}\vec{b} \\
+            \vec{r_2} = \vec{c} + {\lambda}\vec{d}
+        \end{align}
+        \begin{displaymath}
+            d = \abs{\frac{\left( \vec{a}-\vec{c} \right)\cdot\left( \vec{b}\times\vec{d} \right)}{\abs{\vec{b}\times\vec{d}}}}
+        \end{displaymath}
+    \end{itemize}
+
+    \subsection{Vector Equation of a Plane}
+    \begin{displaymath}
+        \vec{n}\cdot\left( \vec{r} - \vec{a} \right) = 0
+    \end{displaymath}
+
+    \subsection{Cartesian Equation of a Plane}
+    \begin{displaymath}
+        ax + by + cz = d = \vec{n}\cdot\vec{a}, \vec{n}=\begin{pmatrix}
+                                                            a \\
+                                                            b \\
+                                                            c
+        \end{pmatrix}
+    \end{displaymath} where $\vec{a}$ is a fixed point.
+
+    \subsection{Transform a Plane from Cartesian Equation to Vector Equation}
+    let $x = \lambda, y=\mu$,
+    express $z$ with $x$ and $y$.
+    $\vec{r}=\begin{pmatrix}
+                 x\\y\\z
+    \end{pmatrix}$,
+    then replace x with $\lambda$, split $\lambda$ and $\mu$.
+
+    \subsection{Determine a Plane with two lines}
+    \begin{itemize}
+        \item [1.] Find normal of the plane by $\vec{b_1}\times\vec{b_2}$
+        \item [2.] Find intersection
+        \item [3.] Express in cartesian form
+    \end{itemize}
+
+    \subsection{Find the distance between a point and a plane}
+    Plane: $\vec{r}\cdot\vec{n} = ax +by+cz=d$,
+    Point: $P(x_1,y_1,z_1)$
+
+    \subsubsection{Method 1, use formulae directly}
+    \begin{displaymath}
+        d = \frac{\abs{ax_1+by_1+cz_1-d}}{\sqrt{a^2+b^2+c^2}}
+    \end{displaymath}
+
+    \subsubsection{Method 2, use perpendicular foot}
+
+    $F$ is the perpendicular foot of $P$ to the plane.
+
+    \begin{itemize}
+        \item [Step 1.] Find \vec{r} for line $PF$, which is a expression of $F$
+        \item [Step 2.] $F$ is in the plane, so put F into the equation of the plane and find $F$.
+        \item [Step 3.] Calculate distance by $\vecabs{PF}$
+    \end{itemize}
+
+    \begin{displaymath}
+
+    \end{displaymath}
+
+    \subsection{Line and plane}
+
+    \subsubsection{The line lies in the plane}
+    \begin{itemize}
+        \item [Method 1.] Prove two random points lie in the plane
+        \item [Method 2.] Prove all points are in the plane
+    \end{itemize}
+
+    \subsubsection{The line is parallel to the plane}
+    \begin{itemize}
+        \item [Method 1.] $\vec{b}\vec{n} = 0$,
+    \end{itemize}
+
+    \subsubsection{The line is intersecting with the plane}
+    \begin{itemize}
+        \item [Method 1.] Find point of intersection
+        \item [Method 2.] Find angle between $l$ and the plane
+    \end{itemize}
+
+    \subsection{Tow planes}
+
+    \subsubsection{Distance between two planes}
+    \begin{align}
+        ax+by+cz=d_1 \\
+        ax+by+cz=d_2
+    \end{align}
+    \begin{displaymath}
+        d = \frac{\abs{d_1 - d_2}}{\sqrt{a^2 + b^2 + c^2}}
+    \end{displaymath}
+
+
     \section{Differentiation}
 
     \subsection{First order differentiation}
@@ -825,175 +1002,6 @@
 
     \begin{displaymath}
         e^2 = 1 + \frac{a^2}{b^2}
-    \end{displaymath}
-
-
-    \section{Vector}
-
-    \subsection{Scalar product ($\cdot$)}
-    \begin{displaymath}
-        \vec{a}\cdot\vec{b}= x_1 x_2 + y_1 y_2 + z_1 + z_2
-    \end{displaymath}
-
-    \subsubsection{Angle between $\vec{a}$ and $\vec{b}$}
-    \begin{displaymath}
-        \cos\theta = \frac{\vec{a}\vec{b}}{\vecabs{a}\vecabs{b}}
-    \end{displaymath}
-
-    \begin{displaymath}
-        \vec{a}\cdot\vec{b} = \vecabs{a}\vecabs{b}\cos\theta
-    \end{displaymath}
-
-    \subsection{Vector product ($\times$)}
-    Vector product is perpendicular to both the vectors.
-
-    \begin{displaymath}
-        \vec{a}\times\vec{b} = -\vec{b}\times\vec{a}
-    \end{displaymath}
-
-    \begin{displaymath}
-        \abs{\vec{a}\times\vec{b}} = \vecabs{a}\vecabs{b}\sin\theta
-    \end{displaymath}
-
-    \begin{displaymath}
-        \vec{a}\times\vec{b} = \vecabs{a}\vecabs{b}\sin\theta\cdot\vec{u}
-    \end{displaymath}
-
-    \subsection{Calculate Area of a Triangle}
-    \begin{displaymath}
-        A = \frac{1}{2}\vecabs{a}\vecabs{b}\sin\theta = \frac{1}{2}\abs{\vec{a}\times\vec{b}}
-    \end{displaymath}
-
-    \subsection{Calculate Area of a Tetrahedron}
-    \begin{displaymath}
-        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
-    \end{displaymath}
-
-    \subsection{Calculate Area of a Prism}
-    \begin{displaymath}
-        A = \frac{1}{6}\vec{a}\cdot\left( \vec{b}\times\vec{c} \right)\sin\theta
-    \end{displaymath}
-
-    \subsection{Cartesian equation of a straight line}
-    \begin{displaymath}
-        \frac{x - a_1}{b_1} = \frac{y - a_2}{b_2} = \frac{z - a_3}{b_3} = \lambda
-    \end{displaymath}
-
-    where \begin{displaymath}
-              fixed point (a_1, a_2, a_2)
-    \end{displaymath},
-    \begin{displaymath}
-        direction = \begin{pmatrix}
-                        b_1 \\ b_2 \\ b_3
-        \end{pmatrix}
-    \end{displaymath}
-
-    \subsection{Vector equation of a straight line}
-    \begin{displaymath}
-        \vec{r}\times\vec{b} = \vec{a} \times \vec{b}
-    \end{displaymath}
-
-    \begin{displaymath}
-        \vec{r} = \vec{a} + t\vec{b}
-    \end{displaymath}
-
-    \subsection{Find the distance from a point to the line using vector product}
-    \begin{displaymath}
-        \frac{\vecabs{d}}{\vecabs{AP}} = \sin\theta
-    \end{displaymath}
-    \begin{displaymath}
-        \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
-    \end{displaymath}
-
-    \subsection{Find the shortest distance between two lines}
-    \begin{itemize}
-        \item Two parallel lines, choose one point from a line and calculate by
-        \begin{displaymath}
-            \vec{d} = \frac{\abs{\vec{AP}\times\vec{b}}}{\vecabs{b}}
-        \end{displaymath}.
-
-        \item Two skew lines:
-        \begin{align}
-            \vec{r_1} = \vec{a} + {\lambda}\vec{b} \\
-            \vec{r_2} = \vec{c} + {\lambda}\vec{d}
-        \end{align}
-        \begin{displaymath}
-            d = \abs{\frac{\left( \vec{a}-\vec{c} \right)\cdot\left( \vec{b}\times\vec{d} \right)}{\abs{\vec{b}\times\vec{d}}}}
-        \end{displaymath}
-    \end{itemize}
-
-    \subsection{Vector Equation of a Plane}
-    \begin{displaymath}
-        \vec{n}\cdot\left( \vec{r} - \vec{a} \right) = 0
-    \end{displaymath}
-
-    \subsection{Cartesian Equation of a Plane}
-    \begin{displaymath}
-        ax + by + cz = d = \vec{n}\cdot\vec{a}, \vec{n}=\begin{pmatrix}
-                                                            a \\
-                                                            b \\
-                                                            c
-        \end{pmatrix}
-    \end{displaymath} where $\vec{a}$ is a fixed point.
-
-    \subsection{Determine a Plane with two lines}
-    \begin{itemize}
-        \item [1.] Find normal of the plane by $\vec{b_1}\times\vec{b_2}$
-        \item [2.] Find intersection
-        \item [3.] Express in cartesian form
-    \end{itemize}
-
-    \subsection{Find the distance between a point and a plane}
-    Plane: $\vec{r}\cdot\vec{n} = ax +by+cz=d$,
-    Point: $P(x_1,y_1,z_1)$
-
-    \subsubsection{Method 1, use formulae directly}
-    \begin{displaymath}
-        d = \frac{\abs{ax_1+by_1+cz_1-d}}{\sqrt{a^2+b^2+c^2}}
-    \end{displaymath}
-
-    \subsubsection{Method 2, use perpendicular foot}
-
-    $F$ is the perpendicular foot of $P$ to the plane.
-
-    \begin{itemize}
-        \item [Step 1.] Find \vec{r} for line $PF$, which is a expression of $F$
-        \item [Step 2.] $F$ is in the plane, so put F into the equation of the plane and find $F$.
-        \item [Step 3.] Calculate distance by $\vecabs{PF}$
-    \end{itemize}
-
-    \begin{displaymath}
-
-    \end{displaymath}
-
-    \subsection{Line and plane}
-
-    \subsubsection{The line lies in the plane}
-    \begin{itemize}
-        \item [Method 1.] Prove two random points lie in the plane
-        \item [Method 2.] Prove all points are in the plane
-    \end{itemize}
-
-    \subsubsection{The line is parallel to the plane}
-    \begin{itemize}
-        \item [Method 1.] $\vec{b}\vec{n} = 0$,
-    \end{itemize}
-
-    \subsubsection{The line is intersecting with the plane}
-    \begin{itemize}
-        \item [Method 1.] Find point of intersection
-        \item [Method 2.] Find angle between $l$ and the plane
-    \end{itemize}
-
-    \subsection{Tow planes}
-
-    \subsubsection{Distance between two planes}
-    \begin{align}
-        ax+by+cz=d_1 \\
-        ax+by+cz=d_2
-    \end{align}
-    \begin{displaymath}
-        d = \frac{\abs{d_1 - d_2}}{\sqrt{a^2 + b^2 + c^2}}
     \end{displaymath}
 
 
