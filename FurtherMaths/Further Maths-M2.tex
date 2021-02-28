@@ -1,0 +1,127 @@
+\documentclass[a4paper,9pt]{scrartcl}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb,amsmath}
+\usepackage{graphicx}
+
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\csch}{csch}
+\DeclareMathOperator{\cosech}{cosech}
+\DeclareMathOperator{\arsec}{arcsec}
+\DeclareMathOperator{\arcot}{arcot}
+\DeclareMathOperator{\arcsc}{arcsc}
+\DeclareMathOperator{\arcosh}{arcosh}
+\DeclareMathOperator{\arsinh}{arsinh}
+\DeclareMathOperator{\artanh}{artanh}
+\DeclareMathOperator{\arsech}{arsech}
+\DeclareMathOperator{\arcsch}{arcsch}
+\DeclareMathOperator{\arcoth}{arcoth}
+
+\usepackage{geometry}
+\geometry{a4paper,left=18mm,right=18mm, top=2cm, bottom=2cm}
+\usepackage{color}
+\title{Further Maths}
+
+\usepackage{multirow}
+\usepackage{lipsum}
+\usepackage{ctex}
+\usepackage{enumerate}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{polar,colormaps}
+\usepackage{mathpazo}
+\usepackage{tikz}
+\usepackage{gauss}
+\usepackage{xcolor}
+
+\usetikzlibrary{datavisualization.polar}
+
+\pgfplotsset{compat=newest}
+
+% define the plot style and the axis style
+\tikzset{elegant/.style={smooth,thick,samples=50,magenta}}
+
+\pgfplotsset{compat=1.8}
+
+%\usepackage{geometry}
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage{fontspec}
+%\setmainfont{JetBrains Mono}
+
+\newcommand{\vecabs}[1]{\left| \vec{#1} \right|}
+\newcommand{\abs}[1]{\left| #1 \right|}
+
+\begin{document}
+    \section{Centre of mass}
+
+    \subsection{General centre of mass}
+
+    Shape $A(x_1, y_1)$ weighted $w_1$, $B(x_2, y_2)$ weighted $w_2$, $C(x_3, y_3)$ weighted $w_3$, centre of mass $G(\overline{x}, \overline{y})$:
+
+    \begin{displaymath}
+        w_1\begin{pmatrix}
+               x_1 \\
+               y_1
+        \end{pmatrix} +w_2\begin{pmatrix}
+                              x_2 \\
+                              y_2
+        \end{pmatrix}+w_3\begin{pmatrix}
+                             x_3 \\
+                             y_3
+        \end{pmatrix}=(w_1+w_2+w_3)\begin{pmatrix}
+                                       \overline{x}\\
+                                       \overline{y}
+        \end{pmatrix}
+    \end{displaymath}
+
+    \subsection{Centre of mass of uniform triangular lamina}
+
+    \begin{displaymath}
+        G\left( \frac{x_1+x_2+x_3}{3}, \frac{y_1+y_2+y_3}{3} \right)
+    \end{displaymath}
+
+    \subsection{Centre of mass of uniform sector of a circle}
+
+    Make the origin at the centre of the circle, make x-axis crossing the symmetry of the sector, then
+
+    \begin{displaymath}
+        distance = \frac{2r\sin\alpha}{3\alpha}
+    \end{displaymath}
+
+    \begin{displaymath}
+        G\left( 0, \frac{2r\sin\alpha}{3\alpha} \right)
+    \end{displaymath}
+
+    \subsection{Combined centre of mass of two laminae}
+    Shape $A$, $G_A(x_a, y_a)$ area $A_a$; \\
+    Shape $B$, $G_B(x_b, y_b)$ area $A_b$. \\
+    Combined centre of mass:
+
+    \begin{displaymath}
+        A_a\begin{pmatrix}
+               x_a \\
+               y_a
+        \end{pmatrix} +A_b\begin{pmatrix}
+                              x_b \\
+                              y_b
+        \end{pmatrix}=(A_a+A_b)\begin{pmatrix}
+                                   \overline{x}\\
+                                   \overline{y}
+        \end{pmatrix}
+    \end{displaymath}
+
+    \subsection{Centre of mass of an arc of a circle}
+
+    Make the origin at the centre of the circle, make x-axis crossing the symmetry of the sector, then
+
+    \begin{displaymath}
+        distance = \frac{r\sin\alpha}{\alpha}
+    \end{displaymath}
+
+    \subsection{Centre of mass of a frame}
+
+    Consider all lines as a dedicated shape, use the general method to calculate its centre then use centre point to represent the shape then apply the general method again.
+
+
+\end{document}
