@@ -1,0 +1,81 @@
+\documentclass[a4paper,9pt]{scrartcl}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb,amsmath}
+\usepackage{graphicx}
+
+\DeclareMathOperator{\sech}{sech}
+\DeclareMathOperator{\csch}{csch}
+\DeclareMathOperator{\cosech}{cosech}
+\DeclareMathOperator{\arsec}{arcsec}
+\DeclareMathOperator{\arcot}{arcot}
+\DeclareMathOperator{\arcsc}{arcsc}
+\DeclareMathOperator{\arcosh}{arcosh}
+\DeclareMathOperator{\arsinh}{arsinh}
+\DeclareMathOperator{\artanh}{artanh}
+\DeclareMathOperator{\arsech}{arsech}
+\DeclareMathOperator{\arcsch}{arcsch}
+\DeclareMathOperator{\arcoth}{arcoth}
+
+\usepackage{geometry}
+\geometry{a4paper,left=18mm,right=18mm, top=2cm, bottom=2cm}
+\usepackage{color}
+\title{Further Maths}
+
+\usepackage{multirow}
+\usepackage{lipsum}
+\usepackage{ctex}
+\usepackage{enumerate}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{polar,colormaps}
+\usepackage{mathpazo}
+\usepackage{tikz}
+\usepackage{gauss}
+\usepackage{xcolor}
+
+\usetikzlibrary{datavisualization.polar}
+
+\pgfplotsset{compat=newest}
+
+% define the plot style and the axis style
+\tikzset{elegant/.style={smooth,thick,samples=50,magenta}}
+
+\pgfplotsset{compat=1.8}
+
+%\usepackage{geometry}
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+%\usepackage{fontspec}
+%\setmainfont{JetBrains Mono}
+
+\newcommand{\vecabs}[1]{\left| \vec{#1} \right|}
+\newcommand{\abs}[1]{\left| #1 \right|}
+
+\begin{document}
+    \section{Binomial distribution}
+
+    \begin{displaymath}
+        X \sim \left( n, p \right)
+    \end{displaymath}
+
+    \subsection{Conditions for binomial distribution}
+
+    \begin{itemize}
+        \item n repeated trials
+        \item independent trials
+        \item two outcomes
+        \item P is a constant
+    \end{itemize}
+
+    \subsection{Convert $\geq p$ to $\leq 1-p$}
+    \begin{displaymath}
+        X \sim \left( n, p \right)
+    \end{displaymath}
+    \begin{displaymath}
+        Y \sim \left( n, 1 - p \right)
+    \end{displaymath}
+    \begin{displaymath}
+        P(X \geq a ) = P(Y \leq  n-a)
+    \end{displaymath}
+\end{document}
