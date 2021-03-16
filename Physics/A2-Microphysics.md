@@ -152,14 +152,14 @@ Ideal Gases
 
 ### What is meant by symbol `<c²>` \[2\]
 - Mean value of the square
-- ... of the speeds of the particles
+- ... of the speeds of the particles.
 
 ### State the meaning of the symbol `<c²>` \[1\]
 - **mean square speed**
 
 ### State what is meant by an `ideal gas` \[2\]
 - Obeys the law `pV=nRT`
-- ... at all values of `p`, `V` and `T`
+- ... at all values of `p`, `V` and `T`.
 
 *If \[3\], write also:*
 
@@ -173,26 +173,26 @@ Ideal Gases
 
 ### State `Avogadro’s constant` \[2\]
 - Number of atoms of carbon-12
-- in 0.012 kg of carbon-12
+- ... in 0.012 kg of carbon-12.
 
 ### State what is meant by a `mole` \[2\]
 - Amount of substance
-- containing same number of particles as in 0.012 kg of carbon-12
+- ... containing same number of particles as in 0.012 kg of carbon-12.
 
 ### How molecular movement causes the pressure exerted by a gas \[3\]
-- Molecules rebound from wall of vessel
-- Change in momentum gives rise to impulse
-- Many impulses averaged to give constant force
+- Molecules rebound from wall of vessel.
+- Change in momentum gives rise to impulse.
+- Many impulses averaged to give constant force.
 
 
 ### State the basic assumptions of the kinetic theory of gases \[4\]
 *Hint: sphere, volume, random motion, inter-collision, inter-force*
 
-- Molecules behave as elastic spheres
-- Volume of molecules is negligible compared to the volume of the containing vessel
-- Molecules are in random motion
-- Time of collision is negligible to time between collisions
-- No forces of attraction or repulsion between molecules
+- Molecules behave as elastic spheres.
+- Volume of molecules is negligible compared to the volume of the containing vessel.
+- Molecules are in random motion.
+- Time of collision is negligible to time between collisions.
+- No forces of attraction or repulsion between molecules.
 
 Thermal Physics
 ---------------
