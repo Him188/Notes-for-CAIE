@@ -45,6 +45,18 @@ Gravitation
 - *Region of space area*
 - ... *where a mass experiences a force*
 
+### What is meant by a `line of gravitational force` \[1\]
+> s18 42 Q1
+
+- *Tangent to the line gives direction of force **on a mass***
+
+### Why the gravitational field strength close to the Earth's surface is approximately constant \[3\]
+> s18 42 Q1
+
+- At surface, lines of force are radial.
+- Earth has large radius so lines are approximately parallel
+- ... so constant field strength.
+
 ### State `Newton's law of gravitation` \[2\] / \[3\]
 - ***Force proportional to product of masses***
 - ***Force inversely proportional to square of separation***

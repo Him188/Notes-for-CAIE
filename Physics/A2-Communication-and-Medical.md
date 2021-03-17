@@ -32,7 +32,7 @@ Telecommunication
 -----------------
 
 ### What is meant by `frequency modulation`/`amplitude modulation` \[2\]
-- frequency/amplifier of carrier wave varies
+- frequency/amplitude of carrier wave varies
 - ... in synchrony with displacement of information signal.
 
 ### Why FM costs more than AM \[2\]
@@ -45,6 +45,11 @@ Telecommunication
 
 ### What is meant by `attenuation` of a signal \[1\]
 - reduction in power of the signal.
+
+### What is meany by `bandwidth` of signal \[1\]
+> s18 42 Q5
+
+- Range of frequencies of signal
 
 ### Why regenerator amplifiers do not amplify the noise \[2\]
 - For signal only the high and low are necessary.
@@ -87,11 +92,26 @@ Telecommunication
 - Signal amplified and transmitted back to Earth.
 - Different frequencies prevent swamping of uplink signal.
 
+### The features of the geostationary orbit \[2\]
+> w18 42 Q5
+
+- above the Equator.
+- from west to east / same direction as Earth's rotation.
+- circular.
+- Period is 24 hours.
+
 ### Compare ionospheric reflection of radio than satellite communication \[4\]
 - Ion layer varies in height **so unreliable**.
 - Bandwidth too low **so cannot carry all information needed**.
 
+### Why use frequencies of gigahertz for satellite communication \[1\]
+> w18 42 Q5
+
+- Minimal reflection by **atmosphere**
+
 ### Why the uplink and downlink frequencies must be different \[2\]
+> w18 42 Q5
+
 - Signal must be amplified before transmission back to Earth.
 - Uplink signal would be **swamped** by downlink signal.
 
@@ -138,8 +158,28 @@ Telecommunication
 Medical Physics
 ---------------
 
+### Describe the principles of CT scanning \[5\]
+> s18 42 Q11
+
+- **X-ray** image taken of **one slice**.
+- Many images taken from **different angles**.
+- Computer produces 2D image **of slice**.
+- This is repeated for **many slices**
+- ... to build up a 3D image.
+
 ### Describe the functions of the two B-fields in MRI \[4\]
 - Strong uniform field
 - ... aligns nuclei.
 - Non-uniform field
-- ... locates nuclei.
+- ... enables nuclei to be located.
+
+### Explain the function of the non-uniform magnetic field in MRI \[3\]
+> w18 42 Q10
+
+> Write bold ones always.
+
+- **Enables nuclei to be located.**
+- **Resonant frequency depends on magnetic field strength.**
+- Non-uniform field is accurately calibrated.
+- Non-uniform field may be varied to enable detection in different positions.
+- Unique field strength at each point.

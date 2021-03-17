@@ -95,9 +95,17 @@ Electromagnetism
 - to oppose the change causing it
 
 ### Define `magnetic flux density` \[3\]
+> w18 42 Q8
+
 - force per unit length
 - ... on straight conductor carrying unit current
 - ... normal to the field.
+
+### What is meant by the `magnetic flux linkage` of a coil \[3\]
+> s18 42 Q9
+
+- **magnetic flux density** × ***cross-sectional*** area
+- ... × number of turns of the coil
 
 ### Why eddy currents are induced in the metal disc \[2\]
 - Field in disc not uniform
@@ -144,6 +152,14 @@ Capacitance
 - Store energy.
 - Block direct current.
 - *Smoothing*.
+
+### Combining capacitors
+
+- Parallel: C1 + C2
+- Serial:
+  ```latex
+    \frac{1}{\frac{1}{C_1}+\frac{1}{C_2}}  
+  ```
 
 Alternating current
 -------------------
@@ -196,6 +212,13 @@ Basics:
 Direct Sensing
 --------------
 
+### Calculating gain
+> s18 42 Q7
+
+```math
+G = \frac{V_{out}}{V_{in}} +1 
+```
+
 ### State properties of an `ideal operational amplifier` \[4\]
 - Infinite gain
 - Infinite input impedance
@@ -203,8 +226,16 @@ Direct Sensing
 - Infinite bandwidth
 
 ### What is meant by `negative feedback` \[2\]
-- Part of the output is added to the input
-- ... and is out of phase ny 180° with the input.
+> s18 42 Q7
+
+- Output is combined with the input
+- Output is ***subtracted*** from input
+
+### State two effects of negative feedback on the gain of an amplifier \[2\]
+> s18 42 Q7
+
+- Smaller gain
+- Greater bandwidth
 
 ### What is meant by `virtual earth` \[3\]
 - Op-amp has very large gain.

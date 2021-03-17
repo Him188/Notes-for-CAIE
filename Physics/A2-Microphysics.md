@@ -68,7 +68,6 @@ Quantum Physics
 - ... of an electromagnetic radiation.
 - energy = hf
 
-
 ### Describe an experiment to demonstrate the wave nature of electrons \[5\]
 - Electron beam in a vacuum
 - incident on carbon *film*.
@@ -96,6 +95,12 @@ Quantum Physics
 - Photon has specific value of energy dependent on frequency.
 - Emission if energy greater than threshold energy to remove electron from surface.
 
+### Describe the appearance of a visible line emission spectrum \[2\]
+> w18 42 Q11
+
+- Mostly dark
+- Coloured lines
+
 ### Describe the appearance of the spectrum of the absorption
 - Electrons in cold gas molecules interact with photons.
 - Photon energy causes electrons to move to higher energy level.
@@ -121,6 +126,12 @@ Quantum Physics
 Nuclear Physics
 ---------------
 
+### Describe the photoelectric effect \[2\]
+> s18 42 Q10
+
+- Emission of electrons
+- ... when electromagnetic radiation incident on surface.
+
 ### State what is meant by the `binding energy` of a nucleus \[2\]
 - Energy required to separate nucleons **in a nucleus**
 - ... to infinity.
@@ -131,6 +142,11 @@ Nuclear Physics
 
 ### State what is meant by `nuclear fusion` \[1\]
 - Light nuclei combine t o form heavier nuclei.
+
+### What is meant by `radioactive decay` \[2\]
+> s18 42 Q10
+
+- ***Spontaneous*** emission of particles by **unstable nucleus**.
 
 ### Define the `decay constant` of a radioactive isotope \[2\]
 - Probability of decay
@@ -209,16 +225,20 @@ Thermal Physics
 ### What is meant by `specific latent heat` \[3\]
 - thermal energy required to change the state of a substance
 - ... per unit mass
-- ... without any change of temperature
+- ... without change in temperature
 
 ### Define `specific latent heat of fusion` \[2\]
+> w18 42 Q2
+
 - Thermal energy required to convert unit mass of solid to liquid
-- ... with no change in temperature
+- ... without change in temperature
 
 ### Why melting requires energy but there is no change in temperature \[3\]
-- On melting, molecules are further apart
-- potential energy increased
-- kinetic energy unchanged so no temperature change
+> s18 42 Q1
+
+- On melting, bonds between molecules are broken,
+- **potential energy increased**,
+- kinetic energy unchanged so no temperature change.
 
 ### Two processes for which thermal energy is required during boiling \[2\]
 - increasing separation of molecules
