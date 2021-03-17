@@ -4,11 +4,6 @@ w18 42
 ------
 
 
-### What is meany by `bandwidth` of signal \[1\]
-> s18 42 Q5
-
-- Range of frequencies of signal
-
 ### Why use frequencies of gigahertz for satellite communication \[1\]
 > w18 42 Q5
 
@@ -61,6 +56,11 @@ w18 42
 
 s18 42
 ------
+
+### What is meany by `bandwidth` of signal \[1\]
+> s18 42 Q5
+
+- Range of frequencies of signal
 
 ### Describe the principles of CT scanning \[5\]
 > s18 42 Q11
