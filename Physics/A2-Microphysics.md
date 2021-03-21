@@ -102,11 +102,15 @@ Quantum Physics
 - Coloured lines
 
 ### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]
-> w19 42 Q10 \[4\]
+> w19 42 Q10 \[4\]  
+> s19 42 Q7 \[5\]
+
+> Write all of them.
 
 - Electron in valence band gain energy.
 - Electrons jump to conduction band.
 - Holes are left in the valence band.
+- *Both holes and electrons act as charge carriers.*
 - Increased number of charge carriers cause lower resistance.
 
 ### Describe the appearance of the spectrum of the absorption
@@ -166,6 +170,12 @@ For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-
 ### Define radioactive `half-life` \[2\]
 - Time for number of atoms
 - ... to be reduced to one half
+
+### Calculating binding energy \[4\]
+> s19 42 Q12 \[4\]
+
+- Calculate mass defect
+- `E=mc²`
 
 ### Why the activity and measured count rate may be different?
 - Background radiation.

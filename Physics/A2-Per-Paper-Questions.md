@@ -161,3 +161,13 @@ w19 42
 
 - Probability of decay *of a nucleus*
 - ... **per unit time**.
+
+
+s19 42
+------
+
+### Calculating binding energy \[4\]
+> s19 42 Q12 \[4\]
+
+- Calculate mass defect
+- `E=mc²`
