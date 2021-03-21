@@ -101,6 +101,14 @@ Quantum Physics
 - Mostly dark
 - Coloured lines
 
+### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]
+> w19 42 Q10 \[4\]
+
+- Electron in valence band gain energy.
+- Electrons jump to conduction band.
+- Holes are left in the valence band.
+- Increased number of charge carriers cause lower resistance.
+
 ### Describe the appearance of the spectrum of the absorption
 - Electrons in cold gas molecules interact with photons.
 - Photon energy causes electrons to move to higher energy level.
@@ -111,12 +119,6 @@ Quantum Physics
 - Atoms in solids are close together, electrons from one atom interact with those of neighbouring atoms,
 - this change their electron energy levels, causing a spread of energy level into a band.
 
-### Why metal's resistance increases as temperature increases
-- Conduction band overlaps valance band,
-- as temperature increases, no increase in number of free-electrons.
-- But lattice vibrations increases,
-- lattice  vibration restrict movement of electrons so resistance increases.
-
 ### Why LDR's resistance decreases as light intensity increases
 - In darkness, conduction band isempty, so high resistance,
 - In daylight, electrons in valence absorb photons, jump into conduction band, leaving holes in valence band
@@ -125,6 +127,8 @@ Quantum Physics
 
 Nuclear Physics
 ---------------
+
+For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-λt)` (provided)
 
 ### Describe the photoelectric effect \[2\]
 > s18 42 Q10
@@ -143,14 +147,21 @@ Nuclear Physics
 ### State what is meant by `nuclear fusion` \[1\]
 - Light nuclei combine t o form heavier nuclei.
 
+### What is meant by `random decay` \[1\]
+> w19 42 Q12
+
+- decay is **unpredictable**
+
 ### What is meant by `radioactive decay` \[2\]
 > s18 42 Q10
 
 - ***Spontaneous*** emission of particles by **unstable nucleus**.
 
 ### Define the `decay constant` of a radioactive isotope \[2\]
-- Probability of decay
-- ... of a nucleus per unit time.
+> w19 42 Q12
+
+- Probability of decay *of a nucleus*
+- ... **per unit time**.
 
 ### Define radioactive `half-life` \[2\]
 - Time for number of atoms

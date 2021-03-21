@@ -158,8 +158,21 @@ Telecommunication
 Medical Physics
 ---------------
 
+### What is meant by `specific acoustic impedance` of a medium \[2\]
+> w19 42 Q5
+
+- Product of density and speed
+- ... of sound in the medium.
+
+### What is meant by `attenuation` of an ultrasound wave \[1\]
+> w19 42 Q5
+
+- reduction in amplitude
+- ... as the wave pass through medium.
+
 ### Describe the principles of CT scanning \[5\]
-> s18 42 Q11
+> s18 42 Q11 \[5\]
+> w19 42 Q7 \[5\]
 
 - **X-ray** image taken of **one slice**.
 - Many images taken from **different angles**.

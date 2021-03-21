@@ -125,3 +125,39 @@ G = \frac{V_{out}}{V_{in}} +1
 - At surface, lines of force are radial.
 - Earth has large radius so lines are approximately parallel
 - ... so constant field strength.
+
+
+w19 42
+------
+
+
+### What is meant by `specific acoustic impedance` of a medium \[2\]
+> w19 42 Q5
+
+- Product of density and speed
+- ... of sound in the medium.
+
+### What is meant by `attenuation` of an ultrasound wave \[1\]
+> w19 42 Q5
+
+- reduction in amplitude
+- ... as the wave pass through medium.
+
+### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]
+> w19 42 Q10 \[4\]
+
+- Electron in valence band gain energy.
+- Electrons jump to conduction band.
+- Holes are left in the valence band.
+- Increased number of charge carriers cause lower resistance.
+
+### What is meant by `random decay` \[1\]
+> w19 42 Q12
+
+- decay is **unpredictable**
+
+### Define the `decay constant` of a radioactive isotope \[2\]
+> w19 42 Q12
+
+- Probability of decay *of a nucleus*
+- ... **per unit time**.
