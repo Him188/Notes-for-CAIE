@@ -5,6 +5,7 @@
   - [Why FM costs more than AM \[2\]](#why-fm-costs-more-than-am-2)
   - [What is meant by `noise` \[2\]](#what-is-meant-by-noise-2)
   - [What is meant by `attenuation` of a signal \[1\]](#what-is-meant-by-attenuation-of-a-signal-1)
+  - [What is meany by `bandwidth` of signal \[1\]](#what-is-meany-by-bandwidth-of-signal-1)
   - [Why regenerator amplifiers do not amplify the noise \[2\]](#why-regenerator-amplifiers-do-not-amplify-the-noise-2)
   - [Why use infra-red than visible light in optic fibres \[2\]](#why-use-infra-red-than-visible-light-in-optic-fibres-2)
   - [Frequency range of waves \[5\]](#frequency-range-of-waves-5)
@@ -13,7 +14,9 @@
   - [Draw a diagram for coaxial cable \[2\]](#draw-a-diagram-for-coaxial-cable-2)
   - [State three advantages of a coaxial cable compared with a wire pair \[2\]](#state-three-advantages-of-a-coaxial-cable-compared-with-a-wire-pair-2)
   - [The principles of the geostationary satellite \[4\]](#the-principles-of-the-geostationary-satellite-4)
+  - [The features of the geostationary orbit \[2\]](#the-features-of-the-geostationary-orbit-2)
   - [Compare ionospheric reflection of radio than satellite communication \[4\]](#compare-ionospheric-reflection-of-radio-than-satellite-communication-4)
+  - [Why use frequencies of gigahertz for satellite communication \[1\]](#why-use-frequencies-of-gigahertz-for-satellite-communication-1)
   - [Why the uplink and downlink frequencies must be different \[2\]](#why-the-uplink-and-downlink-frequencies-must-be-different-2)
   - [What is meant by an `analogue signal` \[1\]](#what-is-meant-by-an-analogue-signal-1)
   - [What is meant by a `digital signal` \[2\]](#what-is-meant-by-a-digital-signal-2)
@@ -26,7 +29,11 @@
   - [Explain the purpose of the switch in the mobile phone circuitry \[1\]](#explain-the-purpose-of-the-switch-in-the-mobile-phone-circuitry-1)
   - [Explain the purpose of the parallel-to-serial converter \[2\]](#explain-the-purpose-of-the-parallel-to-serial-converter-2)
 - [Medical Physics](#medical-physics)
+  - [What is meant by `specific acoustic impedance` of a medium \[2\]](#what-is-meant-by-specific-acoustic-impedance-of-a-medium-2)
+  - [What is meant by `attenuation` of an ultrasound wave \[1\]](#what-is-meant-by-attenuation-of-an-ultrasound-wave-1)
+  - [Describe the principles of CT scanning \[5\]](#describe-the-principles-of-ct-scanning-5)
   - [Describe the functions of the two B-fields in MRI \[4\]](#describe-the-functions-of-the-two-b-fields-in-mri-4)
+  - [Explain the function of the non-uniform magnetic field in MRI \[3\]](#explain-the-function-of-the-non-uniform-magnetic-field-in-mri-3)
 
 Telecommunication
 -----------------

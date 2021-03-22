@@ -6,6 +6,8 @@
 - [Gravitation](#gravitation)
   - [Define `gravitational potential` at a point \[2\]](#define-gravitational-potential-at-a-point-2)
   - [What is meant by a `gravitational field` \[2\]](#what-is-meant-by-a-gravitational-field-2)
+  - [What is meant by a `line of gravitational force` \[1\]](#what-is-meant-by-a-line-of-gravitational-force-1)
+  - [Why the gravitational field strength close to the Earth's surface is approximately constant \[3\]](#why-the-gravitational-field-strength-close-to-the-earths-surface-is-approximately-constant-3)
   - [State `Newton's law of gravitation` \[2\] / \[3\]](#state-newtons-law-of-gravitation-2--3)
 - [Oscillations](#oscillations)
   - [Why peak frequency `f0` in `a-f` graphs \[2\]](#why-peak-frequency-f0-in-a-f-graphs-2)
@@ -16,7 +18,6 @@
   - [`Damping` for oscillating Magnet with coils \[5\]](#damping-for-oscillating-magnet-with-coils-5)
   - [What is meant by `resonance` \[2\]](#what-is-meant-by-resonance-2)
   - [Benefits and drawbacks of `resonance` \[2\]](#benefits-and-drawbacks-of-resonance-2)
-
 
 Circular Motion
 ---------------

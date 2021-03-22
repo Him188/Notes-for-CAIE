@@ -13,6 +13,7 @@
   - [State `Faraday's law of electromagnetic induction` \[2\]](#state-faradays-law-of-electromagnetic-induction-2)
   - [State `Lenz's law` \[2\]](#state-lenzs-law-2)
   - [Define `magnetic flux density` \[3\]](#define-magnetic-flux-density-3)
+  - [What is meant by the `magnetic flux linkage` of a coil \[3\]](#what-is-meant-by-the-magnetic-flux-linkage-of-a-coil-3)
   - [Why eddy currents are induced in the metal disc \[2\]](#why-eddy-currents-are-induced-in-the-metal-disc-2)
   - [Define `tesla` \[3\]](#define-tesla-3)
   - [What is meant by `electric potential` at a point \[2\]](#what-is-meant-by-electric-potential-at-a-point-2)
@@ -23,6 +24,7 @@
   - [Why capacitors store energy but no resultant charge \[3\]](#why-capacitors-store-energy-but-no-resultant-charge-3)
   - [Why `Q = CV` is not applicable to a plastic sphere \[3\]](#why-q--cv-is-not-applicable-to-a-plastic-sphere-3)
   - [Functionality of capacitors \[2\]](#functionality-of-capacitors-2)
+  - [Combining capacitors](#combining-capacitors)
 - [Alternating current](#alternating-current)
   - [What is meant by `root-mean-square`(`r.m.s`) value of an alternating current \[3\]](#what-is-meant-by-root-mean-squarerms-value-of-an-alternating-current-3)
   - [What is meant by `smoothing` \[1\]](#what-is-meant-by-smoothing-1)
@@ -34,12 +36,13 @@
   - [Why thermal energy is generated in the core \[2\]](#why-thermal-energy-is-generated-in-the-core-2)
   - [Why the p.d. across the load and the e.m.f. of the supply are not in phase \[2\]](#why-the-pd-across-the-load-and-the-emf-of-the-supply-are-not-in-phase-2)
 - [Direct Sensing](#direct-sensing)
+  - [Calculating gain](#calculating-gain)
   - [State properties of an `ideal operational amplifier` \[4\]](#state-properties-of-an-ideal-operational-amplifier-4)
   - [What is meant by `negative feedback` \[2\]](#what-is-meant-by-negative-feedback-2)
+  - [State two effects of negative feedback on the gain of an amplifier \[2\]](#state-two-effects-of-negative-feedback-on-the-gain-of-an-amplifier-2)
   - [What is meant by `virtual earth` \[3\]](#what-is-meant-by-virtual-earth-3)
   - [State two effects of negative feedback on an amplifier incorporating an op-amp \[2\]](#state-two-effects-of-negative-feedback-on-an-amplifier-incorporating-an-op-amp-2)
   - [State the function of a comparator \[2\]](#state-the-function-of-a-comparator-2)
-
 
 
 Electric Fields
