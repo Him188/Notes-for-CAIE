@@ -3,6 +3,8 @@
 - [Quantum Physics](#quantum-physics)
   - [State what is meant by `work function energy` \[1\]](#state-what-is-meant-by-work-function-energy-1)
   - [State what is meant by the `threshold frequency` \[2\]](#state-what-is-meant-by-the-threshold-frequency-2)
+  - [State what is meant by `infinite bandwidth` \[1\]](#state-what-is-meant-by-infinite-bandwidth-1)
+  - [State what is meant by `infinite slew rate` \[1\]](#state-what-is-meant-by-infinite-slew-rate-1)
   - [What is meant by the `de Broglie wavelength` \[2\]](#what-is-meant-by-the-de-broglie-wavelength-2)
   - [State the de Broglie relation \[2\]](#state-the-de-broglie-relation-2)
   - [State what is meant by a `photon` \[3\]](#state-what-is-meant-by-a-photon-3)
@@ -10,16 +12,23 @@
   - [State experimental observations that support the particle nature of electromagnetic radiation \[3\]](#state-experimental-observations-that-support-the-particle-nature-of-electromagnetic-radiation-3)
   - [Explain how the line spectrum of hydrogen provides evidence for the existence of discrete electron energy levels in atoms. \[3\]](#explain-how-the-line-spectrum-of-hydrogen-provides-evidence-for-the-existence-of-discrete-electron-energy-levels-in-atoms-3)
   - [Explain why threshold frequency and short emission time provide evidence for the particulate nature of e.m. radiation, as opposed to wave theory \[4\]](#explain-why-threshold-frequency-and-short-emission-time-provide-evidence-for-the-particulate-nature-of-em-radiation-as-opposed-to-wave-theory-4)
+  - [Describe the appearance of a visible line emission spectrum \[2\]](#describe-the-appearance-of-a-visible-line-emission-spectrum-2)
+  - [Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]](#use-band-theory-to-explain-why-the-resistance-of-semiconductor-increases-as-temperature-increases-4)
+  - [Why a continuous distribution of wavelengths in emission spectrum \[3\]](#why-a-continuous-distribution-of-wavelengths-in-emission-spectrum-3)
+  - [Why narrow peaks of increased intensity at certain wavelengths in emission spectrum \[3\]](#why-narrow-peaks-of-increased-intensity-at-certain-wavelengths-in-emission-spectrum-3)
   - [Describe the appearance of the spectrum of the absorption](#describe-the-appearance-of-the-spectrum-of-the-absorption)
   - [Explain how the energy band is produced](#explain-how-the-energy-band-is-produced)
-  - [Why metal's resistance increases as temperature increases](#why-metals-resistance-increases-as-temperature-increases)
   - [Why LDR's resistance decreases as light intensity increases](#why-ldrs-resistance-decreases-as-light-intensity-increases)
 - [Nuclear Physics](#nuclear-physics)
+  - [Describe the photoelectric effect \[2\]](#describe-the-photoelectric-effect-2)
   - [State what is meant by the `binding energy` of a nucleus \[2\]](#state-what-is-meant-by-the-binding-energy-of-a-nucleus-2)
   - [State what is meant by `nuclear fission` \[2\]](#state-what-is-meant-by-nuclear-fission-2)
   - [State what is meant by `nuclear fusion` \[1\]](#state-what-is-meant-by-nuclear-fusion-1)
+  - [What is meant by `random decay` \[1\]](#what-is-meant-by-random-decay-1)
+  - [What is meant by `radioactive decay` \[2\]](#what-is-meant-by-radioactive-decay-2)
   - [Define the `decay constant` of a radioactive isotope \[2\]](#define-the-decay-constant-of-a-radioactive-isotope-2)
   - [Define radioactive `half-life` \[2\]](#define-radioactive-half-life-2)
+  - [Calculating binding energy \[4\]](#calculating-binding-energy-4)
   - [Why the activity and measured count rate may be different?](#why-the-activity-and-measured-count-rate-may-be-different)
 - [Ideal Gases](#ideal-gases)
   - [What is meant by symbol `<c²>` \[2\]](#what-is-meant-by-symbol-c-2)
@@ -41,7 +50,6 @@
   - [`The first law of thermodynamics` \[3\]](#the-first-law-of-thermodynamics-3)
   - [Observations that show why temperature does not measure the amount of heat \[4\]](#observations-that-show-why-temperature-does-not-measure-the-amount-of-heat-4)
 
-
 Quantum Physics
 ---------------
 
@@ -52,6 +60,16 @@ Quantum Physics
 ### State what is meant by the `threshold frequency` \[2\]
 - minimum frequency for electron to be emitted
 - of electromagnetic radiation
+
+### State what is meant by `infinite bandwidth` \[1\]
+> w20 Q8 \[1\]
+
+- Gain is the same for all frequencies.
+
+### State what is meant by `infinite slew rate` \[1\]
+> w20 Q8 \[1\]
+
+- No time delay in change in output when input is changed.
 
 ### What is meant by the `de Broglie wavelength` \[2\]
 - wavelength of wave associated with a particle
@@ -76,10 +94,12 @@ Quantum Physics
 - similar to diffraction pattern observed with visible light
 
 ### State experimental observations that support the particle nature of electromagnetic radiation \[3\]
-- Threshold frequency
+> w20 Q11 \[2\]
+
 - Maximum k.e. independent of intensity
-- Instantaneous emission
 - Maximum k.e. dependent (not proportional) on frequency
+- Instantaneous emission
+- Threshold frequency
 
 ### Explain how the line spectrum of hydrogen provides evidence for the existence of discrete electron energy levels in atoms. \[3\]
 - Each line represents photon of specific energy.
@@ -112,6 +132,22 @@ Quantum Physics
 - Holes are left in the valence band.
 - *Both holes and electrons act as charge carriers.*
 - Increased number of charge carriers cause lower resistance.
+
+### Why a continuous distribution of wavelengths in emission spectrum \[3\]
+> w20 Q7 \[3\]
+
+![image_1](.images/image_1.png)
+
+- X-ray photon produced when electron is decelerated.
+- Larger acceleration results in larger photon energy.
+- Continuous range of accelerations so continuous spectrum of wavelengths.
+
+### Why narrow peaks of increased intensity at certain wavelengths in emission spectrum \[3\]
+> w20 Q7 \[3\]
+
+- Electron in target atom is excited.
+- Electron de-excites causing emission of a photon.
+- Discrete energy levels so discrete photon wavelengths.
 
 ### Describe the appearance of the spectrum of the absorption
 - Electrons in cold gas molecules interact with photons.
