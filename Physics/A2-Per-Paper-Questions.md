@@ -171,3 +171,61 @@ s19 42
 
 - Calculate mass defect
 - `E=mc²`
+
+
+s20 42
+------
+
+### Use band theory to explain why the resistance of copper wire increases as temperature increases \[4\]
+> s20 42 Q11
+
+- Conduction band and valence band overlap.
+- Number of charge carriers does not vary.
+- Increase in temperature gives rise to increased lattice vibrations.
+- Lattice vibrations hinder movement of charge carriers so resistance increases.
+
+### Why a nucleus of helium-4 does not spontaneously break down to become nuclei of hydrogen \[2\]
+> s20 42 Q12
+
+- Amount of energy released in forming hydrogen isotopes
+- ... is less than energy required to break apart helium nucleus.
+
+*or*
+
+- Binding energy per nucleon of helium is much greater,
+- so would require a large amount of energy to separate nucleons in helium.
+
+### What is meant by `mass defect` of a nucleus \[2\]
+> s20 42 Q12
+
+- Difference between mass of nucleus and mass of nucleons where nucleons are separated to infinity.
+
+### Why use optic fibres than wire pair \[3\]
+> s20 42 Q6 \[3\]
+
+- Less attenuation
+- Less noise
+- Grater bandwidth
+- Less cross-linking (greater security)
+
+### Explain the principles of the **detection** of `ultrasound waves` \[4\]
+> s20 42 Q5
+
+- Pulses of ultrasound.
+- Ultrasound incident on quartz crystal.
+- Waves make quartz oscillate.
+- Oscillations of crystal generates e.m.f.
+
+### Why little transmission of ultrasound waves from air into skin (specific acoustic impedance) \[3\]
+> s20 42 Q5
+
+- *Specific acoustic impedance*s of air and skin are very ***different***.
+- *Intensity reflection coefficient* depends on difference between acoustic impedance.
+- Most ultrasound reflected so little transmission.
+
+### Why output p.d. of a transformer is alternating \[3\]
+> s20 42 Q10
+
+- e.m.f. varies as rate of change of flux changes.
+- Direction of e.m.f. changes when direction of change of flux reverses.
+- Flux is continuously increasing and decreasing.

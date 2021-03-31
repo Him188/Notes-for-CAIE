@@ -13,7 +13,7 @@
   - [Explain how the line spectrum of hydrogen provides evidence for the existence of discrete electron energy levels in atoms. \[3\]](#explain-how-the-line-spectrum-of-hydrogen-provides-evidence-for-the-existence-of-discrete-electron-energy-levels-in-atoms-3)
   - [Explain why threshold frequency and short emission time provide evidence for the particulate nature of e.m. radiation, as opposed to wave theory \[4\]](#explain-why-threshold-frequency-and-short-emission-time-provide-evidence-for-the-particulate-nature-of-em-radiation-as-opposed-to-wave-theory-4)
   - [Describe the appearance of a visible line emission spectrum \[2\]](#describe-the-appearance-of-a-visible-line-emission-spectrum-2)
-  - [Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]](#use-band-theory-to-explain-why-the-resistance-of-semiconductor-increases-as-temperature-increases-4)
+  - [Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]](#use-band-theory-to-explain-why-the-resistance-of-semiconductor-decreases-as-temperature-increases-4)
   - [Why a continuous distribution of wavelengths in emission spectrum \[3\]](#why-a-continuous-distribution-of-wavelengths-in-emission-spectrum-3)
   - [Why narrow peaks of increased intensity at certain wavelengths in emission spectrum \[3\]](#why-narrow-peaks-of-increased-intensity-at-certain-wavelengths-in-emission-spectrum-3)
   - [Describe the appearance of the spectrum of the absorption](#describe-the-appearance-of-the-spectrum-of-the-absorption)
@@ -122,7 +122,7 @@ Quantum Physics
 - Mostly dark
 - Coloured lines
 
-### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]
+### Use band theory to explain why the resistance of semiconductor decreases as temperature increases \[4\]
 > w19 42 Q10 \[4\]  
 > s19 42 Q7 \[5\]
 
@@ -133,6 +133,14 @@ Quantum Physics
 - Holes are left in the valence band.
 - *Both holes and electrons act as charge carriers.*
 - Increased number of charge carriers cause lower resistance.
+
+### Use band theory to explain why the resistance of copper wire increases as temperature increases \[4\]
+> s20 42 Q11
+
+- Conduction band and valence band overlap.
+- Number of charge carriers does not vary.
+- Increase in temperature gives rise to increased lattice vibrations.
+- Lattice vibrations hinder movement of charge carriers so resistance increases.
 
 ### Why a continuous distribution of wavelengths in emission spectrum \[3\]
 > w20 Q7 \[3\]
@@ -220,16 +228,25 @@ For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-
 - Absorption in air before reaching detector.
 - Emission from daughter products.
 
+### Why a nucleus of helium-4 does not spontaneously break down to become nuclei of hydrogen \[2\]
+> s20 42 Q12
+
+- Amount of energy released in forming hydrogen isotopes
+- ... is less than energy required to break apart helium nucleus.
+
+*or*
+
+- Binding energy per nucleon of helium is much greater,
+- so would require a large amount of energy to separate nucleons in helium.
+
+### What is meant by `mass defect` of a nucleus \[2\]
+> s20 42 Q12
+
+- Difference between mass of nucleus and mass of nucleons where nucleons are separated to infinity.
 
 Ideal Gases
 -----------
 
-### What is meant by symbol `<c²>` \[2\]
-- Mean value of the square
-- ... of the speeds of the particles.
-
-### State the meaning of the symbol `<c²>` \[1\]
-- **mean square speed**
 
 ### State what is meant by an `ideal gas` \[2\]
 - Obeys the law `pV=nRT`
@@ -240,6 +257,24 @@ Ideal Gases
 - `p` - pressure
 - `V` - volume
 - `T` - temperature
+
+### r.m.s. equation \[4\]
+> s20 42 Q2
+
+```
+p = (1/3)ρ<c²>
+```
+
+Explain how terms are derived:
+- `ρ`: NM/V *(from PV=nRT)*
+- `1/3`: molecules move ini 3 directions
+
+### What is meant by symbol `<c²>` \[2\]
+- Mean value of the square
+- ... of the speeds of the particles.
+
+### State the meaning of the symbol `<c²>` \[1\]
+- **mean square speed**
 
 ### State two conditions for `pV=constant × T` to be valid \[2\]
 - Fixed mass of gas

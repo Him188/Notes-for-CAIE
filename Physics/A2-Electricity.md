@@ -189,11 +189,6 @@ Basics:
 - Larger capacitance produces more smoothing
 - ... for the same load.
 
-### Why alternating current in the primary coil is not in phase with the alternating e.m.f induced in the secondary coil \[3\]
-- Flux in core is in phase with current in the primary coil
-- Secondary coil cuts flux so induced e.m.f.
-- Flux and rate of change of flux not in phase
-
 ### Why the coils are wound on a core made of iron \[1\]
 - *To prevent flux losses*
 
@@ -208,19 +203,24 @@ Basics:
 - *Changing flux induces current in the core*
 - ..., *causing heating effect*
 
+### Why alternating current in the primary coil is not in phase with the alternating e.m.f induced in the secondary coil \[3\]
+- Flux in core is in phase with current in the primary coil
+- Secondary coil cuts flux so induced e.m.f.
+- Flux and rate of change of flux not in phase
+
 ### Why the p.d. across the load and the e.m.f. of the supply are not in phase \[2\]
 - Magnetic flux in phase with e.m.f. in primary coil.
 - e.m.f. across secondary coil is proportional to the rate of change of flux.
 
+### Why output p.d. of a transformer is alternating \[3\]
+> s20 42 Q10
+
+- e.m.f. varies as rate of change of flux changes.
+- Direction of e.m.f. changes when direction of change of flux reverses.
+- Flux is continuously increasing and decreasing.
+
 Direct Sensing
 --------------
-
-### Calculating gain
-> s18 42 Q7
-
-```math
-G = \frac{V_{out}}{V_{in}} +1 
-```
 
 ### State properties of an `ideal operational amplifier` \[4\]
 - Infinite gain
@@ -241,9 +241,11 @@ G = \frac{V_{out}}{V_{in}} +1
 - Greater bandwidth
 
 ### What is meant by `virtual earth` \[3\]
-- Op-amp has very large gain.
+> s20 42 Q8
+
+- Infinite gain.
+- Feedback loop ensures `V+ ≈ V-` (any difference between `V+` and `V-` results in saturated output)
 - Non-inverting input is earthed.
-- If amplifier is not to saturate, inverting input must be 0V, same potential as inverting input.
 
 ### State two effects of negative feedback on an amplifier incorporating an op-amp \[2\]
 - Reduces gain
@@ -253,3 +255,26 @@ G = \frac{V_{out}}{V_{in}} +1
 ### State the function of a comparator \[2\]
 - To compare two potentials.
 - Output depends upon which is greater.
+
+### Calculating gain
+> s18 42 Q7
+> s20 42 Q8
+
+```math
+G = \frac{V_{out}}{V_{in}}
+ ```
+
+- normal amplifier
+  ```math
+  G = \frac{R_{out}}{R_{in}}
+   ```
+
+- *non-inverting* amplifier
+  ```math
+  G = \frac{R_{out}}{R_{in}} + 1 
+   ```
+
+- *inverting* amplifier
+  ```math
+  G = -\frac{R_{out}}{R_{in}}
+   ```

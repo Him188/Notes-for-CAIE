@@ -62,6 +62,14 @@ Telecommunication
 - For signal only the high and low are necessary.
 - Variation between highs and lows caused by noise not required.
 
+### Why use optic fibres than wire pair \[3\]
+> s20 42 Q6 \[3\]
+
+- Less attenuation
+- Less noise
+- Grater bandwidth
+- Less cross-linking (greater security)
+
 ### Why use infra-red than visible light in optic fibres \[2\]
 - Less attenuation
 - Fewer amplifiers
@@ -203,3 +211,21 @@ Medical Physics
 - Non-uniform field is accurately calibrated.
 - Non-uniform field may be varied to enable detection in different positions.
 - Unique field strength at each point.
+
+### Explain the principles of the **detection** of `ultrasound waves` \[4\]
+> s20 42 Q5
+
+- Pulses of ultrasound.
+- Ultrasound incident on quartz crystal.
+- Waves make quartz oscillate.
+- Oscillations of crystal generates e.m.f.
+
+### Why little transmission of ultrasound waves from air into skin (specific acoustic impedance) \[3\]
+> s20 42 Q5
+
+- *Specific acoustic impedance*s of air and skin are very ***different***.
+- *Intensity reflection coefficient* depends on difference between acoustic impedance.
+- Most ultrasound reflected so little transmission.
+
+
+
