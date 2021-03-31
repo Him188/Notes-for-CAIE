@@ -95,7 +95,8 @@ Quantum Physics
 - similar to diffraction pattern observed with visible light
 
 ### State experimental observations that support the particle nature of electromagnetic radiation \[3\]
-> w20 Q11 \[2\]
+> w20 42 Q11 \[2\]
+> s17 42 Q10 \[2\]
 
 - Maximum k.e. independent of intensity
 - Maximum k.e. dependent (not proportional) on frequency
@@ -177,7 +178,9 @@ Quantum Physics
 Nuclear Physics
 ---------------
 
-For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-λt)` (provided)
+*Hints*
+
+- For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-λt)` (provided).
 
 ### Describe the photoelectric effect \[2\]
 > s18 42 Q10
@@ -188,6 +191,13 @@ For calculations involving decay, consider `A=λN` (not provided) and `A=A0 e^(-
 ### State what is meant by the `binding energy` of a nucleus \[2\]
 - Energy required to separate nucleons **in a nucleus**
 - ... to infinity.
+
+### Why binding energy per nucleon of U-235 is smaller than that of La-139 \[3\]
+> s17 42 Q12
+
+- When A > 56, binding energy per nucleon decreases as A increases.
+- U-235 has larger nucleon number,
+- ... so less.
 
 ### State what is meant by `nuclear fission` \[2\]
 - Heavy nucleus breaks up

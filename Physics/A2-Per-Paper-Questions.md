@@ -211,8 +211,8 @@ s20 42
 ### Explain the principles of the **detection** of `ultrasound waves` \[4\]
 > s20 42 Q5
 
-- Pulses of ultrasound.
-- Ultrasound incident on quartz crystal.
+- **Pulses** of ultrasound
+- ... incident on quartz crystal.
 - Waves make quartz oscillate.
 - Oscillations of crystal generates e.m.f.
 
@@ -229,3 +229,43 @@ s20 42
 - e.m.f. varies as rate of change of flux changes.
 - Direction of e.m.f. changes when direction of change of flux reverses.
 - Flux is continuously increasing and decreasing.
+
+s17 42
+------
+
+### How to improve the quality of the received analogue signal (ADC-DAC) \[4\]
+> s17 42 Q5 \[2\] (effects only)
+
+- Increase the number of bits used for each sample, to make `step height` smaller.
+- Increase frequency of sampling, to make `step width`(`step depth`) smaller
+
+### Explain the principles of the **use** of `ultrasound waves` \[6\]
+> s17 42 Q4
+
+> Bold - required.  
+> Italic - details, max \[2\].
+
+- **Pulses** of ultrasound
+- *... produced by quartz crystal.*
+- *Gel medium used to reduce reflection at skin.*
+- **Ultrasound reflected from boundaries.**
+- **Reflected wave detected by transmitter.**
+- **Reflected wave processed and displayed.**
+- *Intensity of reflected wave gives information about boundary.*
+- *Time delay gives information about depth of boundary.*
+
+### State experimental observations that support the particle nature of electromagnetic radiation \[3\]
+> w20 42 Q11 \[2\]  
+> s17 42 Q10 \[2\]
+
+- Maximum k.e. independent of intensity
+- Maximum k.e. dependent (not proportional) on frequency
+- Instantaneous emission
+- Threshold frequency
+
+### Why binding energy per nucleon of U-235 is smaller than that of La-139 \[3\]
+> s17 42 Q12
+
+- When A > 56, binding energy per nucleon decreases as A increases.
+- U-235 has larger nucleon number,
+- ... so less.

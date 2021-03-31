@@ -148,8 +148,10 @@ Telecommunication
 - ... so convenient length aerial.
 
 ### How to improve the quality of the received analogue signal (ADC-DAC) \[4\]
+> s17 42 Q5 \[2\] (effects only)
+
 - Increase the number of bits used for each sample, to make `step height` smaller.
-- Increase frequency of sampling, to make `step width` smaller
+- Increase frequency of sampling, to make `step width`(`step depth`) smaller
 
 ### Why neighbouring cells use different carrier frequencies (mobile phone) \[1\]
 - No interference **near boundaries**.
@@ -215,10 +217,25 @@ Medical Physics
 ### Explain the principles of the **detection** of `ultrasound waves` \[4\]
 > s20 42 Q5
 
-- Pulses of ultrasound.
-- Ultrasound incident on quartz crystal.
+- **Pulses** of ultrasound
+- ... incident on quartz crystal.
 - Waves make quartz oscillate.
 - Oscillations of crystal generates e.m.f.
+
+### Explain the principles of the **use** of `ultrasound waves` \[6\]
+> s17 42 Q4
+
+> Bold - required, \[4\].  
+> Italic - details, max \[2\].
+
+- **Pulses** of ultrasound
+- *... produced by quartz crystal.*
+- *Gel medium used to reduce reflection at skin.*
+- **Ultrasound reflected from boundaries.**
+- **Reflected wave detected by transmitter.**
+- **Reflected wave processed and displayed.**
+- *Intensity of reflected wave gives information about boundary.*
+- *Time delay gives information about depth of boundary.*
 
 ### Why little transmission of ultrasound waves from air into skin (specific acoustic impedance) \[3\]
 > s20 42 Q5

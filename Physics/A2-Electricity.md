@@ -110,6 +110,10 @@ Electromagnetism
 - **magnetic flux density** × ***cross-sectional*** area
 - ... × number of turns of the coil
 
+### Why induced e.m.f. alternating \[2\]
+- (Lenz) e.m.f. opposes change causing it.
+- As direction of movement changes, so does e.m.f.
+
 ### Why eddy currents are induced in the metal disc \[2\]
 - Field in disc not uniform
 - ... so different e.m.f. in different parts of disc
@@ -123,12 +127,23 @@ Electromagnetism
 - Work done in moving unit positive charge
 - ... from infinity *to the point*.
 
-### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
-- `VH` depends on **the sine of** angle between (plane of) probe and B-field.
+### Talking about `Hall probe`
 
-### Why induced e.m.f. alternating \[2\]
-- (Lenz) e.m.f. opposes change causing it.
-- As direction of movement changes, so does e.m.f.
+Always link the formula for `VH`.
+
+#### Why a Hall probe is made from a thin slice of material \[2\]
+> s17 42 Q9
+
+- Hall voltage depends on thickness of slice.
+- Sinner slice, larger voltage.
+
+#### Why current in Hall probe must be constant to measure magnetic flux density \[1\]
+> s17 42 Q9
+
+- Hall voltage depends on current in slice.
+
+#### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
+- `VH` depends on **the sine of** angle between (plane of) probe and B-field.
 
 Capacitance
 -----------
