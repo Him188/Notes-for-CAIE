@@ -54,13 +54,15 @@
 Quantum Physics
 ---------------
 
-### State what is meant by `work function energy` \[1\]
-- Energy of photon
-- to cause emission of electron from surface
+### State what is meant by `work function energy` \[2\]
+> m20 42 Q10
+
+- ***Minimum*** energy of photon required to remove an electron
+- ... from surface.
 
 ### State what is meant by the `threshold frequency` \[2\]
-- minimum frequency for electron to be emitted
-- of electromagnetic radiation
+- Minimum frequency for electron to be emitted
+- of electromagnetic radiation.
 
 ### State what is meant by `infinite bandwidth` \[1\]
 > w20 Q8 \[1\]
@@ -299,9 +301,12 @@ Explain how terms are derived:
 - ... containing same number of particles as in 0.012 kg of carbon-12.
 
 ### How molecular movement causes the pressure exerted by a gas \[3\]
-- Molecules rebound from wall of vessel.
-- Change in momentum gives rise to impulse.
-- Many impulses averaged to give constant force.
+> m20 42 Q2
+
+- **Molecules rebound from wall of vessel.**
+- **Change in momentum gives rise to impulse.**
+- *Forces on molecule so force on wall.*
+- **Many impulses averaged to give constant force.**
 
 
 ### State the basic assumptions of the kinetic theory of gases \[4\]

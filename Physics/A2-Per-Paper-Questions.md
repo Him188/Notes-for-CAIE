@@ -279,3 +279,45 @@ m19 42
 - Gravitational force is always attractive.
 - Potential at infinity is zero.
 - Potential energy decreases as mass approaches.
+
+
+m20 42
+------
+
+### How molecular movement causes the pressure exerted by a gas \[3\]
+> m20 42 Q2
+
+- **Molecules rebound from wall of vessel.**
+- **Change in momentum gives rise to impulse.**
+- *Forces on molecule so force on wall.*
+- **Many impulses averaged to give constant force.**
+
+### Why ultrasound used in medical diagnosis is emitted in pulses \[2\]
+> m20 42 Q4
+
+- Allows reflected signal to be distinguished from the emitted signal.
+- Detection occurs in the time between emitted pulses.
+- Reflected sound detected by same crystal.
+- Cannot emit and detect at the same time.
+
+### State what is meant by `work function energy` \[2\]
+> m20 42 Q10
+
+- ***Minimum*** energy of photon required to remove an electron
+- ... from surface.
+
+### Why an aluminium filter may be placed in the X-ray beam \[3\]
+> m20 42 Q11
+
+- X-ray beam contains many wavelengths.
+- **Low energy X-rays absorbed by Aluminium filter**
+- ... so not absorbed in the body.
+- Low energy X-rays can cause harm but do not contribute to the image.
+
+### Explain difference between X-ray images of bone and of muscle, referring to lightness of images \[2\]
+> m20 42 Q11
+
+> Whiter regions mean greater absorption.
+
+- Bone has higher `μ` so absorbs more.
+- Bone is lighter.

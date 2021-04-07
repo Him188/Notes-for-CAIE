@@ -197,6 +197,22 @@ Medical Physics
 - This is repeated for **many slices**
 - ... to build up a 3D image.
 
+### Why an aluminium filter may be placed in the X-ray beam \[3\]
+> m20 42 Q11
+
+- X-ray beam contains many wavelengths.
+- **Low energy X-rays absorbed by Aluminium filter**
+- ... so not absorbed in the body.
+- Low energy X-rays can cause harm but do not contribute to the image.
+
+### Explain difference between X-ray images of bone and of muscle, referring to lightness of images \[2\]
+> m20 42 Q11
+
+> Whiter regions mean greater absorption.
+
+- Bone has higher `μ` so absorbs more.
+- Bone is lighter.
+
 ### Describe the functions of the two B-fields in MRI \[4\]
 - Strong uniform field
 - ... aligns nuclei.
@@ -236,6 +252,14 @@ Medical Physics
 - **Reflected wave processed and displayed.**
 - *Intensity of reflected wave gives information about boundary.*
 - *Time delay gives information about depth of boundary.*
+
+### Why ultrasound used in medical diagnosis is emitted in pulses \[2\]
+> m20 42 Q4
+
+- Allows reflected signal to be distinguished from the emitted signal.
+- Detection occurs in the time between emitted pulses.
+- Reflected sound detected by same crystal.
+- Cannot emit and detect at the same time.
 
 ### Why little transmission of ultrasound waves from air into skin (specific acoustic impedance) \[3\]
 > s20 42 Q5
