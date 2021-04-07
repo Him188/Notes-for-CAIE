@@ -269,3 +269,13 @@ s17 42
 - When A > 56, binding energy per nucleon decreases as A increases.
 - U-235 has larger nucleon number,
 - ... so less.
+
+m19 42
+------
+
+### Why gravitational potential near a mass is always negative \[3\]
+> m19 42 Q1
+
+- Gravitational force is always attractive.
+- Potential at infinity is zero.
+- Potential energy decreases as mass approaches.

@@ -108,11 +108,11 @@ Telecommunication
 - Different frequencies prevent swamping of uplink signal.
 
 ### The features of the geostationary orbit \[2\]
-> w18 42 Q5
+> w18 42 Q5 \[2\]  
+> m19 42 Q4
 
 - above the Equator.
 - from west to east / same direction as Earth's rotation.
-- circular.
 - Period is 24 hours.
 
 ### Compare ionospheric reflection of radio than satellite communication \[4\]

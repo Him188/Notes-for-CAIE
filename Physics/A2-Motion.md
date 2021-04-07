@@ -58,6 +58,13 @@ Gravitation
 - Earth has large radius so lines are approximately parallel
 - ... so constant field strength.
 
+### Why gravitational potential near a mass is always negative \[3\]
+> m19 42 Q1
+
+- Gravitational force is always attractive.
+- Potential at infinity is zero.
+- Potential energy decreases as mass approaches.
+
 ### State `Newton's law of gravitation` \[2\] / \[3\]
 - ***Force proportional to product of masses***
 - ***Force inversely proportional to square of separation***
