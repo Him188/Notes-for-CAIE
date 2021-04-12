@@ -83,9 +83,11 @@ Telecommunication
 | ground wave | more than 100 m | 1000 km       |
 
 
-### What is meant by `cross-talk` \[2\]
-- picking up of signal in one cable
-- ... from a second cable.
+### What is meant by `cross-talk` / `crosslinking` \[2\]
+> s20 43 Q6 \[2\]
+
+- Power is radiated.
+- Signal picked up by adjacent wire.
 
 ### Functions of the copper braid \[2\]
 - acts as 'return' for the signal.

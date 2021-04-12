@@ -47,9 +47,14 @@ Gravitation
 - ... *where a mass experiences a force*
 
 ### What is meant by a `line of gravitational force` \[1\]
-> s18 42 Q1
+> s18 42 Q1 \[1\]
 
 - *Tangent to the line gives direction of force **on a mass***
+
+### What is meant by `gravitational force` \[1\]
+> s20 43 Q1 \[1\]
+
+- Force acting between two masses.
 
 ### Why the gravitational field strength close to the Earth's surface is approximately constant \[3\]
 > s18 42 Q1

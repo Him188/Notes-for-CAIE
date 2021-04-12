@@ -120,8 +120,10 @@ Electromagnetism
 - ... lead to eddy currents.
 
 ### Define `tesla` \[3\]
-- Flux normal to long straight wire carrying a current of 1A
-- ... creates force per unit length of 1 N/m.
+> s20 43 Q8 \[3\]
+
+- Flux **normal** to long straight wire carrying a current of **1A**
+- ... creates force **per unit length** of 1 N/m.
 
 ### What is meant by `electric potential` at a point \[2\]
 - Work done in moving unit positive charge
@@ -270,6 +272,12 @@ Direct Sensing
 ### State the function of a comparator \[2\]
 - To compare two potentials.
 - Output depends upon which is greater.
+
+### State the function of a `non-inverting amplifier` \[2\]
+> s20 43 Q7 \[2\]
+
+- Output signal proportional to input signal.
+- Output signal has same sign as input.
 
 ### Calculating gain
 > s18 42 Q7

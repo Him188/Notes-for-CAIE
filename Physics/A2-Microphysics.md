@@ -140,10 +140,19 @@ Quantum Physics
 ### Use band theory to explain why the resistance of copper wire increases as temperature increases \[4\]
 > s20 42 Q11
 
-- Conduction band and valence band overlap.
+- **Conduction band and valence band overlap.**
 - Number of charge carriers does not vary.
 - Increase in temperature gives rise to increased lattice vibrations.
 - Lattice vibrations hinder movement of charge carriers so resistance increases.
+
+### Use concept of to explain the existence of the dark lines in emission spectrum of cool gas incident with white light \[4\]
+> s20 43 Q10
+
+- Electron gain energy from photon.
+- Energy of photon is equal to difference in energy levels.
+- Electron moves to higher energy level.
+- Electron de-excites and emits photon
+- ... in all directions.
 
 ### Why a continuous distribution of wavelengths in emission spectrum \[3\]
 > w20 Q7 \[3\]
@@ -213,6 +222,15 @@ Nuclear Physics
 
 - decay is **unpredictable**
 
+### What is meant by `spontaneous` and `random` in `decay` \[2\]
+> s20 43 Q12
+
+**spontaneous:**
+- decay is not affected by environment
+
+**random:**
+- time at which a nucleus will decay is not predictable.
+
 ### What is meant by `radioactive decay` \[2\]
 > s18 42 Q10
 
@@ -234,10 +252,10 @@ Nuclear Physics
 - Calculate mass defect
 - `E=mc²`
 
-### Why the activity and measured count rate may be different?
-- Background radiation.
-- Radiation is emitted in all directions.
-- Absorption in air before reaching detector.
+### Why actual activity not the same with calculated \[2\]
+> s20 43 Q12 \[2\]
+
+- Additional source of activity.
 - Emission from daughter products.
 
 ### Why a nucleus of helium-4 does not spontaneously break down to become nuclei of hydrogen \[2\]
