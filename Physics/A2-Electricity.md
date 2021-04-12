@@ -68,6 +68,8 @@ Electric Fields
 - *Force per unit positive charge*
 
 ### What is meant by a line of force in an electric field \[2\]
+> m18 42 Q1 \[1\]
+
 - Tangent to line gives direction of force on a unit **positive** test charge.
 
 ### What is meant by `potential energy` of a body \[2\]
@@ -96,6 +98,12 @@ Electromagnetism
 ### State `Lenz's law` \[2\]
 - Induced e.m.f. acts in such a direction ***to produce effects***
 - to oppose the change causing it
+
+### Define `magnetic flux` \[2\]
+> m18 42 Q10 \[2\]
+
+- Product of flux density and area
+- ... normal to the flux.
 
 ### Define `magnetic flux density` \[3\]
 > w18 42 Q8

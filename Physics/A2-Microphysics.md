@@ -65,12 +65,14 @@ Quantum Physics
 - of electromagnetic radiation.
 
 ### State what is meant by `infinite bandwidth` \[1\]
-> w20 Q8 \[1\]
+> w20 Q8 \[1\]  
+> m18 42 Q8 \[1\]
 
 - Gain is the same for all frequencies.
 
 ### State what is meant by `infinite slew rate` \[1\]
-> w20 Q8 \[1\]
+> w20 Q8 \[1\]  
+> m18 42 Q8 \[1\]
 
 - No time delay in change in output when input is changed.
 
@@ -138,9 +140,10 @@ Quantum Physics
 - Increased number of charge carriers cause lower resistance.
 
 ### Use band theory to explain why the resistance of copper wire increases as temperature increases \[4\]
-> s20 42 Q11
+> s20 42 Q11 \[4\]  
+> m18 42 Q11 \[4\]
 
-- **Conduction band and valence band overlap.**
+- **Conduction band and valence band overlap.** */ No forbidden band.*
 - Number of charge carriers does not vary.
 - Increase in temperature gives rise to increased lattice vibrations.
 - Lattice vibrations hinder movement of charge carriers so resistance increases.

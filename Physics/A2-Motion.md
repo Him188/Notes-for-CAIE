@@ -108,6 +108,11 @@ Oscillations
 - ..., so the energy of the system loss.
 - Force **opposes** motion of magnet
 
+### What is meant by `natural frequency` \[1\]
+> m18 42 Q4
+
+- Frequency at which body will vibrate when there is no resultant external resistive force acting on it.
+
 ### What is meant by `resonance` \[2\]
 - large amplitude of vibration
 - ... when impressed frequency equal natural frequency of vibration.

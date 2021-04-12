@@ -215,6 +215,14 @@ Medical Physics
 - Bone has higher `μ` so absorbs more.
 - Bone is lighter.
 
+### Two causes of lack of sharpness of an X-ray image \[2\]
+> m18 42 Q12 \[2\]
+
+- Scattering of X-ray beam.
+- Lack of collimation of beam.
+- Anode area large.
+- Photon energy low.
+
 ### Describe the functions of the two B-fields in MRI \[4\]
 - Strong uniform field
 - ... aligns nuclei.
@@ -241,7 +249,8 @@ Medical Physics
 - Oscillations of crystal generates e.m.f.
 
 ### Explain the principles of the **use** of `ultrasound waves` \[6\]
-> s17 42 Q4
+> s17 42 Q4 \[6\]  
+> m18 42 Q5 \[6\]
 
 > Bold - required, \[4\].  
 > Italic - details, max \[2\].
@@ -252,8 +261,8 @@ Medical Physics
 - **Ultrasound reflected from boundaries.**
 - **Reflected wave detected by transmitter.**
 - **Reflected wave processed and displayed.**
-- *Intensity of reflected wave gives information about boundary.*
-- *Time delay gives information about depth of boundary.*
+- *Intensity of reflected wave gives information about **boundary**.*
+- *Time delay gives information about **depth** of boundary.*
 
 ### Why ultrasound used in medical diagnosis is emitted in pulses \[2\]
 > m20 42 Q4
