@@ -16,6 +16,7 @@
 - [3.4 System Software](3.4-System-Software.md)
 - [3.5 Security](3.5-Security.md)
 - [3.6 Monitoring and control systems](3.6-Monitoring-and-control-systems.md)
+- [4 Programming](4-Programming.md): Combined Paper 4
 - [4.1 Computational thinking and problem solving](4.1-Computational-thinking-and-problem-solving.md)
 - [4.2 Algorithm design methods](4.2-Algorithm-design-methods.md)
 - [4.3 Further programming](4.3-Further-programming.md)
