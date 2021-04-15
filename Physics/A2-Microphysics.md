@@ -374,9 +374,11 @@ Thermal Physics
 - doing work against atmosphere
 
 ### `The first law of thermodynamics` \[3\]
+> m17 42 Q2 \[2\]
+
 `△U = q + W`
 
-- `△U`: increase in internal energy
+- `△U`: **increase** in internal energy
 - `q`: heat supplied to the system
 - `w`: work down on the system
 

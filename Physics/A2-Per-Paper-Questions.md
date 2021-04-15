@@ -143,12 +143,17 @@ w19 42
 - reduction in amplitude
 - ... as the wave pass through medium.
 
-### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[4\]
-> w19 42 Q10 \[4\]
+### Use band theory to explain why the resistance of semiconductor increases as temperature increases \[5\]
+> w19 42 Q10 \[4\]  
+> m17 42 Q11 \[5\]
 
-- Electron in valence band gain energy.
-- Electrons jump to conduction band.
+> write them all
+
+- Electrons in valence band gain energy
+- ... and jump to conduction band.
 - Holes are left in the valence band.
+- Both holes and moving electrons are charge carriers.
+- *Moving charge carriers are current.* *(m17 42)*
 - Increased number of charge carriers cause lower resistance.
 
 ### What is meant by `random decay` \[1\]

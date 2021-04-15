@@ -241,6 +241,14 @@ Medical Physics
 - Unique field strength at each point.
 
 ### Explain the principles of the **detection** of `ultrasound waves` \[4\]
+> m17 42 Q4 \[4\]
+
+- **Alternating** p.d. applied across
+- ... **quartz crystal**
+- ... causing crystal to vibrate.
+- Crystal resonates at ultrasound frequencies.
+
+### Explain the principles of the **detection** of `ultrasound waves` \[4\]
 > s20 42 Q5
 
 - **Pulses** of ultrasound

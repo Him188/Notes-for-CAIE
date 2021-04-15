@@ -217,6 +217,11 @@ Basics:
 ### Why the coils are wound on a core made of iron \[1\]
 - *To prevent flux losses*
 
+### Why use iron core \[1\]
+> m17 42 Q9 \[1\]
+
+- To reduce flux loses.
+
 ### Why the iron core is laminated \[2\]
 - To reduce power loss in the core
 - ... due to eddy currents.
@@ -246,6 +251,10 @@ Basics:
 
 Direct Sensing
 --------------
+
+### Diagram of `strain gauge` \[3\]
+
+![](.A2-Electricity_images/ce12f97e.png)
 
 ### State properties of an `ideal operational amplifier` \[4\]
 - Infinite gain
