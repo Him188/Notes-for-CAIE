@@ -152,7 +152,7 @@ Telecommunication
 ### How to improve the quality of the received analogue signal (ADC-DAC) \[4\]
 > s17 42 Q5 \[2\] (effects only)
 
-- Increase the number of bits used for each sample, to make `step height` smaller.
+- Increase the number of bits used for each sample, to make `step height` smaller, and **reproduced sound** more accurate.
 - Increase frequency of sampling, to make `step width`(`step depth`) smaller
 
 ### Why neighbouring cells use different carrier frequencies (mobile phone) \[1\]
@@ -240,8 +240,9 @@ Medical Physics
 - Non-uniform field may be varied to enable detection in different positions.
 - Unique field strength at each point.
 
-### Explain the principles of the **detection** of `ultrasound waves` \[4\]
-> m17 42 Q4 \[4\]
+### Explain the principles of the **generation** of `ultrasound waves` \[4\]
+> m17 42 Q4 \[4\]  
+> w17 42 Q4 \[5\]
 
 - **Alternating** p.d. applied across
 - ... **quartz crystal**
@@ -271,6 +272,11 @@ Medical Physics
 - **Reflected wave processed and displayed.**
 - *Intensity of reflected wave gives information about **boundary**.*
 - *Time delay gives information about **depth** of boundary.*
+
+### Why ultrasound use high frequency \[1\]
+> w17 42 Q4 \[1\]
+
+- Smaller structures can be resolved.
 
 ### Why ultrasound used in medical diagnosis is emitted in pulses \[2\]
 > m20 42 Q4

@@ -23,6 +23,8 @@ Circular Motion
 ---------------
 
 ### Define `radian` \[2\]
+> w17 42 Q3 \[2\]
+
 - *Angle subtended at the centre of circle*
 - ... *by an arc equal in length to the radius of the circle.*
 
@@ -34,6 +36,11 @@ For all contexts: \[1\]
 For some contexts, additional \[1\]
 - ..., *by the string*
 
+
+### What is meant by `angular frequency` \[1\]
+> m17 42 Q3 \[1\]
+
+- angular frequency = 2π × frequency
 
 Gravitation
 -----------
@@ -70,10 +77,11 @@ Gravitation
 - Potential at infinity is zero.
 - Potential energy decreases as mass approaches.
 
-### State `Newton's law of gravitation` \[2\] / \[3\]
-- ***Force proportional to product of masses***
-- ***Force inversely proportional to square of separation***
-- (For 3rd mark: reference to point masses or separation >> 'size' of masses.)
+### State `Newton's law of gravitation` \[2\]
+> w17 42 Q1 \[2\]
+
+- Force between two **point** masses
+- ... is proportional to product of masses and inversely proportional to square of separation
 
 Oscillations
 ------------

@@ -80,6 +80,12 @@ Electric Fields
 - Force proportional to product of two charges and inversely proportional to square of separation.
 - *(reference to point charges)*
 
+### Why charge on a spherical conductor may be considered to a point charge at centre for point outside the sphere \[2\]
+> w17 42 Q6 \[2\]
+
+- Electric field lines are radial.
+- Electric field lines **appear** to originate from centre.
+
 Electromagnetism
 ----------------
 
@@ -141,19 +147,27 @@ Electromagnetism
 
 Always link the formula for `VH`.
 
-#### Why a Hall probe is made from a thin slice of material \[2\]
+### Why a Hall probe is made from a thin slice of material \[2\]
 > s17 42 Q9
 
 - Hall voltage depends on thickness of slice.
 - Sinner slice, larger voltage.
 
-#### Why current in Hall probe must be constant to measure magnetic flux density \[1\]
+### Why current in Hall probe must be constant to measure magnetic flux density \[1\]
 > s17 42 Q9
 
 - Hall voltage depends on current in slice.
 
-#### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
+### Why Hall Voltage varies between a maximum positive value and a maximum negative value when rotating Hall probe \[3\]
 - `VH` depends on **the sine of** angle between (plane of) probe and B-field.
+
+### Why Hall Voltage is constant between surfaces \[4\]
+> w17 42 Q8
+
+- Charge carriers moving normal to field.
+- Charge carriers experience a force normal to `I`.
+- Charge build-up sets up electric field across the slice.
+- Charge stops building up when
 
 Capacitance
 -----------
@@ -262,17 +276,25 @@ Direct Sensing
 - Zero output impedance
 - Infinite bandwidth
 
-### What is meant by `negative feedback` \[2\]
-> s18 42 Q7
+### What is meant by (negative) `feedback` \[2\]
+> s18 42 Q7 \[2\]  
+> w17 42 Q7 \[2\]
 
-- Output is combined with the input
-- Output is ***subtracted*** from input
+- Output **potential** is **combined** with the input **potential**
+- Output **potential** is ***subtracted*** from input **potential**
 
 ### State two effects of negative feedback on the gain of an amplifier \[2\]
-> s18 42 Q7
+> s18 42 Q7 \[2\]
 
 - Smaller gain
 - Greater bandwidth
+
+### Benefits of feedback in an amplifier circuit \[2\]
+> w17 42 Q7 \[2\]
+
+- Increased stability.
+- Increased bandwidth of frequencies over with gain is constant.
+- Less distortion.
 
 ### What is meant by `virtual earth` \[3\]
 > s20 42 Q8

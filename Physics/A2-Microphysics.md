@@ -235,7 +235,8 @@ Nuclear Physics
 - time at which a nucleus will decay is not predictable.
 
 ### What is meant by `radioactive decay` \[2\]
-> s18 42 Q10
+> s18 42 Q10 \[2\]  
+> w17 42 Q12 \[2\]
 
 - ***Spontaneous*** emission of particles by **unstable nucleus**.
 
@@ -354,6 +355,12 @@ Thermal Physics
 ### What is meant by `specific latent heat` \[3\]
 - thermal energy required to change the state of a substance
 - ... per unit mass
+- ... without change in temperature
+
+### Define `specific latent heat` \[2\]
+> m17 42 Q2 \[2\]
+
+- Thermal energy per **unit** mass required to change state
 - ... without change in temperature
 
 ### Define `specific latent heat of fusion` \[2\]
