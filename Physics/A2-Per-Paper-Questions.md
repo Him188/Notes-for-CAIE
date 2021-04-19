@@ -62,14 +62,18 @@ s18 42
 
 - Range of frequencies of signal
 
-### Describe the principles of CT scanning \[5\]
-> s18 42 Q11
+### Describe the principles of `CT` scanning \[5\]
+> s18 42 Q11  
+> w20 43 Q10
 
-- **X-ray** image taken of **one slice**.
+*Write all:*
+
+- **X-ray** image taken of **one slice** of a **section** of the object.
 - Many images taken from **different angles**.
 - Computer produces 2D image **of slice**.
 - This is repeated for **many slices**
-- ... to build up a 3D image.
+- ... to build up a 3D image
+- ... by **combining images of sections**.
 
 ### What is meant by the `magnetic flux linkage` of a coil \[3\]
 > s18 42 Q9
@@ -103,7 +107,8 @@ G = \frac{V_{out}}{V_{in}} +1
 - ... when electromagnetic radiation incident on surface.
 
 ### What is meant by `radioactive decay` \[2\]
-> s18 42 Q10
+> s18 42 Q10  
+> w20 42 Q12
 
 - ***Spontaneous*** emission of particles by **unstable nucleus**.
 

@@ -191,9 +191,12 @@ Capacitance
 - ..., so charge can't be considered at the centre.
 
 ### Functionality of capacitors \[2\]
-- Store energy.
+> w20 43 Q6 \[3\]
+
 - Block direct current.
 - *Smoothing*.
+- Temporary power supply.
+- Timing delay.
 
 ### Combining capacitors
 
@@ -246,6 +249,13 @@ Basics:
 ### Why thermal energy is generated in the core \[2\]
 - *Changing flux induces current in the core*
 - ..., *causing heating effect*
+
+### Why alternating current in the primary coil gives rise to an induced e.m.f. in the secondary coil \[3\]
+> w20 43 Q9 \[3\]
+
+- Alternating current creates changing flux.
+- Core links flux with secondary coil.
+- Changing flux causes induced e.m.f.
 
 ### Why alternating current in the primary coil is not in phase with the alternating e.m.f induced in the secondary coil \[3\]
 - Flux in core is in phase with current in the primary coil

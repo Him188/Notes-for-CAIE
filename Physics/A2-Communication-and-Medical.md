@@ -242,12 +242,13 @@ Medical Physics
 
 ### Explain the principles of the **generation** of `ultrasound waves` \[4\]
 > m17 42 Q4 \[4\]  
-> w17 42 Q4 \[5\]
+> w17 42 Q4 \[5\]  
+> w20 43 Q4 \[4\]
 
-- **Alternating** p.d. applied across
-- ... **quartz crystal**
-- ... causing crystal to vibrate.
-- Crystal resonates at ultrasound frequencies.
+- *Alternating* p.d. applied across ***quartz crystal***, *(\[2\])*
+- ... causing it to vibrate.
+- Resonance occurs when frequency of p.d. matches natural frequency of crystal.
+- Natural frequency of crystal is in ultrasound range.
 
 ### Explain the principles of the **detection** of `ultrasound waves` \[4\]
 > s20 42 Q5
