@@ -24,6 +24,48 @@ Algorithms
 - Before procedure call is executed current state of the registers/local variables is saved onto the stack
 - When returning from a procedure call the registers/local variables are re-instated
 
+### What is meant by a `null pointer` in a linked list
+> w20 42 Q6 \[1\]
+
+- End of list.
+
+Abstract Data Types
+-------------------
+> w20 42 Q5 \[4\]
+
+### `Stack`
+- Linear structure.
+- LIFO.
+- Uses push to add items to top of stack.
+- Uses pop to remove items from t op of stack.
+
+### `Queue`
+- Linear structure.
+- FIFO.
+- Can be circular.
+- Uses enqueue to add item to end of queue.
+- Uses dequeue to add item to end of queue.
+
+### `Binary Tree`
+
+- Parent node is above, and child nodes follow.
+- Each node can have up to two children.
+- Has a root node.
+- Can have leaf nodes.
+- Can be ordered or unordered.
+- *Examples of ordering*
+
+### `Class`
+- A class represents an object.
+- Objects are instances of classes.
+- Has attributes and methods.
+- Classes can be inherited.
+
+### `Hash table`
+- Key calculated from value.
+- Key represents a location.
+- *Description of managing collisions*
+
 PERT charts
 -----------
 
@@ -89,6 +131,14 @@ Testing
 | Software is tested using normal, abnormal and boundary data |      √      |     √      |   √   |  √   |
 | Software is tested by releasing it to selected customers    |             |            |       |  √   |
 
+### Items that can include in a test plan
+> w20 42 Q4 \[2\]
+
+- Example test data
+- Test number
+- Type of test
+- Test description
+- Expected outcome
 
 Programming
 -----------
@@ -145,6 +195,11 @@ Programming Paradigm
 - Low-level
 - Object-oriented
 
+### What is meant by ``
+
+Object-oriented Programming
+---------------------------
+
 ### What is meant by `containment`
 > w20 43 Q3 \[2\]  
 > s20 42 Q6 \[3\]
@@ -158,23 +213,28 @@ Programming Paradigm
 
 
 ### What is meant by `inheritance`
-> w20 43 Q3 \[2\]
+> w20 43 Q3 \[2\]  
+> w20 42 Q4 \[2\]
 
-- A child class can use methods from the parent class
-- A child class can override methods from the parent class
+- A child class can **use** methods from the parent class
+- *XX class inherits from the class XX*
 
 
 ### What is meant by `polymorphism`
-> w20 43 Q3 \[2\]
+> w20 43 Q3 \[2\]  
+> w20 42 Q4 \[2\]
 
 - A child class can override from the parent class
+- *Function XX in XX class is overridden with function XX in class XX*
 
 ### Why fields are `private`
-> w18 43 Q5 \[2\]
+> w18 43 Q5 \[2\]  
+> w20 42 Q4 \[2\]
 
-- To restrict **direct** access to the property
-- To make the program easier to debug
-- To ensure data going in is valid
+- Limits access to given methods only.
+- Use of set method allows for validation
+- ... and ensures attribute is valid.
+- Ensure encapsulation.
 
 Exceptions
 ----------
