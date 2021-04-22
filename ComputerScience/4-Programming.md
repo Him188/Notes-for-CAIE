@@ -24,20 +24,8 @@ Algorithms
 - Before procedure call is executed current state of the registers/local variables is saved onto the stack
 - When returning from a procedure call the registers/local variables are re-instated
 
-### File organization
-> s20 42 Q8 \[3\]
-
-
-| Statement                      | Serial | Sequential | Random |
-|:-------------------------------|:------:|:----------:|:------:|
-| Hashing algorithm              |        |            |   √    |
-| No *key* field                 |   √    |            |        |
-| Collisions can occur           |        |            |   √    |
-| Least efficient for large data |   √    |            |        |
-| Most efficient for large data  |        |            |   √    |
-
-Design methods
---------------
+Decision tables
+---------------
 
 ### Decision tables
 
@@ -47,12 +35,20 @@ Example questions:
 
 - All the blocks in the table should be filled with `Y` or `N`.
 
+JSP Diagrams
+------------
+
 ### Features of JSP diagram
 > s20 42 Q4 \[2\]
 
 - Selection: `o`
 - Iteration: `*`
 - Sequence
+
+
+Testing
+-------
+
 
 ### Methods of testing
 > w20 43 Q2 \[4\]
@@ -92,6 +88,20 @@ SEEK FileName, RecordLocation
 GETRECORD FileName, BookInfo
 CLOSEFILE FileName
 ```
+
+### File organization
+> s20 42 Q8 \[3\]
+
+| Statement                      | Serial | Sequential | Random |
+|:-------------------------------|:------:|:----------:|:------:|
+| Hashing algorithm              |        |            |   √    |
+| No *key* field                 |   √    |            |        |
+| Collisions can occur           |        |            |   √    |
+| Least efficient for large data |   √    |            |        |
+| Most efficient for large data  |        |            |   √    |
+
+Programming Paradigm
+--------------------
 
 ### Define `programming paradigm`
 > w18 43 Q1 \[1\]
@@ -138,6 +148,9 @@ CLOSEFILE FileName
 - To make the program easier to debug
 - To ensure data going in is valid
 
+Exceptions
+----------
+
 ### What is meant by an `exception`
 > s20 43 Q1 \[1\]
 
@@ -155,7 +168,7 @@ CLOSEFILE FileName
 - Stack overflow
 - Memory leakage
 
-## The benefits of using exception handling
+### The benefits of using exception handling
 > s20 43 Q1 \[2\]
 
 - The program will not crash
