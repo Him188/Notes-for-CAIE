@@ -24,8 +24,36 @@ Algorithms
 - Before procedure call is executed current state of the registers/local variables is saved onto the stack
 - When returning from a procedure call the registers/local variables are re-instated
 
+PERT charts
+-----------
+
+### What is meant by `critical path` in a PERT chart
+> w19 43 Q1 \[1\]
+
+- The shortest time to complete the project.
+
+GANTT charts
+------------
+
+### Describe `GANTT` chart
+> w19 43 Q1 \[2\]
+
+- A table that has time across the top and activities on the left,
+  boxes are coloured to show dependencies and find critical path.
+
+
+- Way of modelling logic.
+- Show all possible outputs
+- ... based on the inputs.
+- Determine which action to take in specific condition.
+
+
 Decision tables
 ---------------
+
+### Describe the purpose of a decision table
+> w19 43 Q1 \[2\]
+
 
 ### Decision tables
 
@@ -176,3 +204,12 @@ Exceptions
 - Appropriate error message
 - Improve readability
 - Exceptional conditions are identified
+
+### Why software may not perform as expected
+> w19 43 Q3 \[3\]
+
+- Logic error
+- Error indesign
+- Runtime error
+- Not adequately tested
+
