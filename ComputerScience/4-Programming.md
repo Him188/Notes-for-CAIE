@@ -195,7 +195,13 @@ Programming Paradigm
 - Low-level
 - Object-oriented
 
-### What is meant by ``
+### What is meant by `imperative programming`
+> w20 42 Q4 \[2\]
+
+- Writing program as a sequence of steps
+- ... to get a result.
+- Statements in program manipulates the data.
+- Example is procedural programming.
 
 Object-oriented Programming
 ---------------------------
