@@ -84,18 +84,16 @@ GANTT charts
   boxes are coloured to show dependencies and find critical path.
 
 
-- Way of modelling logic.
-- Show all possible outputs
-- ... based on the inputs.
-- Determine which action to take in specific condition.
-
-
 Decision tables
 ---------------
 
 ### Describe the purpose of a decision table
 > w19 43 Q1 \[2\]
 
+- Way of modelling logic.
+- Show all possible outputs
+- ... based on the inputs.
+- Determine which action to take in specific condition.
 
 ### Decision tables
 
