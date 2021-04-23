@@ -273,7 +273,7 @@ Exceptions
 > w19 43 Q3 \[3\]
 
 - Logic error
-- Error indesign
+- Error in design
 - Runtime error
 - Not adequately tested
 
