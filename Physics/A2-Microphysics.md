@@ -99,13 +99,14 @@ Quantum Physics
 - similar to diffraction pattern observed with visible light
 
 ### State experimental observations that support the particle nature of electromagnetic radiation \[3\]
-> w20 42 Q11 \[2\]
-> s17 42 Q10 \[2\]
+> w20 42 Q11 \[2\]  
+> s17 42 Q10 \[2\]  
+> s19 42 Q11 \[3\]
 
-- Maximum k.e. independent of intensity
-- Maximum k.e. dependent (not proportional) on frequency
-- Instantaneous emission
-- Threshold frequency
+- **Maximum k.e. dependent (not proportional) on frequency**.
+- **Maximum k.e. independent of intensity**.
+- **Instantaneous emission pf electrons.**
+- No emission of electrons *below* threshold frequency.
 
 ### Explain how the line spectrum of hydrogen provides evidence for the existence of discrete electron energy levels in atoms. \[3\]
 - Each line represents photon of specific energy.
@@ -261,6 +262,15 @@ Nuclear Physics
 
 - Additional source of activity.
 - Emission from daughter products.
+
+### Why kinetic energy of product is less than total energy released \[2\]
+> s19 43 Q12 \[2\]
+>
+> `Po -> Pb + He`  
+> KE of `He` not eq to energy equivalent to mass defect.
+
+- Kinetic energy of recoil of `Pb`.
+- Energy of γ-ray photon.
 
 ### Why a nucleus of helium-4 does not spontaneously break down to become nuclei of hydrogen \[2\]
 > s20 42 Q12

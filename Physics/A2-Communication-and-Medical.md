@@ -239,16 +239,24 @@ Medical Physics
 - Non-uniform field
 - ... enables nuclei to be located.
 
-### Explain the function of the non-uniform magnetic field in MRI \[3\]
-> w18 42 Q10
+### The function of the large uniform magnetic field in MRI \[3\]
+> s19 42 Q9 \[3\]
+
+- Nuclei precess.
+- Precession is about direction of magnetic field.
+- frequency of precession depends on field strength.
+
+### Explain the function of the small non-uniform magnetic field in MRI \[3\]
+> w18 42 Q10 \[3\]  
+> s19 42 Q9 \[2\]
 
 > Write bold ones always.
 
 - **Enables nuclei to be located.**
-- **Resonant frequency depends on magnetic field strength.**
+- **Resonant frequency depends on magnetic field strength *at the point*.**
+- **Unique field strength at each point.**
 - Non-uniform field is accurately calibrated.
 - Non-uniform field may be varied to enable detection in different positions.
-- Unique field strength at each point.
 
 ### Explain the principles of the **generation** of `ultrasound waves` \[4\]
 > m17 42 Q4 \[4\]  
