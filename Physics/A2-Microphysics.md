@@ -264,7 +264,7 @@ Nuclear Physics
 - Emission from daughter products.
 
 ### Why kinetic energy of product is less than total energy released \[2\]
-> s19 43 Q12 \[2\]
+> s19 42 Q12 \[2\]
 >
 > `Po -> Pb + He`  
 > KE of `He` not eq to energy equivalent to mass defect.
