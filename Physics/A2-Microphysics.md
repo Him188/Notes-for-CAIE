@@ -64,12 +64,6 @@ Quantum Physics
 - Minimum frequency for electron to be emitted
 - of electromagnetic radiation.
 
-### State what is meant by `infinite bandwidth` \[1\]
-> w20 Q8 \[1\]  
-> m18 42 Q8 \[1\]
-
-- Gain is the same for all frequencies.
-
 ### State what is meant by `infinite slew rate` \[1\]
 > w20 Q8 \[1\]  
 > m18 42 Q8 \[1\]

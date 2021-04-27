@@ -42,6 +42,11 @@ For some contexts, additional \[1\]
 
 - angular frequency = 2π × frequency
 
+### What is meant by `displacement` \[1\]
+> w19 43 Q4 \[1\]
+
+- Distance from a point in a given direction.
+
 Gravitation
 -----------
 

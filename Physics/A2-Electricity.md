@@ -286,6 +286,18 @@ Direct Sensing
 - Zero output impedance
 - Infinite bandwidth
 
+### What is meant by `zero output inpedance` \[2\]
+> w19 43 Q7 \[1\]
+
+- No drop in output voltage.
+
+### State what is meant by `infinite bandwidth` \[1\]
+> w20 Q8 \[1\]  
+> m18 42 Q8 \[1\]  
+> w19 43 Q7 \[1\]
+
+- Gain is the same for all frequencies.
+
 ### What is meant by (negative) `feedback` \[2\]
 > s18 42 Q7 \[2\]  
 > w17 42 Q7 \[2\]

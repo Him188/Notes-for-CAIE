@@ -100,6 +100,8 @@ Telecommunication
 - Signal picked up by adjacent wire.
 
 ### Functions of the copper braid \[2\]
+> w19 43 Q5 \[2\]
+
 - acts as 'return' for the signal.
 - shields inner core from noise.
 
@@ -121,11 +123,13 @@ Telecommunication
 
 ### The features of the geostationary orbit \[2\]
 > w18 42 Q5 \[2\]  
-> m19 42 Q4
+> m19 42 Q4 \[2\]  
+> w19 43 Q1 \[2\]
 
 - above the Equator.
-- from west to east / same direction as Earth's rotation.
-- Period is 24 hours.
+- from west to east.
+- circular.
+- period is 24 hours.
 
 ### Compare ionospheric reflection of radio than satellite communication \[4\]
 - Ion layer varies in height **so unreliable**.
@@ -240,22 +244,23 @@ Medical Physics
 - ... enables nuclei to be located.
 
 ### The function of the large uniform magnetic field in MRI \[3\]
-> s19 42 Q9 \[3\]
+> s19 42 Q9 \[3\]  
+> w19 43 Q9 \[2\]
 
-- Nuclei precess.
-- Precession is about direction of magnetic field.
+- **Nuclei precess**.
+- **Precession is about direction of magnetic field**.
 - frequency of precession depends on field strength.
 
 ### Explain the function of the small non-uniform magnetic field in MRI \[3\]
 > w18 42 Q10 \[3\]  
-> s19 42 Q9 \[2\]
+> s19 42 Q9 \[2\]  
+> w19 43 Q9 \[2\]
 
-> Write bold ones always.
+> Always write them all.
 
 - **Enables nuclei to be located.**
-- **Resonant frequency depends on magnetic field strength *at the point*.**
-- **Unique field strength at each point.**
-- Non-uniform field is accurately calibrated.
+- **Frequency of precession depends on magnetic field strength *at the point*.**
+- Unique field strength at each point.
 - Non-uniform field may be varied to enable detection in different positions.
 
 ### Explain the principles of the **generation** of `ultrasound waves` \[4\]
