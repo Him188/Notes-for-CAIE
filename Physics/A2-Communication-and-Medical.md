@@ -37,13 +37,16 @@
   - [Explain difference between X-ray images of bone and of muscle, referring to lightness of images \[2\]](#explain-difference-between-x-ray-images-of-bone-and-of-muscle-referring-to-lightness-of-images-2)
   - [Two causes of lack of sharpness of an X-ray image \[2\]](#two-causes-of-lack-of-sharpness-of-an-x-ray-image-2)
   - [Describe the functions of the two B-fields in MRI \[4\]](#describe-the-functions-of-the-two-b-fields-in-mri-4)
-  - [Explain the function of the non-uniform magnetic field in MRI \[3\]](#explain-the-function-of-the-non-uniform-magnetic-field-in-mri-3)
+  - [The function of the large uniform magnetic field in MRI \[3\]](#the-function-of-the-large-uniform-magnetic-field-in-mri-3)
+  - [Explain the function of the small non-uniform magnetic field in MRI \[3\]](#explain-the-function-of-the-small-non-uniform-magnetic-field-in-mri-3)
   - [Explain the principles of the **generation** of `ultrasound waves` \[4\]](#explain-the-principles-of-the-generation-of-ultrasound-waves-4)
   - [Explain the principles of the **detection** of `ultrasound waves` \[4\]](#explain-the-principles-of-the-detection-of-ultrasound-waves-4)
   - [Explain the principles of the **use** of `ultrasound waves` \[6\]](#explain-the-principles-of-the-use-of-ultrasound-waves-6)
   - [Why ultrasound use high frequency \[1\]](#why-ultrasound-use-high-frequency-1)
   - [Why ultrasound used in medical diagnosis is emitted in pulses \[2\]](#why-ultrasound-used-in-medical-diagnosis-is-emitted-in-pulses-2)
   - [Why little transmission of ultrasound waves from air into skin (specific acoustic impedance) \[3\]](#why-little-transmission-of-ultrasound-waves-from-air-into-skin-specific-acoustic-impedance-3)
+
+
 
 Telecommunication
 -----------------

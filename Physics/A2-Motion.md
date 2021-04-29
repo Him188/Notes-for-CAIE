@@ -3,12 +3,16 @@
 - [Circular Motion](#circular-motion)
   - [Define `radian` \[2\]](#define-radian-2)
   - [What is meant by `angular velocity` \[2\]](#what-is-meant-by-angular-velocity-2)
+  - [What is meant by `angular frequency` \[1\]](#what-is-meant-by-angular-frequency-1)
+  - [What is meant by `displacement` \[1\]](#what-is-meant-by-displacement-1)
 - [Gravitation](#gravitation)
   - [Define `gravitational potential` at a point \[2\]](#define-gravitational-potential-at-a-point-2)
   - [What is meant by a `gravitational field` \[2\]](#what-is-meant-by-a-gravitational-field-2)
   - [What is meant by a `line of gravitational force` \[1\]](#what-is-meant-by-a-line-of-gravitational-force-1)
+  - [What is meant by `gravitational force` \[1\]](#what-is-meant-by-gravitational-force-1)
   - [Why the gravitational field strength close to the Earth's surface is approximately constant \[3\]](#why-the-gravitational-field-strength-close-to-the-earths-surface-is-approximately-constant-3)
-  - [State `Newton's law of gravitation` \[2\] / \[3\]](#state-newtons-law-of-gravitation-2--3)
+  - [Why gravitational potential near a mass is always negative \[3\]](#why-gravitational-potential-near-a-mass-is-always-negative-3)
+  - [State `Newton's law of gravitation` \[2\]](#state-newtons-law-of-gravitation-2)
 - [Oscillations](#oscillations)
   - [Why peak frequency `f0` in `a-f` graphs \[2\]](#why-peak-frequency-f0-in-a-f-graphs-2)
   - [Define `Simple Harmonic Motion` \[2\]](#define-simple-harmonic-motion-2)
@@ -16,8 +20,13 @@
   - [Define `free oscillations` \[1\]](#define-free-oscillations-1)
   - [What is meant by `damping` \[2\]](#what-is-meant-by-damping-2)
   - [`Damping` for oscillating Magnet with coils \[5\]](#damping-for-oscillating-magnet-with-coils-5)
+  - [What is meant by `natural frequency` \[1\]](#what-is-meant-by-natural-frequency-1)
   - [What is meant by `resonance` \[2\]](#what-is-meant-by-resonance-2)
   - [Benefits and drawbacks of `resonance` \[2\]](#benefits-and-drawbacks-of-resonance-2)
+  - [Benefits \[1\]](#benefits-1)
+  - [Drawbacks \[1\]](#drawbacks-1)
+
+
 
 Circular Motion
 ---------------
