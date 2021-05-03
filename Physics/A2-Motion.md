@@ -146,4 +146,3 @@ Oscillations
 
 #### Drawbacks \[1\]
 - *Vibrating bridges*.
-

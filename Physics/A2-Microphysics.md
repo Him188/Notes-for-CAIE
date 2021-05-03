@@ -3,7 +3,6 @@
 - [Quantum Physics](#quantum-physics)
   - [State what is meant by `work function energy` \[2\]](#state-what-is-meant-by-work-function-energy-2)
   - [State what is meant by the `threshold frequency` \[2\]](#state-what-is-meant-by-the-threshold-frequency-2)
-  - [State what is meant by `infinite slew rate` \[1\]](#state-what-is-meant-by-infinite-slew-rate-1)
   - [What is meant by the `de Broglie wavelength` \[2\]](#what-is-meant-by-the-de-broglie-wavelength-2)
   - [State the de Broglie relation \[2\]](#state-the-de-broglie-relation-2)
   - [State what is meant by a `photon` \[3\]](#state-what-is-meant-by-a-photon-3)
@@ -404,4 +403,3 @@ Thermal Physics
   - ... heat input but no temperature change
 - - Temperature shows direction of heat transfer
   - ... from high to low regardless of objects
-

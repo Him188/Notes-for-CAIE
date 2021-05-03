@@ -319,6 +319,3 @@ Medical Physics
 - *Specific acoustic impedance*s of air and skin are very ***different***.
 - *Intensity reflection coefficient* depends on difference between acoustic impedance.
 - Most ultrasound reflected so little transmission.
-
-
-

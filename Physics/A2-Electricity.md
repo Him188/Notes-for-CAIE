@@ -49,6 +49,7 @@
   - [State properties of an `ideal operational amplifier` \[4\]](#state-properties-of-an-ideal-operational-amplifier-4)
   - [What is meant by `zero output inpedance` \[2\]](#what-is-meant-by-zero-output-inpedance-2)
   - [State what is meant by `infinite bandwidth` \[1\]](#state-what-is-meant-by-infinite-bandwidth-1)
+  - [State what is meant by `infinite slew rate` \[1\]](#state-what-is-meant-by-infinite-slew-rate-1)
   - [What is meant by (negative) `feedback` \[2\]](#what-is-meant-by-negative-feedback-2)
   - [State two effects of negative feedback on the gain of an amplifier \[2\]](#state-two-effects-of-negative-feedback-on-the-gain-of-an-amplifier-2)
   - [Benefits of feedback in an amplifier circuit \[2\]](#benefits-of-feedback-in-an-amplifier-circuit-2)
