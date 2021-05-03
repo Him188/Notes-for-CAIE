@@ -73,12 +73,6 @@ Quantum Physics
 - Minimum frequency for electron to be emitted
 - of electromagnetic radiation.
 
-### State what is meant by `infinite slew rate` \[1\]
-> w20 Q8 \[1\]  
-> m18 42 Q8 \[1\]
-
-- No time delay in change in output when input is changed.
-
 ### What is meant by the `de Broglie wavelength` \[2\]
 - wavelength of wave associated with a particle
 - ..., that is moving.

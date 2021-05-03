@@ -313,6 +313,12 @@ Direct Sensing
 
 - Gain is the same for all frequencies.
 
+### State what is meant by `infinite slew rate` \[1\]
+> w20 Q8 \[1\]  
+> m18 42 Q8 \[1\]
+
+- No time delay in change in output when input is changed.
+
 ### What is meant by (negative) `feedback` \[2\]
 > s18 42 Q7 \[2\]  
 > w17 42 Q7 \[2\]
