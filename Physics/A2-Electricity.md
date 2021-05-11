@@ -363,7 +363,7 @@ Direct Sensing
 - Output signal has same sign as input.
 
 ### Calculating gain
-> s18 42 Q7
+> s18 42 Q7  
 > s20 42 Q8
 
 ```math
