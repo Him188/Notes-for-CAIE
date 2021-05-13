@@ -33,6 +33,7 @@
 \usepackage{tikz}
 \usepackage{gauss}
 \usepackage{xcolor}
+\usepackage{blindtext}
 
 \usetikzlibrary{datavisualization.polar}
 
@@ -55,9 +56,9 @@
 \begin{document}
     \section{Binomial distribution}
 
-    \begin{displaymath}
+    \begin{math}
         X \sim \left( n, p \right)
-    \end{displaymath}
+    \end{math}
 
     \subsection{Conditions for binomial distribution}
 
@@ -68,14 +69,150 @@
         \item P is a constant
     \end{itemize}
 
-    \subsection{Convert $\geq p$ to $\leq 1-p$}
-    \begin{displaymath}
-        X \sim \left( n, p \right)
-    \end{displaymath}
-    \begin{displaymath}
-        Y \sim \left( n, 1 - p \right)
-    \end{displaymath}
-    \begin{displaymath}
-        P(X \geq a ) = P(Y \leq  n-a)
-    \end{displaymath}
+
+    \section{Poisson distribution}
+
+    \subsection{Conditions}
+    \begin{itemize}
+        \item single in space or time
+        \item independent of each other
+        \item at a constant rate
+    \end{itemize}
+
+
+    \section{PDF and CDF}
+
+    PDF is $f(x)$, CDF is $F(x)$
+
+    \subsection{mode}
+
+    Mode is the x value at which the PDF function has the greatest probability.
+
+    \subsection{mean}
+
+    \textit{Use formulae provided for PDF.}
+
+    \subsection{median}
+
+    \begin{math}
+        F(median)\,=\,0.5
+    \end{math}
+
+
+    \section{Skewness}
+
+    \begin{tabular}{|c|c|}
+        \hline symmetrical   & $mode = median = mean$ \\
+        \hline positive skew & $mode < median < mean$ \\
+        \hline negative skew & $mode > median > mean$ \\
+        \hline
+    \end{tabular}
+
+
+    \section{Approximation}
+
+    \subsection{Binomial to Poisson}
+
+    \begin{math}
+        X {\sim} B(n,p) \longrightarrow X {\sim} Po(np)
+    \end{math}
+
+    \subsection{Binomial to Normal}
+
+    \begin{math}
+        X {\sim} B(n,p) \longrightarrow X {\sim} N(np, npq)
+    \end{math}
+
+    \subsubsection{Conditions}
+
+    \begin{math}
+        \left\{
+        \begin{matrix}
+            np &>& 5 \\
+            nq &>& 5
+        \end{matrix}
+        \right.
+    \end{math}
+
+    \subsection{Poisson to Normal}
+
+    \begin{math}
+        X {\sim} Po(\lambda) \longrightarrow X {\sim} N(\lambda, \lambda)
+    \end{math}
+
+    \subsubsection{Conditions}
+
+    \begin{math}
+        \lambda > 10
+    \end{math}
+
+
+    \section{Sampling}
+
+    \subsection{Terms}
+
+    \subsubsection{population}
+
+    a collection of individual items.
+
+    \subsubsection{sample}
+
+    a selection of individual members or items from a population.
+
+    \subsubsection{finite population}
+
+    each individual member can be given a number.
+
+    \subsubsection{infinite population}
+
+    impossible to number each member.
+
+    \subsubsection{sampling unit}
+
+    an individual member of a population.
+
+    \subsubsection{sampling frame}
+    a list of sampling units used in practice to represent a population.
+
+    \subsubsection{statistic}
+
+    a quantity calculated solely from the observations in a sample.
+
+    \subsubsection{sampling distribution}
+
+    defined by giving all possible values of the statistic and the probability of each occurring.
+
+
+    \section{Hypothesis testing}
+
+    \subsection{Terms}
+
+    \subsubsection{hypothesis test}
+
+    \textbf{Hypothesis test} is a mathematical procedure to examine value of a population parameter proposed by the null hypothesis $H_0$, compared to the alternative hypothesis $H_1$.
+
+    \subsubsection{test statistic}
+
+    In a hypothesis test the evidence comes from a sample which is summarised in the form of a \textbf{test statistic}.
+
+    \subsubsection{critical region}
+
+    The range of values of a test statistic that would lead you to reject $H_0$.
+
+    \subsubsection{critical value}
+
+    The boundary value of a critical region.
+
+    \subsubsection{one-tailed test}
+
+    Looks either for an increase or for a decrease in a parameter, and has a single critical value.
+
+    \subsubsection{Two-tailed test}
+
+    Looks for both an increase and a decrease in a parameter, and has two critical values.
+
+    \subsubsection{actual significance level}
+
+    The probability of rejecting $H_0$.
+
 \end{document}
